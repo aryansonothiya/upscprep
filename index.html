@@ -1,7 +1,76 @@
 <!DOCTYPE html>
-<html>
-<body>
-    <h1>Welcome to My UPSC Blog</h1>
-    <p>Site is under construction. Automated content coming soon!</p>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily UPSC Editorial Portal</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <style>
+        body { font-family: 'Georgia', serif; background-color: #fdfdfd; }
+        .prose h1 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 2.25rem; font-weight: 800; color: #1e3a8a; margin-bottom: 1.5rem; line-height: 1.2; }
+        .prose h2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.5rem; font-weight: 700; color: #1e40af; margin-top: 2rem; margin-bottom: 1rem; }
+        .prose h3 { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1.25rem; font-weight: 600; color: #1f2937; margin-top: 1.5rem; }
+        .prose p { font-size: 1.125rem; line-height: 1.8; color: #2d3748; margin-bottom: 1.25rem; text-align: justify; }
+        .prose ul, .prose ol { margin-left: 1.5rem; margin-bottom: 1.25rem; list-style-type: disc; }
+        .prose li { font-size: 1.125rem; line-height: 1.7; color: #2d3748; margin-bottom: 0.5rem; }
+    </style>
+</head>
+<body class="text-gray-900 antialiased min-h-screen flex flex-col justify-between">
+
+    <nav class="bg-white border-b border-gray-200 py-5 shadow-sm">
+        <div class="max-w-3xl mx-auto px-4 flex justify-between items-center">
+            <a href="#" class="font-sans font-extrabold text-xl tracking-tight text-blue-950 uppercase">UPSC Daily Engine</a>
+            <span class="text-xs font-sans bg-blue-100 text-blue-800 font-semibold px-2.5 py-1 rounded">AI Automated</span>
+        </div>
+    </nav>
+
+    <main class="flex-grow max-w-3xl mx-auto px-4 py-10 w-full">
+        <div id="loading" class="text-center py-20 font-sans text-gray-500">
+            <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-900 mx-auto mb-4"></div>
+            Naya article load ho raha hai... Please wait.
+        </div>
+
+        <article id="content" class="prose max-w-none hidden bg-white p-6 md:p-10 shadow-sm border border-gray-100 rounded-xl">
+        </article>
+    </main>
+
+    <footer class="bg-gray-50 border-t border-gray-200 py-4 text-center text-sm font-sans text-gray-500">
+        &copy; 2026 UPSC Prep Portal. Automatically updated every morning.
+    </footer>
+
+    <script>
+        async function loadBlog() {
+            try {
+                // Same directory se content.md file fetch ho rahi hai
+                const response = await fetch('content.md?t=' + new Date().getTime()); // cache bypass karne ke liye timestamp
+                if (!response.ok) throw new Error('content.md file nahi mili');
+                
+                const markdownText = await response.text();
+                
+                // Marked.js library se raw text ko html format mein convert kiya
+                const htmlContent = marked.parse(markdownText);
+                
+                // Content ko article block mein inject kiya
+                document.getElementById('content').innerHTML = htmlContent;
+                
+                // UI update: Loading chhupao, content dikhao
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('content').classList.remove('hidden');
+            } catch (error) {
+                console.error(error);
+                document.getElementById('loading').innerHTML = `
+                    <p class="text-red-500 font-semibold">Article load nahi ho paya.</p>
+                    <p class="text-sm text-gray-400 mt-2">Check karein ki kya 'content.md' file successfully ban chuki hai.</p>
+                `;
+            }
+        }
+
+        // Page load hote hi data fetch shuru karo
+        window.onload = loadBlog;
+    </script>
 </body>
 </html>
