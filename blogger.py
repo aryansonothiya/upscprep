@@ -20,19 +20,29 @@ client = genai.Client(api_key=api_key)
 MODEL_NAME = "gemini-2.5-flash"
 
 
-def call_gemini_with_retry(contents, max_retries=5):
+def call_gemini_with_retry(contents, max_retries=6):
     for attempt in range(max_retries):
         try:
             print(f"Attempt {attempt + 1} chal raha hai...")
             return client.models.generate_content(model=MODEL_NAME, contents=contents)
         except errors.APIError as e:
-            if getattr(e, "code", None) == 429:
+            error_code = getattr(e, "code", None)
+            if error_code == 429:
                 wait_time = 30 + (attempt * 15)
                 print(f"Speed Limit lag gayi! {wait_time} seconds wait kar rahe hain... (Attempt {attempt + 1}/{max_retries})")
                 if attempt < max_retries - 1:
                     time.sleep(wait_time)
                 else:
                     print(f"{max_retries} baar try kiya par nahi hua.")
+                    raise e
+            elif error_code == 503:
+                # Google ke servers temporarily overloaded hain - yeh humari galti nahi hai
+                wait_time = 20 + (attempt * 10)
+                print(f"Google ke servers abhi busy hain (503). {wait_time} seconds wait kar rahe hain... (Attempt {attempt + 1}/{max_retries})")
+                if attempt < max_retries - 1:
+                    time.sleep(wait_time)
+                else:
+                    print(f"{max_retries} baar try kiya par server abhi bhi overloaded hai.")
                     raise e
             else:
                 # Auth error, bad model name, etc - retry se nahi sudhrega
