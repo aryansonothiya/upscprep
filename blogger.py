@@ -1,16 +1,26 @@
 import google.generativeai as genai
 import os
 import time
+from datetime import datetime
 from google.api_core import exceptions
 
-# 1. API Key Setup (GitHub Secrets se lega)
+# 1. Caching: Check karte hain ki kya aaj ka article pehle hi ban chuka hai?
+if os.path.exists("content.md"):
+    file_time = datetime.fromtimestamp(os.path.getmtime("content.md")).date()
+    today = datetime.today().date()
+    
+    if file_time == today:
+        print("Caching Check: Aaj ka article pehle hi ban chuka hai! API call bacha li gayi.")
+        exit(0) # Script yahin ruk jayegi, limit waste nahi hogi
+
+# 2. API Key Setup (GitHub Secrets se lega)
 api_key = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
 
-# 2. Model setup
+# 3. Model setup
 model = genai.GenerativeModel('gemini-3.5-flash')
 
-# 3. Tumhara "Smart Retry" Logic
+# 4. Tumhara "Smart Retry" Logic
 def call_gemini_with_retry(prompt, max_retries=3):
     for attempt in range(max_retries):
         try:
@@ -24,7 +34,7 @@ def call_gemini_with_retry(prompt, max_retries=3):
                 print("Teen baar try kiya par nahi hua.")
                 raise e
 
-# 4. Content Generate Karo
+# 5. Content Generate Karo
 topic = "Impact of AI in UPSC Civil Services Preparation"
 prompt = f"Write a detailed 500-word UPSC editorial style article on {topic}. Include headings, subheadings, and a conclusion."
 
@@ -32,7 +42,7 @@ try:
     print("Content generation shuru kar rahe hain...")
     response = call_gemini_with_retry(prompt)
     
-    # 5. File mein save karo
+    # 6. File mein save karo
     with open("content.md", "w", encoding="utf-8") as f:
         f.write(f"# {topic}\n\n")
         f.write(response.text)
