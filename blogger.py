@@ -1,7 +1,7 @@
-import google.generativeai as genai
+from google import genai
+from google.genai import errors
 import os
 import time
-from google.api_core import exceptions
 
 # 1. API Setup
 api_key = os.getenv("GEMINI_API_KEY")
@@ -9,26 +9,34 @@ if not api_key:
     print("ERROR: GEMINI_API_KEY secret nahi mila.")
     exit(1)
 
-genai.configure(api_key=api_key)
+client = genai.Client(api_key=api_key)
 
-# NOTE: gemini-1.5-flash aur gemini-1.0 models Google ne completely SHUT DOWN kar diye hain.
-# gemini-2.5-flash abhi active hai aur 20MB jaisi heavy PDFs ke liye bhi
-# same bada context window deta hai jo 1.5-flash deta tha.
-model = genai.GenerativeModel('gemini-2.5-flash')
+# NOTE: Purana google.generativeai package AQ. (auth) keys ko sahi se support nahi karta tha,
+# yahi tumhare "API_KEY_INVALID" error ki asli wajah thi - chahe key kitni bhi baar regenerate
+# karte. Ab naye google-genai SDK pe shift kar diya hai jo Google ke current docs ke mutabik
+# AQ. keys ke saath properly kaam karta hai.
+# Model: gemini-1.5-flash bhi shut down ho chuka hai, isliye gemini-2.5-flash use kar rahe hain
+# (20MB PDF ke liye Files API ka limit 50MB hai, toh yeh easily fit ho jayega).
+MODEL_NAME = "gemini-2.5-flash"
 
 
-def call_gemini_with_retry(prompt, file_obj=None, max_retries=3):
+def call_gemini_with_retry(contents, max_retries=5):
     for attempt in range(max_retries):
         try:
-            if file_obj:
-                return model.generate_content([file_obj, prompt])
+            print(f"Attempt {attempt + 1} chal raha hai...")
+            return client.models.generate_content(model=MODEL_NAME, contents=contents)
+        except errors.APIError as e:
+            if getattr(e, "code", None) == 429:
+                wait_time = 30 + (attempt * 15)
+                print(f"Speed Limit lag gayi! {wait_time} seconds wait kar rahe hain... (Attempt {attempt + 1}/{max_retries})")
+                if attempt < max_retries - 1:
+                    time.sleep(wait_time)
+                else:
+                    print(f"{max_retries} baar try kiya par nahi hua.")
+                    raise e
             else:
-                return model.generate_content(prompt)
-        except exceptions.ResourceExhausted as e:
-            print(f"Speed Limit! 30 seconds wait kar rahe hain...")
-            if attempt < max_retries - 1:
-                time.sleep(30)
-            else:
+                # Auth error, bad model name, etc - retry se nahi sudhrega
+                print(f"Koi alag error aaya jo rate-limit nahi hai: {e}")
                 raise e
 
 
@@ -62,36 +70,26 @@ Format the output STRICTLY using this Markdown structure. Use emojis, bold text 
 try:
     print("Content generation shuru kar rahe hain...")
 
-    # 3. PDF Upload aur SMART WAIT Logic
     if os.path.exists("newspaper.pdf"):
         print("Full Newspaper PDF detected! Uploading to Google servers...")
-        try:
-            uploaded_pdf = genai.upload_file("newspaper.pdf")
-        except exceptions.PermissionDenied as e:
-            print("\n--- API KEY ERROR ---")
-            print("Yeh upload step hi fail ho gaya, matlab key Google tak pahunch hi nahi rahi sahi se.")
-            print("Agar tumne abhi naya AQ. prefix wala key banaya hai AI Studio se, toh yeh")
-            print("filhaal kuch SDKs ke saath compatible nahi hai (Google ka known issue, June 2026).")
-            print("Cloud Console (console.cloud.google.com) se key banao aur check karo woh")
-            print("'AIzaSy...' se start ho rahi hai, 'AQ.' se nahi.")
-            print(f"Original error: {e}")
-            exit(1)
+        uploaded_pdf = client.files.upload(file="newspaper.pdf")
 
-        # Yahan script wait karegi jab tak Google PDF padh nahi leta
-        print("Google AI PDF ko process kar raha hai. Isme 30-60 seconds lag sakte hain...")
+        # Naye SDK mein file processing turant hoti hai upload ke andar hi for most files,
+        # lekin bade PDFs ke liye state check zaroor karte hain.
+        print("Google AI PDF ko process kar raha hai...")
         while uploaded_pdf.state.name == "PROCESSING":
             time.sleep(10)
-            uploaded_pdf = genai.get_file(uploaded_pdf.name)
+            uploaded_pdf = client.files.get(name=uploaded_pdf.name)
 
         if uploaded_pdf.state.name == "FAILED":
             print("Error: Google PDF ko process nahi kar paya. Format check karein.")
             exit(1)
 
         print("PDF successfully read! Ab notes extract ho rahe hain...")
-        response = call_gemini_with_retry(upsc_prompt, file_obj=uploaded_pdf)
+        response = call_gemini_with_retry([uploaded_pdf, upsc_prompt])
 
         # Cleanup
-        genai.delete_file(uploaded_pdf.name)
+        client.files.delete(name=uploaded_pdf.name)
 
     else:
         print("Koi PDF nahi mila. AI apni knowledge se topics generate kar raha hai...")
