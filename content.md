@@ -1,83 +1,99 @@
 # 📰 Daily UPSC Master-Brief
-
 ## 📝 The Hindu Editorial Analysis
 
-*   **Topic:** 💧 Water security as central for 'Viksit Bharat'
-*   **Context:** The article discusses India's efforts and challenges in achieving water security for its population, linking it to the broader vision of a developed India ('Viksit Bharat').
+*   **Topic:** 📊 **Health Data for Policy Action**
+*   **Context:** The editorial discusses the importance of actionable health data for public health planning and policy, highlighting that current data often leads to headlines but not always concrete action.
 *   **Key Takeaways:**
-    *   India faces a significant water crisis due to increasing population, rapid urbanization, industrialization, and climate change, leading to issues like groundwater depletion and pollution.
-    *   The government has launched initiatives like the **Jal Jeevan Mission (JJM)**, **Atal Bhujal Yojana**, and **PM Krishi Sinchayee Yojana** to address these challenges, focusing on household tap water connections, groundwater management, and irrigation efficiency.
-    *   While significant progress has been made (e.g., 75% rural households with tap water), achieving full water security requires a comprehensive approach including behavioral changes, community participation, and integrating traditional wisdom with modern technology.
-    *   Challenges remain in equitable distribution, quality monitoring, and sustainable use, necessitating a shift from a supply-side to a demand-side management approach.
+    *   Health data, such as the National Family Health Survey (NFHS) results, offers critical insights into various health metrics (e.g., nutrition, anaemia, obesity, hypertension).
+    *   While NFHS data is valuable, there's a need for timely and disaggregated data (e.g., by district) to enable effective planning and resource allocation at the local level.
+    *   Recommendations include creating a Third Platform (like a Public Health Data System), improving the integration of health data, and moving towards a more accountable and transparent public health policy.
+
+*   **Topic:** 🏦 **RBI's Evolving Fiscal Role**
+*   **Context:** The article examines the Reserve Bank of India's (RBI) record ₹2.87 lakh crore surplus transfer to the Union government for FY26, questioning its implications for central bank independence and fiscal federalism.
+*   **Key Takeaways:**
+    *   The significant surplus transfer, stemming from reserve management and foreign assets, provides fiscal space for the government without new taxes or borrowing.
+    *   This trend raises concerns about the RBI's increasing fiscal significance and its potential to act as a "fiscal instrument," blurring the lines of central bank independence.
+    *   A key issue is fiscal federalism: these transfers are non-tax revenue for the Union government and not part of the divisible pool shared with States, potentially contributing to fiscal centralisation.
+
+*   **Topic:** 💧 **Water Security for Viksit Bharat**
+*   **Context:** The piece highlights that water security is crucial for achieving the vision of 'Viksit Bharat' (Developed India), emphasizing the need for comprehensive and integrated water management strategies.
+*   **Key Takeaways:**
+    *   India faces significant water challenges, including declining groundwater levels, polluted rivers, and increasing demand for irrigation and urban consumption.
+    *   The article calls for a paradigm shift from water resource development to a holistic approach encompassing conservation, rainwater harvesting, efficient use, and community participation.
+    *   It stresses the importance of adopting a "whole of society" approach, integrating traditional wisdom with modern technology, and ensuring accountability to achieve equitable and sustainable water management.
 
 ## 🏛️ Polity & Governance
 
-*   **Current Issue:** ⚖️ **SC seeks Delhi Police reply on bail pleas of 'Indian Mujahideen' operatives**
+*   **Current Issue:** ⚖️ **Uniform Civil Code (UCC) in Madhya Pradesh**
 *   **Main Points:**
-    *   The Supreme Court has sought a response from the Delhi Police on bail applications filed by two alleged Indian Mujahideen operatives, Abdul Rehman and Kamran.
-    *   The case involves accusations under the Unlawful Activities (Prevention) Act and other charges related to being part of a terrorist gang and conspiring against India.
-    *   The Court noted the accused have been in custody for 12 years and questioned the pace of the trial proceedings, highlighting a concern about prolonged detention without conviction.
+    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a **UCC Bill** would be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24, 2026).
+    *   A six-member high-level committee formed in April is drafting the Bill, having toured various parts of the State.
+    *   The CM invited public suggestions on the UCC via a government portal earlier this month.
 
-*   **Current Issue:** 📚 **L-G orders audit of schools for POCSO compliance**
+*   **Current Issue:** 🏫 **POCSO Compliance Audit in Delhi Schools**
 *   **Main Points:**
-    *   The Lieutenant Governor of Delhi has ordered an audit of all schools in the National Capital Territory to ensure compliance with the **Protection of Children from Sexual Offences (POCSO) Act**.
-    *   The audit aims to verify the implementation of child protection policies, formation of internal complaints committees, and training of staff on POCSO guidelines.
-    *   The directive comes in response to reports of increasing instances of child sexual abuse and emphasizes the need for a "zero tolerance" approach to ensure safe environments for children.
+    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a **comprehensive citywide audit of all Delhi schools** to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
+    *   The audit aims to identify gaps in infrastructure, personnel, and reporting mechanisms to ensure child safety.
+    *   The L-G stressed a "zero-tolerance" approach towards non-compliance and ordered the audit to be completed by July 27, 2026.
 
-*   **Current Issue:** 🗳️ **UCC Bill to be tabled in Monsoon Session of M.P. Assembly in July**
+*   **Current Issue:** 📚 **Textbook Errors in Odisha**
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the **Uniform Civil Code (UCC)** would be introduced in the upcoming Monsoon Session of the State Legislative Assembly, scheduled for July 20-24.
-    *   A six-member high-level committee formed in April is working on the draft Bill after touring various parts of the State and has invited public suggestions.
-    *   The initiative follows similar moves by other BJP-ruled States like Uttarakhand and Gujarat, and aims to implement a common civil code across the State.
+    *   Odisha Chief Minister Mohan Charan Majhi directed **immediate corrective measures and action against officials responsible** for errors in school textbooks.
+    *   Teachers' and parents' associations claimed that recently issued textbooks for Classes 1 to 8 contain over 1,600 mistakes, including factual inaccuracies and mislabeled images.
+    *   A three-member panel will be constituted to probe the matter and recommend action.
 
-*   **Current Issue:** ⚔️ **Manipur Governor discusses security situation with Shah**
+*   **Current Issue:** 🗳️ **Karnataka Legislative Council Election**
 *   **Main Points:**
-    *   Manipur Governor Anusuiya Uikey met Union Home Minister Amit Shah to discuss the prevailing security situation in the state.
-    *   The discussion focused on steps taken to ensure peace and stability, addressing issues arising from ethnic violence, and the deployment of security forces.
-    *   The meeting comes after continued reports of unrest and violence in various parts of Manipur, including incidents of injured Kukis being shifted from hospitals after protests.
+    *   The stage is set for polls to **seven Legislative Council seats** in Karnataka, with parties gathering their legislators for training ahead of the anticipated voting.
+    *   The Congress is expected to win four seats, the BJP two, while the seventh seat is a battle between Congress and JD(S).
+    *   The election is expected to give the Congress a majority in the Upper House.
 
 ## 🌍 Geography & Environment
 
-*   **Current Issue:** 🚧 **Dhaka's new Padma barrage will reshape water power in the region**
+*   **Current Issue:** 🌊 **Padma Barrage Project in Bangladesh**
 *   **Main Points:**
-    *   Bangladesh is undertaking the construction of a new 1.80-km barrage on the Padma river (Ganga in India) in the upstream region of Farakka, West Bengal.
-    *   The project aims to improve water supply for irrigation and power generation, providing clean energy to up to 150,000 households and benefiting millions in Bangladesh.
-    *   India has expressed concerns about the potential impact on water availability for its downstream areas during the lean season, emphasizing the need for a holistic approach to river basin management between the two countries.
+    *   Bangladesh is planning a **new Padma barrage** 180 km downstream of the Farakka Barrage in India, aimed at reshaping water power in the region.
+    *   The project seeks to store 2.9 billion cubic meters of water, generate 2,000 MW of electricity, and reduce siltation in the Padma.
+    *   The project is crucial for Bangladesh to manage water resources, especially during the dry season, and ensure environmental and economic stability for its population, though it raises concerns about regional water sharing.
 
-*   **Current Issue:** 🌌 **The universe's expansion still accelerating: researchers**
+*   **Current Issue:** 🌿 **Compressed Biogas (CBG) Blending Target**
 *   **Main Points:**
-    *   A new study from The Hindu Group (THG) Research Foundation has reaffirmed that the universe's expansion is not only ongoing but also accelerating.
-    *   The findings are based on an analysis of over 2,900 Type Ia supernovae, which serve as "standard candles" for measuring cosmic distances.
-    *   This research supports the existence of **dark energy**, a mysterious force believed to be responsible for the accelerating expansion, and refines the estimated age of the universe to 13.8 billion years.
+    *   India is on track to meet its goal of **3% Compressed Biogas (CBG) blending** with natural gas for FY27.
+    *   Current blending stands at 0.04% in May 2026, with 224 CBG plants operational.
+    *   The government has set a target of 5,000 CBG plants by 2029-30, highlighting efforts towards renewable energy and reducing reliance on fossil fuels.
 
 ## 🌐 International Relations (IR)
 
-*   **Current Issue:** 🤝 **India, U.K. announce July 15 as trade deal implementation date**
+*   **Current Issue:** 🤝 **India-U.S. Bilateral Meeting and Seafarers' Safety**
 *   **Main Points:**
-    *   India and the United Kingdom have confirmed that the **Free Trade Agreement (FTA)** will be implemented from July 15, following bilateral negotiations.
-    *   The agreement aims to eliminate duties on 70% of U.K. exports to India and 98% of Indian exports to the U.K.
-    *   It is expected to boost bilateral trade, create jobs, and enhance cooperation across various sectors, contributing to economic growth and stronger strategic partnership.
+    *   Prime Minister Narendra Modi met U.S. President Trump on the sidelines of the G7 Summit in Evian, France, raising the issue of the **safety of Indian seafarers**, particularly in the Strait of Hormuz.
+    *   Modi commended Trump's efforts to restore peace in West Asia and stressed the importance of keeping the Strait of Hormuz open for global trade.
+    *   Trump also indicated that the U.S. and India are "very close" to finalising a **trade deal**, calling Modi a "very tough" negotiator.
 
-*   **Current Issue:** 🚢 **Peace deal: cautious Indian shipowners seek govt. help**
-*   **Context:** Following reports of a peace deal between the U.S. and Iran, Indian shipowners are cautiously optimistic but seek government guarantees for resuming trade.
+*   **Current Issue:** ☢️ **Iran-U.S. Framework Deal**
 *   **Main Points:**
-    *   Indian shipowners are facing challenges due to high insurance costs and banking restrictions on voyages to Iran, despite India being a major importer of Iranian oil.
-    *   A U.S.-Iran deal could potentially remove restrictions on shipping, banking, and insurance, making trade with Iran viable again.
-    *   However, shipowners are looking for explicit assurances and support from the Indian government to mitigate risks and ensure smooth operations if trade resumes at full scale.
+    *   A 14-point framework agreement between Tehran and Washington, expected to be signed in Geneva, outlines Iran's pledge never to produce nuclear weapons and maintaining a status quo on its nuclear programme.
+    *   The U.S. has agreed to **facilitate the release of frozen Iranian assets** and lift sanctions on Iran's products and services, including crude and banking.
+    *   Iran, in turn, pledges to restore pre-war traffic through the Strait of Hormuz and down-blend its highly enriched uranium under IAEA supervision.
 
-*   **Current Issue:** 🌍 **Putin hosts ASEAN leaders as West mounts pressure on Ukraine war**
+*   **Current Issue:** 🇮🇳🇬🇧 **India-U.K. Trade Deal**
 *   **Main Points:**
-    *   Russian President Vladimir Putin hosted leaders from the Association of Southeast Asian Nations (ASEAN) at a summit in Sochi.
-    *   The meeting focused on strengthening economic, security, and cultural ties between Russia and ASEAN, amidst Western pressure on Moscow over the Ukraine war.
-    *   Putin highlighted Russia's commitment to a multi-polar world and fostering cooperation in energy, technology, and defense sectors with ASEAN members.
+    *   The **India-U.K. trade deal** is set to take effect from July 15, 2026, marking a significant step in bilateral economic relations.
+    *   This agreement, which had been in negotiations, is expected to boost trade and investment between the two countries.
+    *   The resolution of differences and the finalisation of the deal underscore strengthening economic ties and mutual confidence.
 
-*   **Current Issue:** 🚢 **U.S.-Iran deal could remove restrictions on tankers; unlock banking, insurance access**
+*   **Current Issue:** 🇷🇺🇮🇳 **India-Russia Logistics Support Agreement (RELOS)**
 *   **Main Points:**
-    *   Reports suggest a framework deal between the U.S. and Iran could lead to the removal of restrictions on Iranian oil tankers, unblocking banking channels, and easing access to insurance for maritime trade.
-    *   The potential agreement is expected to significantly impact global oil markets and allow Iran to increase its crude oil exports.
-    *   This development would also facilitate broader economic engagement between Iran and other countries, including India, which has historically been a major energy partner for Iran.
+    *   The India-Russia bilateral Logistics Support Agreement (RELOS), operationalised in January this year, defines procedures for supporting military formations, port calls of warships, and use of airspace/airfield facilities by military aircraft of both countries.
+    *   The agreement simplifies administrative procedures for joint exercises, training, port and repair services, and medical support.
+    *   It allows for a maximum of 3,000 troops and access to military facilities, including in the Arctic, but does not provide for permanent basing of assets or personnel.
 
 ## 🏏 Sports & Miscellaneous
 
-*   **Highlight:** 🏏 **India-A all but confirms final berth in tri-series**
-    *   India-A defeated Afghanistan-A by 101 runs, with Tilak Varma and Kumar Kushagra scoring crucial half-centuries. Nishant Sindhu's four-wicket haul secured the win, taking India-A to the top of the points table.
+*   **Highlight:** ⚽ **Messi's Record-Breaking Performance at World Cup**
+    *   Lionel Messi scored a dazzling hat-trick for Argentina against Algeria, equalling Miroslav Klose's all-time record of 16 goals at World Cups.
+    *   He also became the first player to feature in six World Cup tournaments and the oldest to perform a hat-trick in the quadrennial event (38 years, 357 days).
+
+*   **Highlight:** 🏏 **Deepti Sharma's Stellar Return**
+    *   Indian off-spinner Deepti Sharma has rediscovered her form, vaulting back to become the world's highest wicket-taker in T20Is.
+    *   She achieved a match-winning five-wicket haul against Pakistan in the Women's T20 World Cup, her second consecutive five-for in ICC World Cup matches across formats.
