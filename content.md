@@ -1,87 +1,35 @@
 # 📰 Daily UPSC Master-Brief
 
 ## 📝 The Hindu Editorial Analysis
-
-*   **Topic:** 🏦 **RBI's Growing Fiscal Role & Independence Concerns**
-*   **Context:** The Reserve Bank of India (RBI) approved a record ₹2.87 lakh crore surplus transfer to the Union government for FY26.
+*   **Topic:** 🏦 RBI's Evolving Fiscal Role & Central Bank Independence
+*   **Context:** The Reserve Bank of India (RBI) recently approved a record surplus transfer of ₹2.87 lakh crore to the Union government for FY26. This move has ignited discussions about the central bank's evolving role and its implications for fiscal policy and federalism.
 *   **Key Takeaways:**
-    *   This significant transfer, derived from earnings in reserve management and foreign assets, boosts government finances, raising questions about the **RBI's independence**.
-    *   It highlights a shift towards **fiscal centralisation**, as these transfers are not part of the divisible pool of income tax or GST revenues shared with States.
-    *   The RBI's role is evolving from a guardian of monetary stability to an increasingly important source of **fiscal capacity**, blurring the lines between monetary institutions and fiscal outcomes.
-
-*   **Topic:** 🤝 **India-Russia Logistics Support Agreement (RELOS)**
-*   **Context:** The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia, signed in 2025, has been operationalized since January this year.
-*   **Key Takeaways:**
-    *   RELOS defines procedures for **reciprocal logistic support**, including supplies, repair, and fuel, for activities like joint exercises, training, port calls, and Humanitarian Assistance and Disaster Relief (HADR) missions.
-    *   It permits a maximum of **3,000 troops** for mutually agreed engagements, explicitly stating it **does not allow for permanent basing** of assets or personnel.
-    *   An important aspect is the access it grants India to **Russian military facilities in the Arctic**, signaling deepening cooperation in new strategic regions.
+    *   **Shift in RBI's Role:** The RBI's balance sheet has grown significantly, and its earnings from reserve management and foreign asset transactions are contributing increasingly to government finances, blurring the lines between monetary policy and fiscal support.
+    *   **Fiscal Centralisation:** These large transfers, being non-tax revenue, are a gain for the Union government and not part of the divisible pool for States, raising concerns about increasing fiscal centralisation and its impact on States' financial autonomy and federal balance.
+    *   **Central Bank Independence:** The increasing fiscal significance of RBI's actions prompts questions about its institutional distance from government fiscal compulsions, which is crucial for maintaining its credibility and independence.
+    *   **Management of Reserves:** While RBI's reserve management decisions (e.g., gold sales, foreign currency assets) are standard, their substantial fiscal impact means these are no longer just monetary stability decisions but also have broader economic consequences.
 
 ## 🏛️ Polity & Governance
-
-*   **Current Issue:** ⚖️ **Uniform Civil Code (UCC) Bill in Madhya Pradesh**
+*   **Current Issue:** 🏫 Audit of Delhi Schools for POCSO Compliance & Upcoming UCC Bill in MP
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister announced that a Bill on the **UCC would be introduced** in the upcoming Monsoon Session of the Legislative Assembly (July 20-24).
-    *   A six-member high-level committee has been working on the draft Bill, and public suggestions were invited earlier this month.
-
-*   **Current Issue:** 🏛️ **AIADMK MLAs Disqualification Proceedings**
-*   **Main Points:**
-    *   Four former AIADMK MLAs, facing disqualification proceedings for defying the party whip and subsequently joining the Tamilaga Vettri Kazhagam (TVK), have submitted their **written responses to the Tamil Nadu Assembly Speaker**.
-    *   The issue involves the Speaker's role in **anti-defection law** and the challenge regarding the "meaningful inquiry" before accepting resignations, which has been brought before the Madras High Court.
-
-*   **Current Issue:** 🧒 **POCSO Compliance Audit in Delhi Schools**
-*   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive **citywide audit of all Delhi schools** to assess their compliance with the provisions of the **Protection of Children from Sexual Offences (POCSO) Act**.
-
-*   **Current Issue:** ✊ **Protests Against New Jobs Act (VB-GRAM G)**
-*   **Main Points:**
-    *   The NREGA Sangharsh Morcha and other rural worker unions announced an indefinite protest from July 1, demanding the **repeal of the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-GRAM G) scheme**.
-    *   They argue the new scheme, which replaces **MGNREGA**, falls short on promised work days (claiming only 42 days against 125) and places an unprecedented financial burden on States.
-
-*   **Current Issue:** 📜 **Nicobarese Tribal Councils Oppose Draft Election Rules**
-*   **Main Points:**
-    *   Tribal councils from three Nicobarese island groups have written to the administration **rejecting proposed election rules** for their self-governance system.
-    *   They fear that the new system would introduce "election rivalry, division, and conflict" and interfere with their **traditional, consensus-based ways** of governance.
+    *   **POCSO Compliance Audit:** The Lieutenant-Governor (L-G) of Delhi has ordered a comprehensive citywide audit of schools to assess compliance with the provisions of the **Protection of Children from Sexual Offences (POCSO) Act**. This aims to enhance child safety and address concerns regarding the protection of minors in educational institutions.
+    *   **UCC Bill in Madhya Pradesh:** Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the **Uniform Civil Code (UCC)** would be introduced in the upcoming Monsoon Session of the Legislative Assembly, slated for July. This move aligns with BJP-ruled states pushing for UCC implementation, drawing attention to the legislative process and public consultation efforts.
 
 ## 🌍 Geography & Environment
-
-*   **Current Issue:** 💧 **Bangladesh's New Padma Barrage Project & Regional Water Dynamics**
+*   **Current Issue:** 💧 Dhaka's New Padma Barrage & Transboundary Water Issues
 *   **Main Points:**
-    *   Bangladesh has signed off on a new 2.1-km **Padma barrage** to control the Padma river (Ganga in Bangladesh) and address seasonal water scarcity.
-    *   This project, 180 km downstream of India's Farakka barrage, raises concerns about its impact on the **Ganga river's character and ecology**, including increased salinity, reduced silt flow, and impacts on livelihoods in the Sundarbans.
-    *   Experts suggest the project's environmental consequences and geopolitical implications (e.g., potential Chinese involvement, India's scepticism) make cross-country planning and dialogue crucial.
-
-*   **Current Issue:** 🥔 **Rising Prices of Essential Commodities & Farmer Distress**
-*   **Main Points:**
-    *   Prices of essential commodities, particularly **tomatoes, onions, and potatoes**, have significantly increased across India in the past week.
-    *   Despite the retail price surge, farmers in potato-growing States like Uttar Pradesh and Bihar are reportedly receiving **very low returns** (as little as ₹2-3 per kg), highlighting a disconnect between producer and consumer prices.
+    *   **Padma Barrage Project:** Bangladesh has signed off on a new 2.1-km Padma barrage to control the Padma river (Ganga in Bangladesh), aiming to address seasonal water scarcity and store 2,900 million cubic meters of water for 6.5 crore people.
+    *   **Location & Treaty Implications:** The barrage will be 180 km downstream of India's Farakka barrage. Bangladesh has blamed Farakka for water scarcity, and this new project, estimated at Tk 50,443 crore, raises questions about the 1996 Ganges Water Treaty (set to expire in Dec 2026) and its effectiveness in addressing unpredictable flows.
+    *   **Environmental Concerns:** Experts warn of considerable environmental costs, including altered river ecology, reduced groundwater recharge, increased salinity, and impacts on ecosystems like the Sundarbans and local livelihoods (fisherfolk). The project may exacerbate sedimentation and flooding during monsoons.
+    *   **Regional Geopolitics:** The dam-building spree in South Asia, including China's large dam on the Brahmaputra, and Bangladesh's potential reliance on China for engineering, adds a geopolitical dimension, especially with India's skepticism towards Bangladesh's new administration.
 
 ## 🌐 International Relations (IR)
-
-*   **Current Issue:** 🇺🇸🇮🇳 **Modi-Trump Bilateral Meet at G7 Summit**
+*   **Current Issue:** 🤝 India-Russia Logistics Agreement (RELOS) & Diplomatic Engagements
 *   **Main Points:**
-    *   Prime Minister Modi raised the issue of **safety of Indian seafarers** (including in the Strait of Hormuz) with U.S. President Trump during their G7 meeting in Evian, France.
-    *   PM Modi commended Trump's efforts to restore peace in **West Asia** and stressed the importance of keeping the **Strait of Hormuz open** for global trade.
-    *   The leaders acknowledged being "very close" to finalizing a **trade deal** between India and the U.S.
-
-*   **Current Issue:** 🇮🇷🇺🇸 **Iran-U.S. Framework Deal on Nuclear Pledge & Financial Relief**
-*   **Main Points:**
-    *   A 14-point framework agreement between Tehran and Washington outlines Iran's pledge **never to produce nuclear weapons** and to down-blend its highly enriched uranium under supervision.
-    *   The U.S. has agreed to facilitate the release of **frozen Iranian assets** and create a plan for Iran's economic development (involving $300 billion), contingent on progress in negotiations for a final agreement. The deal also includes lifting sanctions and naval blockade.
-
-*   **Current Issue:** 🇬🇧🇮🇳 **India-U.K. Trade Deal Implementation**
-*   **Main Points:**
-    *   The **India-U.K. trade deal** is set to take effect from **July 15**, marking a significant development in bilateral economic relations.
-
-## 🔬 Science & Technology
-
-*   **Current Issue:** 🔭 **Universe's Expansion Still Accelerating**
-*   **Main Points:**
-    *   New research confirms that the **universe is still expanding at an accelerated rate**, driven by **dark energy**.
-    *   The study used data from **Type Ia supernovae** (exploding stars) to calculate vast cosmic distances, rebutting previous claims that the expansion was slowing.
-
-*   **Highlight:** 🌾 **Pan-Genome Genic SNP Chip of Wheat** technology developed by ICAR - National Bureau of Plant Genetic Resources (NBPGR) is available for licensing.
+    *   **India-Russia RELOS:** The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia was operationalized in January, defining procedures for supporting military formations, port calls, and use of airbase/airfield facilities. It is similar to LSAs India has with other nations and clarifies that it **does not allow for permanent basing of troops**.
+    *   **Modi-Trump Meet:** PM Modi met US President Trump on the sidelines of the G7 Summit, raising concerns about the safety of Indian seafarers (following a US strike off Oman). They also discussed trade, energy, defence, and technology cooperation, with Trump praising Modi and the strong India-US relationship.
+    *   **Iran-US Framework Deal:** A 14-point framework agreement between Iran and the US outlines a nuclear pledge and financial relief, with the US agreeing to facilitate the release of frozen Iranian assets and lift sanctions, contingent on progress towards a final agreement. Iran has pledged not to produce nuclear weapons.
+    *   **India-UK Trade Deal:** The India-U.K. trade deal is set to take effect from July 15, signifying progress in bilateral economic relations and further strengthening trade ties.
 
 ## 🏏 Sports & Miscellaneous
-
-*   **Highlight:** ⚽ **Lionel Messi** scored a dazzling **hat-trick** for Argentina against Algeria, equaling Miroslav Klose's all-time record of 16 goals at the World Cup and becoming the first player to feature in six tournaments.
-*   **Highlight:** 🏊 **Srihari Nataraj** broke his own seven-year-old men's 50m backstroke record at the National aquatics in Ahmedabad, clocking 25.21 in heats.
+*   **Highlight:** ⚽ The World Cup analysis highlights the growing trend of **sportswashing** and the intertwining of sports with politics and economic interests.
