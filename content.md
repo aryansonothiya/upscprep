@@ -1,84 +1,41 @@
 # 📰 Daily UPSC Master-Brief
 ## 📝 The Hindu Editorial Analysis
-
-*   **Topic 1: 🏦 The RBI's Evolving Fiscal Role and Central Bank Independence**
-    *   **Context:** The Reserve Bank of India (RBI) recently approved a record ₹2.87 lakh crore surplus transfer to the Union government for FY26. This significant transfer has sparked a discussion about the RBI's increasingly fiscal role and its implications for monetary stability and federal fiscal architecture.
-    *   **Key Takeaways:**
-        *   **Record Transfer:** The transfer marks a record high, significantly exceeding previous years, indicating a structural shift in the RBI's financial contributions to the government.
-        *   **Fiscal Space:** These transfers create fiscal space for the government without relying on new taxation or borrowing, with the latest sum being larger than the annual budgets of several Indian States.
-        *   **Source of Surplus:** The surplus primarily stems from gains on foreign assets, foreign exchange transactions, and interest earned on securities holdings, raising questions about the primary objective of reserve management decisions.
-        *   **Federalism Concerns:** These transfers are considered non-tax revenue for the Union government and do not fall into the divisible pool shared with States, indirectly contributing to fiscal centralisation.
-        *   **Independence Debate:** The growing financial reliance on the RBI and the intertwining of monetary and fiscal outcomes raise important questions regarding the central bank's operational autonomy and institutional distance from governmental fiscal pressures.
-
-*   **Topic 2: 🤝 Decoding the India-Russia Logistics Agreement (RELOS)**
-    *   **Context:** The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia, signed in February 2025 and ratified in December 2025, became operational in January 2026. This agreement outlines a framework for military cooperation.
-    *   **Key Takeaways:**
-        *   **Administrative Framework:** RELOS standardises procedures for reciprocal logistic support, including port calls for warships, use of airspace and airfield facilities for military aircraft, and support during joint exercises, training, and Humanitarian Assistance and Disaster Relief (HADR) missions.
-        *   **No Permanent Basing:** Crucially, the agreement explicitly states that it does not provide for the permanent basing of troops or assets on each other's territory, similar to India's LSAs with other nations.
-        *   **Arctic Access:** A significant strategic aspect of RELOS is the access it grants India to Russian military facilities in the Arctic, fostering cooperation in a region gaining importance due to new navigation routes from global warming.
-        *   **Enhanced Cooperation:** It aims to simplify administrative procedures and reduce bureaucracy, thereby enhancing military-to-military engagement and defence cooperation.
+*   **Topic:** 📊 Data Must Drive Action, Not Just Headlines
+*   **Context:** The editorial highlights the critical need for timely, reliable, and transparent data for effective policy-making, especially in public health. It critiques the sporadic release of data, such as from the National Family Health Survey (NFHS), and the challenges in data collection and use by states.
+*   **Key Takeaways:**
+    *   The delay and infrequency of releasing crucial data, like NFHS 6, hinder evidence-based policy formulation, leading to decisions based on incomplete or outdated information.
+    *   There's a significant gap in real-time, disaggregated data, particularly at sub-state and district levels, essential for targeted interventions and assessing policy impact.
+    *   **Fiscal centralisation** and the current framework of **RBI surplus transfers** (as discussed in 'Text & Context') indirectly impact states' capacity to invest in data collection and analysis, further widening data gaps.
+    *   Robust data systems are crucial for accountability, transparency, and effective monitoring of development programs, extending beyond just public health to areas like child nutrition, education, and women's empowerment.
 
 ## 🏛️ Polity & Governance
-
-*   **Current Issue 1: 📝 Uniform Civil Code (UCC) in Madhya Pradesh**
-    *   **Main Points:**
-        *   Madhya Pradesh Chief Minister Mohan Yadav announced plans to introduce a Bill on the **Uniform Civil Code (UCC)** in the upcoming Monsoon Session of the State Legislative Assembly (July 20-24).
-        *   A six-member high-level committee, formed in April, is currently drafting the Bill.
-        *   The CM has invited public suggestions on a government portal, expressing hope that the Bill will be passed within the same session.
-
-*   **Current Issue 2: ⚖️ Anti-Defection Law and Speaker's Discretion**
-    *   **Main Points:**
-        *   **Sena (UBT) Split:** Amidst speculation of a split within the Shiv Sena (UBT), the party's parliamentary board met and its leaders approached the Lok Sabha Speaker seeking exclusive recognition as the authorised faction to prevent defection by reportedly six MPs.
-        *   **AIADMK Disqualification Cases:** The Tamil Nadu Assembly Speaker received written responses from four former AIADMK MLAs facing disqualification proceedings for defying the party whip and voting against the government. The AIADMK whip has challenged the Speaker's "remarkable haste" in accepting their resignations, alleging it lacked "meaningful inquiry."
-
-*   **Current Issue 3: 💻 SC's Stern Stance on Cyberfraud**
-    *   **Main Points:**
-        *   The Supreme Court denied bail to an individual accused in multiple cyberfraud cases, likening cyberfraudsters to "parasites" preying on citizens.
-        *   A Bench led by CJI Surya Kant called for **sterner legislation** and firm action, asserting that the interests of society are better served when such offenders remain in custody.
-        *   The court highlighted a pattern where cyberfraud accused commit offenses in one State and relocate to avoid detection and arrest.
+*   **Current Issue:** 📚 Audit of Delhi Schools for POCSO Compliance & Errors in Textbooks
+*   **Main Points:**
+    *   **L-G Taranjit Singh Sandhu** has ordered a comprehensive citywide audit of all Delhi schools to ensure compliance with the **Protection of Children from Sexual Offences (POCSO) Act**. This aims to enhance child safety and address potential vulnerabilities in educational institutions.
+    *   In Odisha, **Chief Minister Mohan Charan Majhi** ordered immediate corrective measures and action against officials responsible for **1,678 mistakes** found in Class 1 to 8 school textbooks, including factual errors and inappropriate images.
+    *   The **Supreme Court** is set to review allegations of its own Registry misplacing case records, highlighting concerns about administrative efficiency and integrity within the judiciary.
+    *   A High Court in Karnataka declared the arrest of directors from Gameskraft Technologies Pvt. Ltd. by the **Enforcement Directorate (ED)** as illegal, citing a lack of summons issuance under Section 50 of the PMLA, emphasizing judicial oversight on investigative agency procedures.
 
 ## 🌍 Geography & Environment
-
-*   **Current Issue: 💧 Bangladesh's Padma Barrage and Transboundary Rivers**
-    *   **Main Points:**
-        *   Bangladesh has initiated a new 2.1-km Padma barrage project to manage the Padma river (known as the Ganga in Bangladesh) and mitigate seasonal water scarcity.
-        *   The project, located 180 km downstream of India's Farakka barrage, is designed to store 2,900 million cubic metres of water for 6.5 crore people.
-        *   **Environmental Concerns:** Experts warn of significant adverse impacts, including altered river ecology, reduced groundwater recharge, increased salinity in the Sundarbans region, and threats to the livelihoods of fisherfolk due to changes in sediment and freshwater flow.
-        *   **Bilateral Implications:** This project underscores ongoing India-Bangladesh disputes over transboundary river water sharing, particularly concerning the Ganga (Padma) and Teesta rivers, with Bangladesh perceiving India's Farakka barrage as a major impediment to its water security.
+*   **Current Issue:** 💧 India-Bangladesh Water Sharing and New Padma Barrage
+*   **Main Points:**
+    *   Bangladesh has signed off on the construction of a **new Padma barrage** (on the Ganga river in Bangladesh) to control water flow and address seasonal scarcity. This project, located 180 km downstream of India's Farakka barrage, is estimated to cost ₹39,170 crore.
+    *   The initiative stems from Bangladesh's concerns over the **Farakka barrage's impact** on its water resources and the unmet **Teesta River Treaty**.
+    *   Experts warn of potential **adverse environmental consequences**, including reduced groundwater recharge, increased salinity, riverbank erosion, and impacts on the Sundarbans ecosystem. They suggest smaller check-dams as a more ecologically sound alternative.
+    *   The project also carries **geopolitical implications**, as Bangladesh's potential reliance on China for engineering resources could make India uncomfortable, especially given its own scepticism towards Bangladesh's new administration.
 
 ## 🌐 International Relations (IR)
-
-*   **Current Issue 1: 🇮🇳🇺🇸 Modi-Trump Meeting: Seafarers' Safety and Trade Deal**
-    *   **Main Points:**
-        *   Prime Minister Narendra Modi met U.S. President Trump at the G7 Summit in France, raising concerns about the safety of Indian seafarers in global maritime routes, especially after a recent U.S. strike off Oman that killed three Indian sailors.
-        *   The leaders reviewed bilateral cooperation across trade, energy, defence, technology, and people-to-people ties.
-        *   President Trump expressed optimism about finalising a "very close" trade deal with India, despite previous challenges in bilateral trade negotiations.
-
-*   **Current Issue 2: 🇮🇷🇺🇸 Iran-U.S. Nuclear Framework Deal Takes Shape**
-    *   **Main Points:**
-        *   A 14-point framework agreement has been reached between Iran and the U.S. regarding Iran's nuclear program and broader regional issues, with a signing expected soon in Geneva.
-        *   **Iran's Pledges:** Iran has committed to never producing nuclear weapons and maintaining a status quo on its nuclear program, including down-blending highly enriched uranium under IAEA supervision.
-        *   **U.S. Concessions:** The U.S. agreed to facilitate the release of frozen Iranian assets, lift sanctions on Iranian crude oil, petrochemical products, banking, and naval blockade, and withdraw forces from "surrounding areas."
-        *   **Economic Relief:** The deal includes a plan for Iran's economic development, involving $300 billion, and access to frozen assets for reconstruction efforts.
-
-*   **Current Issue 3: 🇬🇧🇮🇳 India-U.K. Free Trade Agreement Effective July 15**
-    *   **Main Points:**
-        *   The India-U.K. Free Trade Agreement (FTA) is scheduled to come into effect from July 15, following its signing in London.
-        *   The agreement aims to provide greater market access for Indian products and services in the U.K. through tariff reductions.
-        *   Implementation will occur in two phases, with the second phase beginning on September 1, covering provisions for services, digital trade, intellectual property, and investment facilitation.
-
-## 🔬 Science & Technology
-
-*   **Current Issue 1: 🔭 Universe's Accelerated Expansion Confirmed**
-    *   **Main Points:**
-        *   New research, based on data from Type Ia supernovae, has reconfirmed that the universe is expanding at an accelerated rate, thereby supporting the theory of **dark energy**.
-        *   This finding challenges a 2025 study that had concluded the cosmic expansion was no longer speeding up, reinforcing the current fundamental understanding of cosmology.
-
-*   **Current Issue 2: ✈️ Full Body Scanners on Trial at Indian Airports**
-    *   **Main Points:**
-        *   Full body scanners are currently undergoing trials at major airports in Delhi, Bengaluru, Hyderabad, and Kochi, with plans for deployment in Srinagar, Jammu, and Ayodhya next.
-        *   The Bureau of Civil Aviation Security (BCAS) aims to enhance security by detecting concealed metallic and non-metallic items, thereby reducing the need for physical frisking and streamlining the passenger experience.
+*   **Current Issue:** 🤝 U.S.-Iran Deal & India's Geopolitical Engagements
+*   **Main Points:**
+    *   A 14-point **Memorandum of Understanding (MoU)** between Iran and the U.S. has been drafted, outlining a **nuclear pledge** from Iran and **financial relief** from the U.S. This deal is expected to be signed soon, potentially on Friday.
+    *   The agreement includes provisions for the U.S. to lift its naval blockade and **sanctions on Iranian oil exports, banking, and insurance services**, potentially removing restrictions on tankers transiting the **Strait of Hormuz**.
+    *   India's **Prime Minister Modi** met with **U.S. President Trump** on the sidelines of the G7 Summit, discussing the safety of Indian seafarers (following a U.S. strike off Oman) and the importance of keeping the Strait of Hormuz open for global trade.
+    *   The **India-U.K. trade deal** is set to take effect from **July 15**, promising increased economic cooperation between the two nations.
+    *   The **U.S. Pentagon** has restored the name of its military's **Pacific Command** from 'Indo-Pacific Command', reversing a 2018 decision, though its area of responsibility remains unchanged.
+    *   The **India-Russia Logistics Support Agreement (RELOS)**, operational since January, allows reciprocal use of each other's bases and ports for supplies, repair, and fuel during joint exercises, training, and HADR missions. It clarifies that it does **not** allow for permanent stationing of troops.
+    *   **Elon Musk's AI tool Grok** was reportedly used by U.S. forces in strikes against Iran, highlighting the increasing integration of AI in military operations and its ethical implications.
 
 ## 🏏 Sports & Miscellaneous
-
-*   **Highlight:** ⚽ The Hindu's "Text&Context" section features an in-depth analysis titled "The World Cup between the magic of football and the reality of power," exploring how the FIFA World Cup has increasingly become a tool for **sportswashing** and is intertwined with global power politics and economic interests.
+*   **Highlight:** 🇮🇳 **Indian Women's Cricket Dominance & National Records**
+*   **Brief point relevant for Prelims:** **Deepti Sharma** has returned to the top as the world's highest wicket-taker in Women's T20Is, following a match-winning five-wicket haul against Pakistan in the T20 World Cup. This marks her second consecutive five-for in an ICC World Cup match (across formats).
+*   **Brief point relevant for Prelims:** Indian swimmer **Srihari Nataraj** broke his own seven-year-old men's 50m backstroke national record, retaining his title at the National Aquatics in Ahmedabad.
