@@ -1,47 +1,81 @@
 # 📰 Daily UPSC Master-Brief
 ## 📝 The Hindu Editorial Analysis
-*   **Topic:** 📈 Health data must drive action, not just headlines
-*   **Context:** The editorial discusses the critical need for robust and actionable health data in India to formulate effective public health policies and improve health outcomes. It highlights current deficiencies in data collection, quality, and utilization.
+*   **Topic:** 💧 Water Security for Viksit Bharat
+*   **Context:** India faces a severe water crisis, impacting agriculture, industry, and daily life, threatening the vision of a developed India (Viksit Bharat).
 *   **Key Takeaways:**
-    *   India requires comprehensive and disaggregated health data (mortality, morbidity, etc.) for evidence-based policymaking, especially across different social groups.
-    *   Existing health data often suffers from quality issues, delays, and a lack of granularity, hindering its utility for policy decisions and resource allocation.
-    *   The focus should shift from merely collecting data to generating actionable insights, necessitating improved inter-agency coordination, regular reviews, and strong data governance frameworks.
-    *   There is a need for a clear national public health policy, regular health surveys, and enhanced capacity for data analysis and health education to leverage data effectively.
+    *   Challenges include **groundwater depletion**, water pollution, and unpredictable rainfall patterns due to climate change.
+    *   Need for an integrated approach combining **supply-side management** (e.g., rainwater harvesting, dam renovation) and **demand-side management** (e.g., efficient irrigation, water reuse).
+    *   Emphasizes community participation, behavioral change, and technological interventions for sustainable water use.
+    *   Stresses the importance of inter-State and Centre-State cooperation for effective water governance.
+
+*   **Topic:** 🏥 Health Data & Policy Action
+*   **Context:** The editorial highlights the gap between available health data and its effective utilization for policy-making and program implementation in India.
+*   **Key Takeaways:**
+    *   Need for **robust data collection mechanisms** and disaggregated data to identify health disparities.
+    *   Importance of **data analysis** to inform evidence-based policies and target interventions effectively.
+    *   Advocates for transparency and accountability in health data management.
+    *   Stresses that data should drive action to improve public health outcomes, not just serve as statistics.
+
+*   **Topic:** 🇺🇸🇮🇳 Strategic Empathy in India-US Relations
+*   **Context:** Discusses US Senator Marco Rubio's comments on India's strategic autonomy, particularly its relations with Russia and China, and implications for the India-US partnership.
+*   **Key Takeaways:**
+    *   India's pursuit of **multi-alignment** and strategic autonomy, balancing ties with various global powers.
+    *   The US perspective on India's relations with adversarial nations like Russia and China.
+    *   The need for both countries to foster "strategic empathy" to understand each other's geopolitical compulsions and national interests.
+    *   Challenges in navigating differing strategic priorities while strengthening the bilateral partnership.
 
 ## 🏛️ Polity & Governance
-*   **Current Issue:** ⚖️ Key Legislative & Accountability Measures
+*   **Current Issue:** ⚖️ Uniform Civil Code (UCC) in Madhya Pradesh
 *   **Main Points:**
-    *   **Uniform Civil Code (UCC) in MP:** Madhya Pradesh Chief Minister announced that a Bill on the Uniform Civil Code (UCC) would be introduced in the upcoming Monsoon Session of the Legislative Assembly in July, with hopes for its passage. A six-member high-level committee is currently drafting the Bill.
-    *   **Odisha Textbook Errors:** The Odisha Chief Minister has ordered immediate corrective measures and action against officials responsible for numerous errors (reportedly 1,678 mistakes) found in recently issued school textbooks for Classes 1 to 8. A three-member panel will investigate the matter.
-    *   **Delhi Schools POCSO Audit:** The Lieutenant-Governor (L-G) of Delhi has ordered a comprehensive citywide audit of all schools to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act, emphasizing child protection and safety.
+    *   Madhya Pradesh Chief Minister announced that a **UCC Bill** will be introduced in the upcoming Monsoon Session of the State Legislative Assembly in July.
+    *   A six-member high-level committee is drafting the Bill, and public suggestions have been invited.
+    *   This follows similar moves by other BJP-ruled States like Uttarakhand and Gujarat, bringing the UCC debate to the forefront of national discourse.
+
+*   **Current Issue:** 🏫 POCSO Compliance in Delhi Schools
+*   **Main Points:**
+    *   Delhi's Lieutenant-Governor (L-G) has ordered a **comprehensive citywide audit** of all schools to assess their compliance with the provisions of the **Protection of Children from Sexual Offences (POCSO) Act**.
+    *   The audit aims to identify gaps in safety measures, infrastructure, and staff training to ensure a secure environment for children.
+
+*   **Current Issue:** 💸 ED Actions & Judicial Scrutiny
+*   **Main Points:**
+    *   The ED's questioning of T. Veena (daughter of former Kerala CM) in a money-laundering probe and the Karnataka High Court's declaration of ED arrests of Gameskraft directors as "illegal" highlight ongoing debates regarding the **powers and procedures of the Enforcement Directorate (ED)**.
+    *   These instances underscore the need for adherence to due process and judicial oversight in cases involving economic offenses.
 
 ## 🌍 Geography & Environment
-*   **Current Issue:** 🌊 Transboundary Water Management: Padma Barrage and India-Bangladesh Relations
+*   **Current Issue:** 🇧🇩🇮🇳 Padma Barrage and Regional Water Dynamics
 *   **Main Points:**
-    *   **Bangladesh's Padma Barrage:** Bangladesh has approved a new 2.1-km Padma barrage, to be built 180 km downstream of India's Farakka barrage, on the Ganga river (known as Padma in Bangladesh). It aims to store 2,900 million cubic meters of water to address seasonal scarcity for 6.5 crore people.
-    *   **Environmental Concerns:** Experts warn that such large-scale projects can have significant environmental costs, including altering river ecology, reducing groundwater recharge, increasing salinity, and impacting the Sundarbans ecosystem. Smaller check-dams are suggested as a potentially less damaging alternative, though they present political challenges.
-    *   **Bilateral Implications:** The project raises concerns for India, especially regarding its impact on existing river-sharing agreements and the potential involvement of China in its construction, which could affect India-Bangladesh relations and regional water management dynamics.
+    *   Bangladesh has initiated the construction of a new **Padma barrage** (on the Ganga river in Bangladesh), located downstream of India's Farakka barrage.
+    *   Concerns exist regarding its potential **environmental costs**, including altered river ecology, increased salinity, and impact on the Sundarbans mangrove forest.
+    *   The project highlights complex transboundary water management issues and the need for bilateral cooperation between India and Bangladesh.
+
+*   **Current Issue:** ♻️ Compressed Biogas Blending Goal
+*   **Main Points:**
+    *   India is progressing towards its target of **3% compressed biogas (CBG) blending** in natural gas by **FY27**.
+    *   This initiative is crucial for enhancing renewable energy sources, waste management, and reducing reliance on fossil fuels, contributing to environmental sustainability.
 
 ## 🌐 International Relations (IR)
-*   **Current Issue:** 🤝 West Asia Security, India-US Ties, and Bilateral Trade Agreements
+*   **Current Issue:** 🇮🇳🇺🇸 G7 Summit: India-US Bilateral Meet
 *   **Main Points:**
-    *   **Modi-Trump Meeting:** Prime Minister Modi met with US President Trump, raising concerns about the safety of Indian seafarers in global maritime routes, including the Strait of Hormuz (following a recent US strike off Oman). Modi stressed keeping the Strait open, and Trump indicated a "very close" India-US trade deal.
-    *   **Iran-US Framework Deal:** A 14-point framework agreement between Iran and the US is expected to be signed in Geneva, outlining Iran's pledge not to produce nuclear weapons and detailing financial relief for Iran (lifting sanctions on products, crude, banking, and naval blockade), as well as the release of frozen Iranian assets.
-    *   **India-UK Trade Deal:** The India-U.K. trade deal is scheduled to take effect from July 15. This agreement aims to strengthen bilateral economic ties through reduced tariffs and eased trade regulations for goods and services.
+    *   Prime Minister Modi met US President Trump on the sidelines of the G7 Summit in France.
+    *   PM Modi raised concerns over the **safety of Indian seafarers** in global maritime routes, particularly in the Strait of Hormuz, following recent incidents.
+    *   Discussions also covered regional peace in West Asia and the **Iran nuclear issue**, with both leaders emphasizing a "very close" stance on a trade deal.
 
-## 💰 Economy
-*   **Current Issue:** 🏦 RBI's Expanding Fiscal Role
+*   **Current Issue:** 🇮🇷🇺🇸 Iran-US Framework Deal
 *   **Main Points:**
-    *   **Blurring Lines:** The Reserve Bank of India (RBI) is increasingly involved in functions traditionally considered fiscal policy, managing sovereign bond yields, acting as a fiscal agent, and providing crisis-related emergency support, thus blurring the distinction between monetary and fiscal policy.
-    *   **Implications for Independence:** While this expanded role has helped the government manage its finances, it raises questions about the central bank's independence, the potential for inflationary pressures, and the clarity of institutional responsibilities.
-    *   **Ongoing Debate:** There's an ongoing debate among economists whether this expanded role is a temporary necessity driven by recent crises or a permanent shift in the central bank's functions, with potential long-term consequences for financial stability and governance.
+    *   A 14-point framework agreement between Iran and the US is expected to be signed in Geneva.
+    *   Iran pledges **not to produce nuclear weapons** and to maintain the status quo on its nuclear program under international supervision.
+    *   The US agrees to facilitate the release of frozen Iranian assets, lift sanctions on Iranian products and banking, and withdraw its naval blockade, aiming for a **$300 billion economic development plan** for Iran.
 
-## 🧪 Science & Technology
-*   **Current Issue:** 🌌 Universe's Expansion
+*   **Current Issue:** 🇮🇳🇬🇧 India-UK Free Trade Agreement (FTA)
 *   **Main Points:**
-    *   **Accelerated Expansion Confirmed:** New research, using Type Ia supernovae as "cosmic mile markers," has reconfirmed that the universe is expanding at an accelerated rate, a phenomenon attributed to "dark energy."
-    *   **Rebuttal to Previous Claims:** This study directly refutes earlier research that suggested a slowdown or cessation of the universe's expansion, thereby reinforcing the current cosmological model.
-    *   **Cosmic Composition:** The universe is understood to be composed of approximately 5% ordinary matter, 27% dark matter, and 68% dark energy, with dark energy being the mysterious force driving the accelerated expansion.
+    *   India and the UK have announced **July 15, 2026, as the implementation date** for their bilateral Free Trade Agreement.
+    *   The FTA aims to reduce tariffs and non-tariff barriers, boosting trade across various sectors and strengthening economic ties between the two nations.
+
+*   **Current Issue:** 🇷🇺🇸🇦 Russia-ASEAN Summit
+*   **Main Points:**
+    *   Russian President Putin hosted **ASEAN leaders** amidst Western pressure over the Ukraine war.
+    *   This summit aims to strengthen Russia's diplomatic and economic ties with Southeast Asian nations, showcasing its continued influence in the Asia-Pacific region despite global sanctions.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight:** 🏏 The India-A cricket team secured a commanding 101-run victory over Afghanistan-A, with half-centuries from Tilak Varma and Kumar Kushagra, significantly boosting their chances for a final berth in the tri-nation series.
+*   **Highlight:** ⚽ **Messi's Treble Powers Argentina to Victory** in a significant football match, showcasing his continued prowess on the field.
+*   **Highlight:** 🏊 **Srihari Nataraj Breaks Own 50m Backstroke Record**, setting a new national record in swimming.
