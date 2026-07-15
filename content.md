@@ -1,76 +1,55 @@
 # 📰 Daily UPSC Master-Brief
-
 ## 📝 The Hindu Editorial Analysis
-
-*   **Topic:** 📊 **RBI's Growing Fiscal Role and Independence**
-*   **Context:** The Reserve Bank of India (RBI) approved a record surplus transfer of ₹2.87 lakh crore to the Union government for FY26, raising questions about its evolving role and fiscal federalism.
+*   **Topic:** India's Global Innovation Drive & Data-Driven Governance
+*   **Context:** Editorials on India's ambition in AI and the critical need for robust data for effective policy-making, alongside a discussion on US-India relations.
 *   **Key Takeaways:**
-    *   RBI's significant surplus transfers, derived from foreign assets, exchange transactions, and interest on securities, provide the government with substantial fiscal space without new taxes or borrowing.
-    *   This trend raises concerns about the RBI's independence, as its functions increasingly support government finances, intertwining monetary institutions with fiscal outcomes.
-    *   The transfers are non-tax revenue and not part of the divisible pool shared with States through Finance Commission formulas, contributing to fiscal centralization and lacking transparency in accountability to States.
-
-*   **Topic:** 💧 **Water Security for Viksit Bharat**
-*   **Context:** Water security is presented as a fundamental pillar for India's vision of a 'Viksit Bharat' (developed India) by 2047, requiring a comprehensive and integrated approach.
-*   **Key Takeaways:**
-    *   Current challenges include over-reliance on groundwater, inter-state disputes, erratic monsoons due to climate change, and inadequate infrastructure for water management.
-    *   The vision for 2047 includes augmenting water supply by 2,000 billion cubic metres, doubling storage capacity, and developing efficient irrigation.
-    *   Key strategies involve demand-side management (e.g., micro-irrigation, water-efficient crops), supply-side augmentation (e.g., rainwater harvesting, wastewater treatment), and an integrated 'One Water' approach for holistic water resource management.
+    *   For India to succeed in AI and global innovation, fostering a dynamic start-up ecosystem, strengthening research, and developing a highly skilled workforce are paramount.
+    *   Deficiencies in public health data collection hinder effective policy formulation and resource allocation, necessitating reliable, granular data across all sectors for good governance.
+    *   A critique of U.S. foreign policy towards India suggests the need for "strategic empathy," urging Washington to consider India's broader geopolitical context beyond specific human rights concerns.
 
 ## 🏛️ Polity & Governance
-
-*   **Current Issue:** 🏫 **School Safety and Compliance Audit in Delhi**
+*   **Current Issue:** Uniform Civil Code (UCC) Momentum in States
 *   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu ordered a comprehensive citywide audit of all Delhi schools.
-    *   The audit aims to assess compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
-    *   It follows concerns about children's safety and well-being in educational institutions.
-
-*   **Current Issue:** 📚 **Errors in Odisha School Textbooks**
+    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a **UCC Bill** will be tabled in the upcoming Monsoon Session of the State Legislative Assembly (July 20-24).
+    *   A six-member committee, formed in April, is drafting the Bill, following a trend seen in other BJP-ruled states like Uttarakhand and Gujarat.
+*   **Current Issue:** Accountability in Education & Administration
 *   **Main Points:**
-    *   Odisha Chief Minister Mohan Charan Majhi ordered immediate corrective measures and action against officials responsible for errors in school textbooks for Classes 1 to 8.
-    *   Teachers' and parents' associations claimed numerous mistakes, including factual inaccuracies and incorrect images.
-    *   A three-member panel will be constituted to probe the matter and recommend action.
-
-*   **Current Issue:** ⚖️ **UCC Bill in Madhya Pradesh Assembly**
-*   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the Uniform Civil Code (UCC) would be introduced in the upcoming Monsoon Session of the Legislative Assembly, slated for July 20-24.
-    *   A six-member high-level committee formed in April is currently working on a draft Bill, studying models adopted by other BJP-ruled states like Uttarakhand and Gujarat.
+    *   Odisha Chief Minister Mohan Charan Majhi ordered immediate action and an inquiry (by a three-member panel) into **1,678 errors found in school textbooks** for Classes 1 to 8, emphasizing government accountability in education.
+    *   Delhi Lieutenant-Governor Taranjit Singh Sandhu mandated a **citywide audit of all schools for compliance with POCSO Act provisions**, aiming to ensure child safety.
+    *   The Enforcement Directorate (ED) questioned former Kerala CM Pinarayi Vijayan's daughter, T. Veena, for eight hours in a **money-laundering probe related to the CMRL pay-off case**, highlighting ongoing investigations into political figures.
 
 ## 🌍 Geography & Environment
-
-*   **Current Issue:** 🌊 **Dhaka's New Padma Barrage Project**
+*   **Current Issue:** Transboundary Water Management & Environmental Concerns
 *   **Main Points:**
-    *   Bangladesh is constructing the Padma barrage, an estimated $6.4 billion hydro-electric power project, aiming to reshape water power and management in the region.
-    *   The project, located 180 km downstream of the Farakka Barrage in India, will collect excess water during monsoon for distribution in dry seasons.
-    *   Concerns exist regarding its potential transboundary impact on India, particularly on states like West Bengal, by affecting water flow and livelihoods dependent on the Ganges.
+    *   Bangladesh has approved a new **Padma barrage** (over the Ganga river) to tackle seasonal water scarcity, located 180 km downstream of India's Farakka barrage.
+    *   While addressing water needs, the project raises significant environmental concerns, including impacts on **groundwater recharge, salinity, riverbank erosion, and the Sundarbans ecosystem**, underscoring challenges in transboundary water treaties and climate change resilience.
+*   **Current Issue:** Water Security for 'Viksit Bharat' 💧
+*   **Main Points:**
+    *   Achieving water security by 2047 for a 'Viksit Bharat' requires a shift from supply-side to **demand-side management**, integrating community participation, rainwater harvesting, and sustainable water resource management.
+    *   Programs like **Jal Jeevan Mission** and **Atal Bhujal Yojana** are crucial for providing tap water and promoting groundwater recharge.
 
 ## 🌐 International Relations (IR)
-
-*   **Current Issue:** 🤝 **India-U.S. Bilateral Meeting on G7 Sidelines**
+*   **Current Issue:** India's Strategic Engagements and Economic Ties
 *   **Main Points:**
-    *   PM Narendra Modi met U.S. President Trump on the sidelines of the G7 Summit in Evian, France.
-    *   Modi raised the issue of safety for Indian seafarers, especially after the killing of three Indian seafarers in a U.S. strike off the coast of Oman.
-    *   Trump praised Modi and stated that India and the U.S. are "very close" to finalising a trade deal.
-
-*   **Current Issue:** 📜 **Iran-U.S. Framework Deal on Nuclear Pledge and Sanctions Relief**
+    *   Prime Minister Modi and U.S. President Trump met at the G7 Summit in France, discussing the **safety of Indian seafarers** in the Strait of Hormuz, West Asia peace efforts, and the near-finalisation of an **India-U.S. trade deal**.
+    *   The **India-U.K. trade deal** is set to be implemented from July 15, aiming to boost bilateral trade and open new markets.
+    *   The **India-Russia Logistics Exchange Memorandum of Agreement (LEMOA)**, signed in January, allows both countries to use each other's military facilities for logistics support, including refuelling and maintenance, enhancing military cooperation.
+*   **Current Issue:** Iran-U.S. Nuclear Deal Developments
 *   **Main Points:**
-    *   A 14-point Memorandum of Understanding (MoU) between Iran and the U.S. outlines Iran's pledge not to produce nuclear weapons and maintaining a status quo on its nuclear program.
-    *   The U.S. has agreed to facilitate the release of frozen Iranian assets, lift sanctions on Iranian products (including crude oil and banking), and withdraw forces from "surrounding areas."
-    *   The deal is expected to remove restrictions on tankers carrying Iranian oil and unlock access to international banking and insurance.
+    *   A **14-point framework agreement** between Iran and the U.S. has been published, involving Iran's pledge against nuclear weapons and the U.S. commitment to lift sanctions and facilitate the release of frozen Iranian assets.
+    *   The deal seeks to restore pre-war traffic through the **Strait of Hormuz** and includes U.S. agreements to lift naval blockades and withdraw forces from 'surrounding areas'.
 
-*   **Current Issue:** 📦 **India-Russia Logistics Agreement (RELOS)**
+## 🔬 Science & Technology
+*   **Current Issue:** Accelerating Universe and Dark Energy 🌌
 *   **Main Points:**
-    *   The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia became operational in January, clarifying procedures for military cooperation.
-    *   It defines procedures for logistical support, port calls of warships, use of airspace, and airfield facilities for military aircraft of both countries during joint exercises, training, and HADR missions.
-    *   The agreement does not allow for permanent basing of troops but facilitates reciprocal access to military facilities, including in the Arctic, a significant aspect given expanding cooperation in that region.
-
-*   **Current Issue:** 🤝 **India-U.K. Trade Deal Implementation**
+    *   New research, re-examining Type Ia supernovae data, reconfirms that the **universe's expansion is still accelerating**, driven by the mysterious "dark energy."
+    *   This finding challenges a 2025 study that suggested dark energy was weakening, highlighting the ongoing debate and importance of **Type Ia supernovae** as cosmic distance markers.
+*   **Current Issue:** AI in Conflict and Agriculture
 *   **Main Points:**
-    *   The India-U.K. trade deal, finalised in February this year, is set to take effect from July 15.
-    *   It involves the immediate lifting of naval blockade and tariff reductions on Indian products, particularly textiles, automobiles, and agricultural goods.
-    *   The agreement is expected to boost bilateral trade and investment by creating a robust framework for economic cooperation.
+    *   Elon Musk's AI tool, **Grok**, was reportedly used in strikes against Iran and the U.S., raising concerns about the role of **AI in warfare and potential for misinformation**.
+    *   ICAR - National Bureau of Plant Genetic Resources has made available for licensing a "Pan-Genome Genic SNP Chip of Wheat" technology, which could be transformative for **crop improvement and agricultural research**.
 
 ## 🏏 Sports & Miscellaneous
-
-*   **Highlight:** ⚽ **Lionel Messi's World Cup Records**
-    *   Messi scored a hat-trick against Algeria, equaling Miroslav Klose's all-time World Cup record of 16 goals.
-    *   He also became the first player to feature in six World Cup tournaments and holds the record for most goal involvements (16 goals, 8 assists) at World Cups, surpassing Pelé (21).
+*   **Highlight:** Football legend **Lionel Messi** scored a dazzling hat-trick for Argentina in the FIFA World Cup, equaling Miroslav Klose's record for most World Cup goals (16) and making history as the first player to feature in six tournaments. ⚽️
+*   **Highlight:** Indian off-spinner **Deepti Sharma** delivered a match-winning five-wicket haul in the Women's T20 World Cup, becoming the world's highest wicket-taker in T20Is and showcasing remarkable form. 🏏
+*   **Highlight:** Indian swimmer **Srihari Nataraj** broke his own seven-year-old men's 50m backstroke record at the National Aquatics, demonstrating excellence in national sports. 🏊‍♂️
