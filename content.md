@@ -1,55 +1,81 @@
 # 📰 Daily UPSC Master-Brief
+
 ## 📝 The Hindu Editorial Analysis
-*   **Topic:** India's Global Innovation Drive & Data-Driven Governance
-*   **Context:** Editorials on India's ambition in AI and the critical need for robust data for effective policy-making, alongside a discussion on US-India relations.
+*   **Topic:** 🏦 **RBI's Expanding Fiscal Role & Federalism Concerns**
+*   **Context:** The Reserve Bank of India (RBI) recorded a historic ₹2.87 lakh crore surplus transfer to the Union government for FY26, a significant increase from previous years. This follows changes in the Economic Capital Framework and substantial growth in RBI's balance sheet.
 *   **Key Takeaways:**
-    *   For India to succeed in AI and global innovation, fostering a dynamic start-up ecosystem, strengthening research, and developing a highly skilled workforce are paramount.
-    *   Deficiencies in public health data collection hinder effective policy formulation and resource allocation, necessitating reliable, granular data across all sectors for good governance.
-    *   A critique of U.S. foreign policy towards India suggests the need for "strategic empathy," urging Washington to consider India's broader geopolitical context beyond specific human rights concerns.
+    *   **Fiscal Significance:** RBI transfers now provide significant fiscal space to the government, raising questions about the central bank's evolving role from monetary guardian to a fiscal instrument.
+    *   **Monetary Policy vs. Fiscal Outcomes:** The RBI's reserve management (e.g., gold sales, foreign currency holdings) increasingly impacts not just monetary stability but also government fiscal revenues, potentially intertwining monetary and fiscal policies.
+    *   **Fiscal Centralisation:** These transfers are non-tax revenue for the Union government and do not fall under the divisible pool for states, contributing to fiscal centralisation and raising concerns about federal balance.
+    *   **Independence:** The increasing fiscal reliance on RBI transfers could challenge the perceived institutional distance and operational autonomy crucial for central bank independence.
+
+*   **Topic:** 🏥 **The Imperative for Robust Health Data in Policy Making**
+*   **Context:** The article highlights the critical need for reliable and comprehensive health data to drive effective public health action and policy decisions, rather than relying on anecdotal evidence or headlines.
+*   **Key Takeaways:**
+    *   **Policy Gaps:** Without granular, verifiable health data, policy formulation for public health initiatives (e.g., nutrition, disease prevention, infrastructure) remains reactive and potentially misdirected.
+    *   **Data Deficiencies:** Issues like outdated statistics, lack of disaggregated data, and absence of longitudinal studies hamper accurate assessment of health challenges and impact of interventions.
+    *   **Holistic Approach:** The need for a robust data collection and analysis framework, involving various stakeholders from local to national levels, to inform evidence-based public health strategies.
 
 ## 🏛️ Polity & Governance
-*   **Current Issue:** Uniform Civil Code (UCC) Momentum in States
+*   **Current Issue:** ⚖️ **Uniform Civil Code (UCC) Bill in Madhya Pradesh**
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a **UCC Bill** will be tabled in the upcoming Monsoon Session of the State Legislative Assembly (July 20-24).
-    *   A six-member committee, formed in April, is drafting the Bill, following a trend seen in other BJP-ruled states like Uttarakhand and Gujarat.
-*   **Current Issue:** Accountability in Education & Administration
+    *   Madhya Pradesh's Chief Minister announced that a Bill on UCC would be introduced in the upcoming Monsoon Session of the Legislative Assembly.
+    *   A six-member high-level committee is drafting the Bill, which is expected to be passed in the same session.
+    *   The move follows similar initiatives in other BJP-ruled states like Uttarakhand and Gujarat, indicating a broader push for UCC.
+
+*   **Current Issue:** 🏫 **POCSO Compliance Audit for Delhi Schools**
 *   **Main Points:**
-    *   Odisha Chief Minister Mohan Charan Majhi ordered immediate action and an inquiry (by a three-member panel) into **1,678 errors found in school textbooks** for Classes 1 to 8, emphasizing government accountability in education.
-    *   Delhi Lieutenant-Governor Taranjit Singh Sandhu mandated a **citywide audit of all schools for compliance with POCSO Act provisions**, aiming to ensure child safety.
-    *   The Enforcement Directorate (ED) questioned former Kerala CM Pinarayi Vijayan's daughter, T. Veena, for eight hours in a **money-laundering probe related to the CMRL pay-off case**, highlighting ongoing investigations into political figures.
+    *   Delhi's Lieutenant-Governor (L-G) has ordered a citywide audit of all schools to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
+    *   The audit aims to ensure the safety and security of children in educational institutions and enforce accountability.
+
+*   **Current Issue:** 👨‍⚖️ **Judicial Review of ED's Arrest Powers**
+*   **Main Points:**
+    *   The Karnataka High Court declared the arrest of directors of a gaming company by the Enforcement Directorate (ED) illegal, ordering their release.
+    *   The court found that the ED had made arrests without issuing summons under Section 50 of the Prevention of Money Laundering Act (PMLA) and without new material evidence. This highlights concerns about procedural propriety and safeguards against potential misuse of investigative powers.
 
 ## 🌍 Geography & Environment
-*   **Current Issue:** Transboundary Water Management & Environmental Concerns
+*   **Current Issue:** 💧 **Padma Barrage Project & India-Bangladesh Water Relations**
 *   **Main Points:**
-    *   Bangladesh has approved a new **Padma barrage** (over the Ganga river) to tackle seasonal water scarcity, located 180 km downstream of India's Farakka barrage.
-    *   While addressing water needs, the project raises significant environmental concerns, including impacts on **groundwater recharge, salinity, riverbank erosion, and the Sundarbans ecosystem**, underscoring challenges in transboundary water treaties and climate change resilience.
-*   **Current Issue:** Water Security for 'Viksit Bharat' 💧
+    *   Bangladesh has signed off on a new Padma barrage project to control the Padma River (Ganga in Bangladesh) flow and address seasonal water scarcity.
+    *   The barrage, located 180 km downstream of India's Farakka barrage, is intended to store 2,900 million cubic meters of water.
+    *   **Concerns:** Experts warn of significant environmental costs, including altered river ecology, reduced groundwater recharge, increased salinity in the Sundarbans, and impact on livelihoods of fisherfolk.
+    *   **Bilateral Implications:** The project raises concerns about transboundary river management, especially given India's scepticism towards large projects near the border and pending India-Bangladesh river-sharing agreements (e.g., Teesta Treaty).
+
+*   **Current Issue:** 🔭 **Universe's Accelerating Expansion Confirmed**
 *   **Main Points:**
-    *   Achieving water security by 2047 for a 'Viksit Bharat' requires a shift from supply-side to **demand-side management**, integrating community participation, rainwater harvesting, and sustainable water resource management.
-    *   Programs like **Jal Jeevan Mission** and **Atal Bhujal Yojana** are crucial for providing tap water and promoting groundwater recharge.
+    *   New research, re-examining Type Ia supernova data, reaffirms that the universe's expansion is still accelerating, driven by "dark energy."
+    *   This finding rebuts a 2025 study that had suggested the expansion was slowing down.
+    *   **Cosmological Significance:** It reinforces the standard model of cosmology, where dark energy constitutes an estimated 68% of the universe's contents, continuing to push galaxies apart at an increasing rate.
 
 ## 🌐 International Relations (IR)
-*   **Current Issue:** India's Strategic Engagements and Economic Ties
+*   **Current Issue:** 🤝 **India-U.S. Bilateral Engagements & Maritime Security**
 *   **Main Points:**
-    *   Prime Minister Modi and U.S. President Trump met at the G7 Summit in France, discussing the **safety of Indian seafarers** in the Strait of Hormuz, West Asia peace efforts, and the near-finalisation of an **India-U.S. trade deal**.
-    *   The **India-U.K. trade deal** is set to be implemented from July 15, aiming to boost bilateral trade and open new markets.
-    *   The **India-Russia Logistics Exchange Memorandum of Agreement (LEMOA)**, signed in January, allows both countries to use each other's military facilities for logistics support, including refuelling and maintenance, enhancing military cooperation.
-*   **Current Issue:** Iran-U.S. Nuclear Deal Developments
-*   **Main Points:**
-    *   A **14-point framework agreement** between Iran and the U.S. has been published, involving Iran's pledge against nuclear weapons and the U.S. commitment to lift sanctions and facilitate the release of frozen Iranian assets.
-    *   The deal seeks to restore pre-war traffic through the **Strait of Hormuz** and includes U.S. agreements to lift naval blockades and withdraw forces from 'surrounding areas'.
+    *   Prime Minister Modi met U.S. President Trump on the sidelines of the G7 Summit, discussing West Asia peace, the importance of keeping the Strait of Hormuz open, and progress on a bilateral trade deal.
+    *   Modi raised concerns about the **safety of Indian seafarers**, following a U.S. strike in the Gulf of Oman that killed three Indian sailors.
+    *   The U.S. reportedly dropped "Indo" from the name of its military's Pacific Command, reverting to "U.S. Pacific Command." This re-branding does not change its area of responsibility but reflects a shift in strategic communication.
 
-## 🔬 Science & Technology
-*   **Current Issue:** Accelerating Universe and Dark Energy 🌌
+*   **Current Issue:** 🕊️ **Iran-U.S. Framework Nuclear Deal & Sanctions Relief**
 *   **Main Points:**
-    *   New research, re-examining Type Ia supernovae data, reconfirms that the **universe's expansion is still accelerating**, driven by the mysterious "dark energy."
-    *   This finding challenges a 2025 study that suggested dark energy was weakening, highlighting the ongoing debate and importance of **Type Ia supernovae** as cosmic distance markers.
-*   **Current Issue:** AI in Conflict and Agriculture
+    *   A 14-point framework agreement between Iran and the U.S. is expected to be signed, outlining Iran's pledge never to produce nuclear weapons and maintaining a status quo on its nuclear program.
+    *   **Financial Relief:** The U.S. has agreed to facilitate the release of frozen Iranian assets and lift sanctions on Iranian crude oil, petroleum products, and related services like banking and insurance, contingent on negotiations towards a final agreement.
+    *   **Maritime Impact:** The deal aims to remove restrictions on tankers and unlock banking/insurance access for Iranian oil trade, potentially restoring pre-war maritime traffic in the Strait of Hormuz.
+
+*   **Current Issue:** 🚢 **India-Russia Reciprocal Exchange of Logistics Agreement (RELOS)**
 *   **Main Points:**
-    *   Elon Musk's AI tool, **Grok**, was reportedly used in strikes against Iran and the U.S., raising concerns about the role of **AI in warfare and potential for misinformation**.
-    *   ICAR - National Bureau of Plant Genetic Resources has made available for licensing a "Pan-Genome Genic SNP Chip of Wheat" technology, which could be transformative for **crop improvement and agricultural research**.
+    *   The India-Russia bilateral Logistics Support Agreement (LSA), termed RELOS, became operational in January, similar to agreements India holds with nine other countries (e.g., U.S., U.K., France).
+    *   **Purpose:** It defines procedures for reciprocal logistic support, including access to military facilities, port calls, and use of airspace/airfield facilities for joint exercises, training, and humanitarian assistance/disaster relief.
+    *   **No Permanent Basing:** The agreement does not permit permanent basing of troops but allows for up to 3,000 troops for mutually agreed engagements.
+    *   **Arctic Access:** A key aspect is giving India access to Russian military facilities in the Arctic, as both countries expand cooperation in the region.
+
+*   **Current Issue:** 🇬🇧 **India-U.K. Trade Deal to Take Effect Soon**
+*   **Main Points:**
+    *   The India-U.K. trade deal (Comprehensive Economic Partnership Agreement) is set to take effect from July 15.
+    *   **Economic Impact:** This agreement is expected to boost bilateral trade, with the U.K. immediately lifting import duties on over 6,500 Indian goods, and India providing similar concessions.
+    *   **Strategic Ties:** It marks a significant step in strengthening economic ties and achieving the bilateral trade target of $100 billion by 2030.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight:** Football legend **Lionel Messi** scored a dazzling hat-trick for Argentina in the FIFA World Cup, equaling Miroslav Klose's record for most World Cup goals (16) and making history as the first player to feature in six tournaments. ⚽️
-*   **Highlight:** Indian off-spinner **Deepti Sharma** delivered a match-winning five-wicket haul in the Women's T20 World Cup, becoming the world's highest wicket-taker in T20Is and showcasing remarkable form. 🏏
-*   **Highlight:** Indian swimmer **Srihari Nataraj** broke his own seven-year-old men's 50m backstroke record at the National Aquatics, demonstrating excellence in national sports. 🏊‍♂️
+*   **Highlight:** ⚽ **Messi's Record-Breaking Performance at FIFA World Cup**
+    *   Lionel Messi scored a dazzling hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 goals at World Cups and becoming the first player to feature in six tournaments.
+
+*   **Highlight:** 🇮🇳 **Deepti Sharma's Stellar Cricket Performance**
+    *   Deepti Sharma, India's off-spinner, rediscovered her form with a match-winning five-wicket haul against Pakistan, becoming the world's highest wicket-taker in T20Is.
