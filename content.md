@@ -1,50 +1,77 @@
 # 📰 Daily UPSC Master-Brief
-
 ## 📝 The Hindu Editorial Analysis
-*   **Topic:** 🏦 The RBI and its growing fiscal role
-*   **Context:** The Reserve Bank of India (RBI) approved a record ₹2.87 lakh crore surplus transfer to the Union government for FY26, raising questions about its evolving role in India's fiscal architecture.
+*   **Topic:** RBI's Growing Fiscal Role & Central Bank Independence 🏦
+*   **Context:** The Reserve Bank of India (RBI) recently approved a record surplus transfer of ₹2.87 lakh crore to the Union government for FY26. This significant transfer raises questions about the central bank's independence and its evolving role in India's fiscal architecture.
 *   **Key Takeaways:**
-    *   The RBI's balance sheet has seen phenomenal growth, increasing by 20.6% to ₹91.97 lakh crore by March 2026, with gross income rising over 26%.
-    *   The surplus transfer is categorized as **non-tax revenue** for the Union government, not part of the divisible pool shared with States, which can contribute to fiscal centralisation.
-    *   RBI's management of foreign exchange reserves, including gains from foreign assets and transactions, is increasingly becoming a significant source of fiscal revenue, beyond its primary role in monetary and financial stability.
-    *   This trend raises concerns about the balance between **central bank independence** and its indirect role in supporting the government's fiscal position, contrasting with scenarios in advanced economies where central banks engage in quantitative easing.
-    *   The increasing intertwining of monetary institutions and fiscal outcomes necessitates transparent discussions on accountability and federal balance.
+    *   **Fiscal Significance:** The transfer is substantial, exceeding the annual budgets of several Indian states, and provides significant fiscal space to the government without new taxes or borrowing.
+    *   **Central Bank Autonomy:** While consistent with the Economic Capital Framework, such large and regular transfers can blur the lines between monetary policy and fiscal compulsions, potentially impacting the RBI's perceived independence.
+    *   **Fiscal Federalism:** The transfer is non-tax revenue and accrues solely to the Union government, excluding states from a share and contributing to a progressive shift towards fiscal centralisation in India.
+    *   **Evolving Role:** The RBI is transitioning from primarily a guardian of monetary stability to an increasingly important source of fiscal capacity, making its financial decisions more critical for overall economic health.
+
+*   **Topic:** Water Security for Viksit Bharat 💧
+*   **Context:** Effective water management is crucial for India's vision of a 'Viksit Bharat' (Developed India). The editorial highlights various government initiatives and challenges related to water.
+*   **Key Takeaways:**
+    *   **Holistic Approach:** Water security requires a comprehensive strategy integrating supply, demand, and quality management.
+    *   **Government Initiatives:** Schemes like the Jal Jeevan Mission and Swachh Bharat Mission (SBM) have significantly improved access to drinking water and sanitation, but challenges remain in sustainability and quality.
+    *   **Inter-sectoral Linkages:** Water resources are interconnected with health, environment, and food security, necessitating integrated planning.
+    *   **Challenges:** Issues like groundwater depletion, pollution, and the impact of climate change on water availability demand urgent attention and innovative solutions.
 
 ## 🏛️ Polity & Governance
-*   **Current Issue:** ⚖️ **UCC Bill in Madhya Pradesh Assembly** & **POCSO Compliance Audit in Delhi Schools**
+*   **Current Issue:** Uniform Civil Code (UCC) in Madhya Pradesh ⚖️
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a **Uniform Civil Code (UCC) Bill** would be introduced in the upcoming Monsoon Session of the State Legislative Assembly (July 20-24).
-    *   A six-member high-level committee formed in April is drafting the Bill, and public suggestions have been invited. The panel will also study models adopted by other BJP-ruled states like Uttarakhand, Gujarat, and Assam.
-    *   Delhi Lieutenant-Governor Taranjit Singh Sandhu ordered a **comprehensive citywide audit of all schools** to assess compliance with the provisions of the **Protection of Children from Sexual Offences (POCSO) Act**.
-    *   The audit will focus on evaluating safety infrastructure, staff verification (including police checks), and awareness campaigns regarding child protection.
+    *   **Legislative Development:** Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the Uniform Civil Code (UCC) will be introduced in the upcoming Monsoon Session of the State Legislative Assembly, scheduled from July 20.
+    *   **Aim & Scope:** The Bill seeks to create a uniform law for all citizens regarding matters like marriage, divorce, inheritance, and adoption, currently governed by diverse personal laws based on religion.
+    *   **Process:** A six-member high-level committee formed in April is currently drafting the Bill, having toured various parts of the State and invited public suggestions.
+    *   **Significance:** This move aligns with BJP-ruled states implementing UCC and highlights ongoing debates on federalism, secularism, and individual rights.
+
+*   **Current Issue:** L-G Orders POCSO Compliance Audit in Delhi Schools 👧
+*   **Main Points:**
+    *   **Child Protection:** Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all Delhi schools to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
+    *   **Mandate:** The audit aims to ensure robust mechanisms for child safety, reporting of offences, and creating a secure environment for students.
+    *   **Educational Governance:** This directive underscores the L-G's focus on governance and welfare in the education sector and highlights the importance of institutional accountability in safeguarding children.
+
+*   **Current Issue:** Bihar Scheme for Civil Services Promotion 🎯
+*   **Main Points:**
+    *   **Social Welfare:** The Bihar government's "Chief Minister Extremely Backward Class Civil Services Promotion Scheme" offers financial assistance to aspirants from Extremely Backward Classes (EBCs) who clear preliminary exams for UPSC, BPSC, NDA, CDS, Banking, Railway, and SSC.
+    *   **Incentive:** The scheme provides incentive amounts ranging from ₹30,000 to ₹1,00,000 for main examination/interview preparation.
+    *   **Inclusivity:** It aims to promote inclusive growth and greater representation of EBCs in civil services and other competitive government jobs by providing financial support for advanced preparation.
 
 ## 🌍 Geography & Environment
-*   **Current Issue:** 💧 **Bangladesh's Padma Barrage Project & Transboundary Water Issues**
+*   **Current Issue:** India-Bangladesh Padma Barrage & Transboundary Rivers 🌊
 *   **Main Points:**
-    *   Bangladesh has signed off on a new **Padma Barrage** (on the Ganga river in Bangladesh) to control the river and address seasonal water scarcity. The 2.1-km structure is projected to cost ₹39,170 crore.
-    *   The barrage, located 180 km downstream of India's **Farakka Barrage**, is intended to store 2,900 million cubic metres of water and serve 6.5 crore people. Bangladesh has historically blamed the Farakka Barrage for its periodic water scarcity.
-    *   The **1996 Ganges Water Treaty** (expiring in Dec 2026) governs water sharing from Farakka. Experts note "repeated occurrences of low flow" in post-Treaty periods and pending river-sharing agreements like the Teesta treaty.
-    *   The project raises significant **environmental concerns**, as the Farakka Barrage has already altered the Ganga's ecology in Bangladesh (reduced groundwater recharge, increased salinity in Sundarbans, erosion, flooding, affecting fisheries). The new barrage could worsen these impacts.
-    *   Experts suggest smaller check-dams as an alternative to a large barrage to mitigate environmental damage, despite potential cross-country planning challenges. The project also has **geopolitical implications** regarding China's role and India's skepticism towards Bangladesh's new administration.
+    *   **New Barrage:** Bangladesh has signed off on a new Padma barrage project (Ganga in Bangladesh) aimed at controlling the Padma river and addressing seasonal water scarcity.
+    *   **Location & Impact:** Located 180 km downstream of India's Farakka barrage, this 2.1-km-long structure will store 2,900 million cubic meters of water.
+    *   **Controversy & Concerns:** Bangladesh has historically blamed the Farakka barrage for its water scarcity. Experts warn that a new large barrage could have significant environmental costs, including altered river ecology, reduced groundwater recharge, increased salinity in Sundarbans, and impacts on livelihoods.
+    *   **IR Implications:** The project, potentially aided by China, raises concerns for India regarding transboundary river management, regional strategic influence, and ongoing water-sharing disputes, particularly concerning the Ganga and Teesta rivers.
+
+*   **Current Issue:** India Targets 3% Compressed Biogas Blending by FY27 🌱
+*   **Main Points:**
+    *   **Renewable Energy:** India aims to achieve a 3% blending of compressed biogas (CBG) with natural gas by the financial year 2027 (FY27).
+    *   **Energy Security & Climate:** This target is part of India's broader strategy to enhance energy security, reduce reliance on fossil fuels, and achieve climate goals by promoting indigenous renewable energy sources.
+    *   **Policy Support:** The government is implementing various policy measures to boost CBG production, including financial incentives, market mechanisms, and infrastructure development for collection and distribution.
 
 ## 🌐 International Relations (IR)
-*   **Current Issue:** 🤝 **India-US Engagement, Iran Nuclear Deal, & India-Russia Logistics Agreement**
+*   **Current Issue:** Modi-Trump Meeting: Seafarers, West Asia, Trade 🤝
 *   **Main Points:**
-    *   Prime Minister Modi met US President Trump on the sidelines of the G7 Summit in Evian, France, discussing the **safety of Indian seafarers** (following a US strike off Oman) and the importance of keeping the **Strait of Hormuz open** for the world economy. Modi commended Trump's efforts to restore peace in West Asia.
-    *   A **14-point framework agreement** between Iran and the US outlines Iran's pledge never to produce nuclear weapons and maintain the status quo on its nuclear programme. The US agreed to facilitate the release of frozen Iranian assets, lift sanctions on Iran's products/services, and withdraw forces, while Iran would restore pre-war traffic through the Strait of Hormuz.
-    *   The **India-Russia Reciprocal Exchange of Logistics Agreement (RELOS)**, operationalised in January 2026, allows reciprocal use of military facilities (bases, ports) for supplies, repair, and fuel during joint exercises, training, port calls, and HADR missions.
-    *   Crucially, RELOS does **not permit permanent basing of troops** (a maximum of 3,000 troops is a broad upper limit for visits). The agreement is valid for five years and also grants India access to **Russian military facilities in the Arctic**, significant for new navigation routes opening due to global warming.
+    *   **Bilateral Engagement:** Prime Minister Narendra Modi met U.S. President Donald Trump on the sidelines of the G7 Summit in Evian, France.
+    *   **Indian Seafarers:** PM Modi raised concerns about the safety of Indian seafarers, particularly in the Strait of Hormuz, following a recent U.S. strike off Oman that killed three Indian sailors.
+    *   **West Asia Peace & Maritime Security:** Modi commended Trump's efforts for peace in West Asia and stressed the vital importance of keeping the Strait of Hormuz open for global maritime trade.
+    *   **Trade Deal:** The leaders discussed the finalisation of a trade deal, with Trump praising Modi as a "very tough negotiator," indicating progress despite some pending details.
 
-## 🔬 Science & Technology
-*   **Current Issue:** 🌌 **Universe Expansion Confirmed**
+*   **Current Issue:** Iran-U.S. Framework Deal on Nuclear Pledge & Sanctions Relief 🕊️
 *   **Main Points:**
-    *   New research, using data from **Type Ia supernovae** (cosmic mile markers), has confirmed that the **universe's expansion is still accelerating**.
-    *   This finding rebuts a previous study that had concluded the cosmic expansion was no longer speeding up.
-    *   The acceleration confirms the existence of **dark energy**, an enigmatic cosmic force hypothesized to be responsible for this phenomenon, making up an estimated 68% of the universe's contents.
+    *   **Draft Agreement:** A 14-point framework agreement between Tehran and Washington outlines Iran's pledge never to produce nuclear weapons and maintaining a status quo on its nuclear program.
+    *   **Sanctions Relief:** The U.S. has agreed to facilitate the release of frozen Iranian assets and lift sanctions on Iran's products and services (including crude oil and banking), contingent on progress towards a final agreement.
+    *   **Geopolitical Impact:** This potential deal could significantly ease tensions in the Persian Gulf, impact global oil markets, and redefine U.S.-Iran relations.
+
+*   **Current Issue:** Operationalisation of India-Russia Logistics Support Agreement (RELOS) 🇷🇺🇮🇳
+*   **Main Points:**
+    *   **Defence Cooperation:** The Reciprocal Exchange of Logistics Agreement (RELOS), signed in 2025, became operational in January this year, enhancing defence ties between India and Russia.
+    *   **Key Provisions:** RELOS provides a framework for reciprocal logistic support, including access to military facilities, port calls, airspace use, and technical aid for military aircraft and warships during exercises, training, and humanitarian missions.
+    *   **Clarification:** It does not permit permanent basing of troops but allows for temporary stationing of personnel (up to 3,000) during mutually agreed engagements.
+    *   **Strategic Access:** A significant aspect is India gaining access to Russian military facilities in the Arctic, crucial for expanding cooperation in new navigation routes.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight:** ⚽ **Messi's Record-Equalling Hat-trick**, **Haaland's Doubles**, & **Mbappe's Magic** dominate FIFA World Cup, while 🏏 **Deepti Sharma** shines in Women's T20 World Cup, and 🏊 **Srihari Nataraj** breaks National Record.
-    *   Football: Lionel Messi scored a dazzling hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 goals at World Cups, in a 3-0 win against Algeria. Erling Haaland scored twice for Norway against Iraq, and Kylian Mbappe's performance helped France beat Senegal.
-    *   Cricket: India's Deepti Sharma became the world's highest wicket-taker in T20Is and delivered a match-winning five-wicket haul against Pakistan in the Women's T20 World Cup. India-A routed Afghanistan-A by 101 runs in the tri-nation series.
-    *   Swimming: Srihari Nataraj broke his own seven-year-old men's 50m backstroke record at the National Aquatics.
-    *   Badminton: Anmol Kharb, Rakshitha Sree Ramraj, and Shriyanshi Valishetty advanced to the pre-quarterfinals of the Macau Open Super 300 tournament.
+*   **Highlight:** Lionel Messi's World Cup Hat-trick ⚽: Lionel Messi scored a dazzling hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 goals at World Cups and becoming the first player to feature in six World Cup tournaments.
+*   **Highlight:** Indian Swimmer Srihari Nataraj Breaks Own National Record 🏊: Srihari Nataraj broke his seven-year-old men's 50m backstroke national record to retain his title at the National aquatics in Ahmedabad.
+*   **Highlight:** Deepti Sharma Leads T20I Wicket-Takers 🏏: Indian off-spinner Deepti Sharma reclaimed her spot as the world's highest wicket-taker in Women's T20Is, following a match-winning five-wicket haul against Pakistan in the T20 World Cup.
