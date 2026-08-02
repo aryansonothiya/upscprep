@@ -1,63 +1,78 @@
 # 📰 Daily UPSC Master-Brief
-
 ## 📝 The Hindu Editorial Analysis
-
-*   **Topic:** RBI's Growing Fiscal Role and its Implications
-*   **Context:** The Reserve Bank of India (RBI) approved a record ₹2.87 lakh crore surplus transfer to the Union government for FY26. This significant increase from previous years raises crucial questions about the central bank's evolving role, its independence, and implications for India's fiscal federalism.
+*   **Topic:** ⚕️ Health Data Governance & Policy
+*   **Context:** A discussion on the current state of health data in India and the need for a robust framework to make it actionable, rather than just headlines.
 *   **Key Takeaways:**
-    *   **Structural Shift:** Historically, RBI's surplus transfers were modest. However, following the revised Economic Capital Framework, they've surged to a record ₹2.87 lakh crore for FY26, indicating a significant shift.
-    *   **Fiscal Significance:** This transfer provides substantial fiscal space to the government without requiring new taxes or borrowing, leading to the blurring of lines between RBI's traditional role as a stabilising monetary institution and its potential function as a fiscal instrument.
-    *   **Revenue Generation from Reserves:** RBI's reserve management activities, including gold sales, foreign-currency asset management, and exchange-rate interventions, are increasingly generating significant fiscal revenues for the sovereign, impacting not just monetary stability but the broader economy.
-    *   **Fiscal Centralisation Concern:** This record transfer is a non-tax revenue for the Union government and does not form part of the divisible pool shared with States through Finance Commission formulas. This implicitly supports fiscal centralisation, raising questions about accountability and federal balance.
-    *   **Central Bank Independence:** As monetary institutions and fiscal outcomes become more intertwined, preserving the central bank's institutional distance and operational autonomy may become increasingly challenging, even though RBI operates within a defined framework and retains operational autonomy.
+    *   India currently lacks comprehensive, real-time health data across various critical parameters like diseases, demographics, and geographies.
+    *   Existing data is often fragmented, outdated, or not granular enough, hindering effective public health policy formulation.
+    *   A robust data governance framework is essential, encompassing improved collection methods that include social determinants, better analysis capabilities, and secure data sharing.
+    *   The creation of a "third platform" is crucial for efficient data collection, analysis, and dissemination to inform evidence-based public health initiatives.
+
+*   **Topic:** 💰 RBI's Fiscal Significance & Autonomy
+*   **Context:** The Reserve Bank of India's (RBI) record surplus transfer to the Union government for FY26 raises questions about its evolving fiscal role and implications for fiscal federalism and independence.
+*   **Key Takeaways:**
+    *   The RBI's record ₹2.87 lakh crore surplus transfer highlights its growing fiscal importance, moving beyond its traditional monetary policy functions.
+    *   This trend sparks debate on the RBI's autonomy, potential fiscal centralisation (as these transfers are Union government gains, not part of the divisible pool for States), and transparency.
+    *   The increase in the RBI's balance sheet and earnings from reserve management (e.g., foreign assets, exchange transactions, interest on securities) are key drivers of this enhanced fiscal capacity.
+    *   Maintaining the institutional distance and accountability of the central bank, even while supporting government finances, is crucial for preserving its credibility and ensuring a balanced federal fiscal structure.
+
+*   **Topic:** 💧 Water Security for Sustainable Development (Viksit Bharat)
+*   **Context:** The critical importance of water security for India's development goals, particularly in the context of climate change and increasing demand.
+*   **Key Takeaways:**
+    *   Water is fundamental for human life, economic prosperity, and ecological balance, making water security an indispensable pillar for achieving a 'Viksit Bharat' (Developed India).
+    *   India faces significant water challenges, including chronic groundwater over-extraction, widespread pollution of water bodies, and inefficient irrigation practices.
+    *   An integrated and holistic approach to water management is needed, combining both supply-side measures (e.g., rainwater harvesting, wastewater recycling) and demand-side strategies (e.g., promoting efficient irrigation, demand management).
+    *   Community participation, adoption of modern water technologies, and cross-sectoral collaboration are vital for building resilient water systems and ensuring sustainable water availability.
 
 ## 🏛️ Polity & Governance
-
-*   **Current Issue:** Uniform Civil Code (UCC) in Madhya Pradesh
+*   **Current Issue:** 🏫 Child Protection in Delhi Schools
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a **Uniform Civil Code (UCC) Bill** is slated for introduction and expected passage in the upcoming Monsoon Session of the Legislative Assembly (July 20-24).
-    *   A six-member high-level committee, formed in April and headed by retired Supreme Court judge Justice Ranjana Prasad Desai, is currently drafting the Bill after statewide consultations.
-    *   The committee is also examining models adopted by other BJP-ruled States like Uttarakhand, Gujarat, and Assam, which have already implemented forms of UCC.
+    *   Delhi Lieutenant-Governor Taranjit Singh Sandhu has ordered a comprehensive, city-wide audit of all schools to assess compliance with the **Protection of Children from Sexual Offences (POCSO) Act**.
+    *   The audit aims to identify and address infrastructure gaps, ensure staff sensitization, implement clear reporting mechanisms, and conduct regular awareness programs for child safety.
 
-*   **Current Issue:** Nicobarese Tribal Councils Oppose Draft Election Rules
+*   **Current Issue:** 📚 Accountability for Errors in School Textbooks
 *   **Main Points:**
-    *   Tribal councils from three island groups in the Nicobar archipelago have written to the local administration rejecting proposed draft election rules for their self-governance system.
-    *   They argue that the new system could introduce "election rivalry, division, and conflict," and that their existing traditional, consensus-based self-governance aligns more closely with democratic values.
-    *   The proposed rules, notified in May by the Andaman and Nicobar Islands administration, aim to reorganize villages into constituencies, prepare voter rolls, and reserve leadership positions for women, with five-yearly elections.
+    *   Odisha Chief Minister Mohan Charan Majhi directed immediate corrective measures and action against officials responsible for numerous errors found in school textbooks for Classes 1 to 8.
+    *   Reported errors included factual inaccuracies (e.g., Newton described as the "greatest pilot") and misidentification of images (e.g., Karnataka Assembly photo used for Odisha Assembly).
+    *   A three-member panel has been constituted to investigate the matter and determine accountability.
 
-*   **Current Issue:** New Job Act to Replace MGNREGA Faces Opposition
+*   **Current Issue:** 🕵️‍♀️ ED Probe in Corruption Allegations
 *   **Main Points:**
-    *   The **NREGA Sangharsh Morcha** and other rural workers' unions have announced an indefinite protest from July 1, demanding the repeal of the new **Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-GRAM G)** scheme.
-    *   This new scheme, coming into force from July 1, replaces the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) launched in 2006.
-    *   Activists claim that despite promises of increasing guaranteed work days from 100 to 125 per rural household, budgetary allocations would only provide for around 42 days of work annually.
-    *   A significant concern is the requirement for States to contribute 40% of the programme cost, imposing an "unprecedented burden" on them.
+    *   T. Veena, daughter of former Kerala Chief Minister Pinarayi Vijayan, was questioned by the Enforcement Directorate (ED) for about eight hours regarding a money-laundering probe in the **Cochin Minerals and Rutile Ltd. (CMRL) pay-off case**.
+    *   The investigation focuses on payments totaling ₹2.78 crore made by CMRL to Veena's now-defunct Exalogic IT company and certain loan transactions.
 
 ## 🌍 Geography & Environment
-
-*   **Current Issue:** Bangladesh's New Padma Barrage and Transboundary Water Relations
+*   **Current Issue:** 🌊 Transboundary River Projects & Environmental Impact
 *   **Main Points:**
-    *   Bangladesh has begun constructing a 2.1-km **Padma barrage**, located 180 km downstream of India's Farakka barrage, to control the Padma River (Ganga in Bangladesh) and mitigate seasonal water scarcity.
-    *   The project aims to store 2,900 million cubic meters of water, serving 6.5 crore people in Bangladesh's southwestern and northern regions, with an estimated cost of Tk 50,443 crore (approx. ₹39,170 crore).
-    *   **Historical Context:** Bangladesh has often attributed its periodic water scarcity to India's Farakka barrage (built to divert Ganga water to the Bhagirathi-Hoogly and flush Kolkata Port), despite the 1996 Ganges Water Treaty.
-    *   **Environmental Concerns:** Experts warn of significant adverse environmental impacts, including reduced groundwater recharge, increased salinity in the Sundarbans, riverbank erosion, and negative effects on the livelihoods of fisherfolk due to altered river flow and silt transport.
-    *   **Geopolitical Implications:** The project could affect India-Bangladesh transboundary water relations and influence the regional dynamics of water management in South Asia, particularly if supported by external players like China.
+    *   A new Padma river region in Bangladesh, linked to the Ganges-Padma Barrage, is set to reshape water dynamics, potentially impacting downstream regions, including India.
+    *   Concerns have been raised regarding possible environmental consequences, such as alterations in river morphology, increased salinity intrusion, and adverse effects on the Sundarbans mangrove ecosystem.
+    *   The project underscores the critical need for a collaborative transboundary water management framework between India and Bangladesh to address shared concerns and ensure equitable resource distribution.
 
 ## 🌐 International Relations (IR)
+*   **Current Issue:** 🇮🇳🇺🇸 India-U.S. Bilateral Relations & Maritime Security
+*   **Main Points:**
+    *   Prime Minister Narendra Modi met U.S. President Trump on the sidelines of the G7 Summit, raising concerns about the safety of Indian seafarers, particularly in the strategically vital **Strait of Hormuz**.
+    *   Modi praised Trump's efforts to restore peace in West Asia and highlighted the importance of keeping the Strait of Hormuz open for global maritime trade.
+    *   Discussions also included progress towards finalising a bilateral **trade deal**, with both leaders expressing optimism.
 
-*   **Current Issue:** Operationalisation of India-Russia Logistics Agreement (RELOS) & Iran-U.S. Framework Deal
-*   **Main Points (India-Russia RELOS):**
-    *   The **Reciprocal Exchange of Logistics Agreement (RELOS)** between India and Russia, after years of discussions, was operationalised in January 2026.
-    *   This agreement defines procedures for **reciprocal logistic support**, allowing both countries to use each other's bases and ports for supplies, repair, and fuel, and to use airspace/airfield facilities for military aircraft.
-    *   It facilitates cooperation in joint exercises, training, Humanitarian Assistance and Disaster Relief (HADR) missions, port calls, and technical support.
-    *   Crucially, RELOS does not provide for permanent basing of troops but allows for contingents of up to 3,000 personnel for mutually agreed engagements and grants India access to Russian military facilities in the Arctic.
-    *   India has similar logistics agreements (LSAs) with nine other countries, including the U.S. (LEMOA), U.K., France, Japan, Australia, Singapore, and Oman.
-*   **Main Points (Iran-U.S. Framework Deal):**
-    *   A 14-point **Memorandum of Understanding (MoU)** between Iran and the U.S. is expected to be signed, aiming to resolve ongoing tensions and end the West Asia conflict.
-    *   **Key Commitments:** The U.S. will lift its naval blockade and Treasury Department sanctions on Iranian crude oil, petroleum products, and related banking, insurance, and transportation services. Iran commits to restoring pre-war maritime traffic through the Strait of Hormuz.
-    *   **Indian Seafarers' Safety:** Indian Prime Minister Modi raised concerns about the safety of Indian seafarers with U.S. President Trump, following a recent U.S. strike off Oman that resulted in the deaths of three Indian seafarers on a vessel allegedly transporting Iranian oil.
-    *   **Nuclear Pledge:** Iran has pledged not to produce nuclear weapons and agreed to down-blend its highly enriched uranium under the supervision of the International Atomic Energy Agency (IAEA).
+*   **Current Issue:** 🇮🇷🇺🇸 Iran-U.S. Nuclear Diplomacy & Sanctions Relief
+*   **Main Points:**
+    *   A 14-point framework agreement between Iran and the U.S. is reportedly nearing signing in Geneva, outlining Iran's commitment to never produce nuclear weapons and maintain its nuclear program's status quo.
+    *   The U.S. has agreed to facilitate the release of frozen Iranian assets and lift sanctions on Iranian products, services, crude oil, and banking, contingent on progress towards a final deal.
+    *   The agreement also seeks to restore pre-war traffic through the Strait of Hormuz and includes a plan for Iran's economic development with a $300 billion package.
+
+*   **Current Issue:** 🇮🇳🇬🇧 India-U.K. Free Trade Agreement (FTA)
+*   **Main Points:**
+    *   The **India-U.K. Free Trade Agreement (FTA)** is scheduled to take effect from July 15, aimed at significantly boosting bilateral trade and investment between the two nations.
+    *   The agreement encompasses reduced tariffs on various goods, enhanced market access for services, and provisions for cooperation in emerging areas like digital trade and intellectual property.
+    *   This deal is considered a pivotal step in strengthening economic ties and deepening the strategic partnership between India and the United Kingdom.
+
+*   **Current Issue:** 🇮🇳🇷🇺 India-Russia Defence Cooperation (RELOS)
+*   **Main Points:**
+    *   The **Reciprocal Exchange of Logistics Agreement (RELOS)** between India and Russia, operationalized in January, enhances bilateral defence cooperation.
+    *   RELOS facilitates reciprocal use of each other's military bases and ports for logistical support, including supplies, repairs, and fuel during joint exercises, training, port calls, and Humanitarian Assistance and Disaster Relief (HADR) missions.
+    *   It's important to note that the agreement does **not** allow for the permanent basing of assets or large troop deployments on each other's territory, clarifying certain social media claims.
 
 ## 🏏 Sports & Miscellaneous
-
-*   **Highlight:** Indian teams showcased strong performances across various sports. India-A confirmed a final berth in a tri-nation cricket series, while the Indian women's hockey team remained undefeated in the FIH Nations Cup. Indian badminton players also advanced in the Macau Open.
-*   **Word of the Day:** **Brummagem** (Page 11) - cheap and showy.
+*   **Highlight:** ⚽ Lionel Messi scored a dazzling hat-trick for Argentina in the FIFA World Cup, equaling Miroslav Klose's record of 16 World Cup goals and becoming the first player to feature in six tournaments.
+*   **Highlight:** 🏦 Emirates NBD completed a landmark investment in RBL Bank, marking the largest-ever foreign direct investment and equity fundraise in India's banking sector.
