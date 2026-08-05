@@ -2,81 +2,43 @@
 
 ## 📝 The Hindu Editorial Analysis
 
-*   **Topic:** India's Manufacturing Prowess and Innovation 📈
-*   **Context:** India is at a pivotal moment to emerge as a global manufacturing hub, requiring a focus on innovation, ease of doing business, and skilled labour. The editorial highlights the need to move beyond incremental growth to transformative change.
+*   **Topic:** 🇮🇳 India's Manufacturing Future & Economic Policy
+*   **Context:** Editorials discuss India's potential to become a global manufacturing hub and the need for robust health data policies, along with a piece on US-Iran relations.
 *   **Key Takeaways:**
-    *   India has the potential to become a global manufacturing powerhouse, but this hinges on a robust innovation ecosystem.
-    *   Ease of doing business, access to capital, and a skilled workforce are crucial for attracting investment and fostering growth.
-    *   Addressing issues like infrastructure bottlenecks and bureaucratic hurdles is essential to capitalize on global supply chain shifts.
-
-*   **Topic:** Welfare Schemes and Population Control in Andhra Pradesh 👨‍👩‍👧‍👦
-*   **Context:** The editorial discusses a Data Point regarding Andhra Pradesh's incentive for large families, arguing that it is misplaced and fails to address the root causes of childcare costs.
-*   **Key Takeaways:**
-    *   One-time financial aid for larger families may not effectively offset long-term childcare expenses, especially for lower-income households.
-    *   Such incentives can inadvertently counter broader population control efforts and strain public resources.
-    *   A more holistic approach focusing on education, healthcare, and economic empowerment is needed to improve family welfare and make informed choices about family size.
+    *   **Innovate or be Eaten:** India's ambition to be a global manufacturing hub faces challenges like low R&D spending, skill gaps, and policy-induced stress. Opportunities lie in its demographic dividend, clean energy focus, and export-oriented growth, requiring bold reforms.
+    *   **Health Data Action:** Despite significant health data initiatives, policy implementation gaps persist. There's a need for a comprehensive national health data policy, improved data sharing between states and the Centre, and greater transparency to ensure accountability and improve public health outcomes.
+    *   **Strategic Empathy Limits:** The US "maximum pressure" approach towards Iran has often been counterproductive. True strategic empathy, understanding the adversary's perspective without endorsing their actions, is crucial for de-escalation and finding common ground in complex international disputes.
 
 ## 🏛️ Polity & Governance
 
-*   **Current Issue:** Uniform Civil Code (UCC) in Madhya Pradesh ⚖️
+*   **Current Issue:** ⚖️ **Uniform Civil Code (UCC) & School Safety Audits**
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister announced that a **UCC Bill** will be introduced in the upcoming Monsoon Session of the Legislative Assembly in July.
-    *   A six-member high-level committee is drafting the Bill, and public suggestions have been invited.
-    *   This development signals a significant step towards implementing a UCC in the State, aligning with similar moves in other BJP-ruled States.
-
-*   **Current Issue:** Delhi HC Notice on Telegram Ban Plea 📵
-*   **Main Points:**
-    *   The Delhi High Court has issued a notice to the Centre regarding a plea from Telegram, challenging the government's order to block its services in India.
-    *   The issue involves **freedom of speech and expression**, the **Information Technology Act**, and concerns about the spread of fake news/misinformation.
-    *   Telegram argues that the ban is disproportionate and impacts its legitimate users.
-
-*   **Current Issue:** RBI's Increasing Fiscal Role and Fiscal Federalism 💰
-*   **Main Points:**
-    *   The **Reserve Bank of India (RBI)** approved a record ₹2.87 lakh crore surplus transfer to the Union government for FY26.
-    *   This highlights the RBI's growing fiscal significance, driven by earnings from reserve management and foreign assets.
-    *   The trend raises questions about **central bank independence**, **fiscal centralisation**, and the exclusion of such transfers from fiscal devolution to States, impacting **fiscal federalism**.
+    *   Madhya Pradesh Chief Minister announced that a **UCC Bill** will be tabled in the upcoming Monsoon Session of the Legislative Assembly, following efforts by a high-level committee to draft it. This highlights ongoing state-level initiatives towards a UCC.
+    *   The Delhi Lieutenant-Governor (L-G) has ordered a **comprehensive citywide audit of all schools for POCSO Act compliance**, emphasizing child protection and safety in educational institutions.
+    *   The Supreme Court bench has decided to look into allegations of the **Registry misplacing case records**, raising concerns about the administrative efficiency and integrity of the judicial system.
+    *   **Enforcement Directorate (ED) actions** continue to be in news, with Kerala CM Pinarayi Vijayan's daughter questioned in a money-laundering case, and the Karnataka High Court deeming the arrest of "Gameskraft" directors illegal, highlighting legal scrutiny of ED's powers.
+    *   Odisha Chief Minister ordered **immediate action over significant errors found in school textbooks** (Classes 1-8), emphasizing accountability in the education department and quality control for educational materials.
 
 ## 🌍 Geography & Environment
 
-*   **Current Issue:** Bangladesh's New Padma Barrage and Transboundary Rivers 🌊
+*   **Current Issue:** 🌊 **Transboundary Water Management: Padma Barrage**
 *   **Main Points:**
-    *   Bangladesh has greenlit the **Padma Barrage** project to control the Padma river (Ganga in Bangladesh) and address seasonal water scarcity.
-    *   Located 180 km downstream of India's Farakka barrage, this project has significant **transboundary water implications** for India-Bangladesh relations.
-    *   Experts warn of potential **environmental costs**, including altered river ecology, reduced groundwater recharge, increased salinity in the Sundarbans, and impacts on livelihoods.
-
-*   **Current Issue:** Universe's Accelerating Expansion Confirmed 🔭
-*   **Main Points:**
-    *   New research, based on Type Ia supernovae data, has reaffirmed that the **universe's expansion is accelerating**, driven by **dark energy**.
-    *   This finding rebuts earlier research suggesting a slowdown in expansion, reinforcing the fundamental understanding of cosmology.
-    *   The study used supernovae as "cosmic mile markers" to measure expansion rates and changes over time.
+    *   Bangladesh has signed off on a new **Padma Barrage**, 180 km downstream of India's Farakka barrage, to control the Padma river (Ganga in Bangladesh) and address seasonal water scarcity.
+    *   This project has **significant environmental implications**, including altered river ecology, reduced groundwater recharge, increased salinity in the Sundarbans, and impacts on livelihoods, highlighting the complex challenges of transboundary river management between India and Bangladesh.
+    *   The project also raises questions about its **cost-effectiveness, engineering resources**, and potential impact on India-Bangladesh water-sharing agreements and regional geo-politics.
+    *   India aims to meet a **3% compressed biogas blending goal for FY27**, advancing its renewable energy and environmental sustainability targets.
 
 ## 🌐 International Relations (IR)
 
-*   **Current Issue:** India-U.S. Bilateral Meeting and Maritime Security 🚢
+*   **Current Issue:** 🤝 **India-US Bilateral, Iran Nuclear Deal & Logistics Pacts**
 *   **Main Points:**
-    *   PM Modi met U.S. President Trump on the sidelines of the G7 Summit in France, discussing bilateral ties and **maritime security**.
-    *   Modi raised concerns about the **safety of Indian seafarers**, particularly in the Strait of Hormuz, following a U.S. strike that killed three Indian sailors.
-    *   The leaders also discussed progress on a **trade deal** and U.S. efforts to restore peace in West Asia.
-
-*   **Current Issue:** Iran-U.S. Framework Deal on Nuclear Pledge and Sanctions Relief 🤝
-*   **Main Points:**
-    *   A 14-point framework agreement between Iran and the U.S. outlines Iran's pledge not to produce nuclear weapons and potential financial relief.
-    *   The U.S. has agreed to facilitate the release of **frozen Iranian assets** and lift sanctions, contingent on progress towards a final agreement.
-    *   The deal, expected to be signed in Geneva, aims to restore pre-war traffic through the Strait of Hormuz and ensure regional stability.
-
-*   **Current Issue:** India-Russia Logistics Agreement (RELOS) ✈️
-*   **Main Points:**
-    *   The **Reciprocal Exchange of Logistics Agreement (RELOS)** between India and Russia became operational in January, simplifying administrative procedures for military cooperation.
-    *   The agreement allows for reciprocal use of bases, ports, and facilities for supplies, repairs, and fuel during joint exercises, training, and HADR missions.
-    *   It covers a maximum of 3,000 troops and is crucial for expanding cooperation, including access to Russian military facilities in the Arctic.
-
-*   **Current Issue:** India-U.K. Trade Deal Implementation 💼
-*   **Main Points:**
-    *   The **India-U.K. trade deal** is set to take effect from July 15, aiming to boost economic ties and remove restrictions on products and services.
-    *   This agreement involves **duty-free imports** for several British goods and concessions for Indian products, benefiting various sectors.
-    *   The deal is expected to create jobs, reduce business costs, and enhance the strategic partnership between the two nations.
+    *   Prime Minister Modi met US President Trump on the sidelines of the G7 Summit, raising the **safety of Indian seafarers** in the Strait of Hormuz and progressing towards a **bilateral trade deal**. Modi also commended Trump's efforts for West Asia peace.
+    *   An **Iran-US framework deal** is emerging, outlining Iran's nuclear pledge (never to produce nuclear weapons) and potential financial relief for Iran, including lifting sanctions and naval blockade, marking a significant step in defusing tensions.
+    *   The **India-Russia Reciprocal Exchange of Logistics Agreement (RELOS)** has been operationalised, allowing reciprocal use of military bases for supplies, repair, and fuel during joint exercises or HADR missions, *without* permitting permanent basing of troops.
+    *   The **India-U.K. trade deal** is set to take effect from July 15, signifying strengthening bilateral economic ties.
+    *   US President Biden's administration has dropped "Indo" from the name of its military's Pacific Command, now referred to as the **"Pacific Command"**, potentially indicating a recalibration of US strategic focus or nomenclature in the region.
 
 ## 🏏 Sports & Miscellaneous
 
-*   **Highlight:** Lionel Messi's World Cup Record ⚽
-*   **Brief Point:** Lionel Messi scored a dazzling hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 goals at World Cups and becoming the first player to feature in six tournaments.
+*   **Highlight:** ⚽ **FIFA World Cup 2026** sees Lionel Messi score a hat-trick for Argentina, equalling Klose's record of 16 World Cup goals and becoming the first player to feature in six tournaments. Erling Haaland also scored a double for Norway.
+*   **Highlight:** 🏏 In cricket, **India-A secured an all-but-confirmed final berth** in the tri-nation series after a commanding win against Afghanistan-A, showcasing strong performances from Tilak Varma and Kumar Kushagra.
