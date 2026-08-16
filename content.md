@@ -1,75 +1,77 @@
 # 📰 Daily UPSC Master-Brief
-## 📝 The Hindu Editorial Analysis
-*   **Topic:** 💧 Water Security for a Developed India (Viksit Bharat)
-*   **Context:** India's ambitious goal of achieving 'Viksit Bharat' by 2047 necessitates addressing critical cross-cutting issues, with water security being paramount.
-*   **Key Takeaways:**
-    *   Water is a fundamental resource for economic growth, environmental sustainability, and public health, requiring an integrated and multi-sectoral approach.
-    *   Challenges include climate change impacts, rapid urbanisation, industrial pollution, and severe groundwater depletion.
-    *   Government initiatives like Jal Jeevan Mission, Atal Bhujal Yojana, and Amrit Sarovar are crucial, but require enhanced community participation and behavioural change.
-    *   Technological adoption, such as efficient irrigation and wastewater recycling, is vital for long-term water resilience.
 
-*   **Topic:** 👨‍👩‍👧‍👦 Misplaced Incentives for Large Families in Andhra Pradesh
-*   **Context:** The Andhra Pradesh government's cash incentive scheme for women having three or more children, aimed at improving health outcomes.
+## 📝 The Hindu Editorial Analysis
+*   **Topic:** RBI's Evolving Fiscal Role and Central Bank Independence
+*   **Context:** The Reserve Bank of India (RBI) approved a record surplus transfer of ₹2.87 lakh crore to the Union government for FY26, raising questions about its fiscal significance and potential impact on central bank independence.
 *   **Key Takeaways:**
-    *   While the scheme aims to reduce Infant Mortality Rate (IMR) and Maternal Mortality Rate (MMR), a one-time financial aid is insufficient to offset the long-term childcare costs for larger families.
-    *   Studies indicate that larger families often experience poorer health outcomes and limited access to education and employment opportunities.
-    *   The incentive is considered misplaced in a state where the Total Fertility Rate (TFR) is already below the replacement level (2.1), suggesting efforts should focus on access to education, health, family planning, and employment.
+    *   The record surplus transfer, significantly larger than previous years, highlights the RBI's growing role in supporting government finances, beyond its traditional mandate of monetary and financial stability.
+    *   This trend raises concerns about the RBI becoming a "fiscal instrument," potentially blurring the lines between monetary policy and fiscal policy.
+    *   The article emphasizes the importance of preserving the central bank's institutional distance and autonomy, despite its operations increasingly yielding significant fiscal revenues.
+    *   The transfer, being non-tax revenue, benefits the Union government directly and is not part of the divisible pool shared with States, indirectly supporting fiscal centralization.
+
+*   **Topic:** Misplaced Incentives for Large Families in Andhra Pradesh
+*   **Context:** The article critically examines the effectiveness and potential unintended consequences of Andhra Pradesh's incentive programs for large families, particularly the one-time aid for childbirth.
+*   **Key Takeaways:**
+    *   Andhra Pradesh's policies, while aiming to support families, might be misplaced if they primarily offer one-time aid rather than addressing long-term childcare costs.
+    *   The data suggests that the one-time aid may not adequately offset the substantial and ongoing financial burdens associated with raising children, especially for larger families.
+    *   The article implicitly questions the efficacy of such incentives in achieving broader social or demographic goals if they fail to provide sustained support for childcare.
 
 ## 🏛️ Polity & Governance
-*   **Current Issue:** ⚖️ Uniform Civil Code (UCC) in Madhya Pradesh
+*   **Current Issue:** Uniform Civil Code (UCC) Bill in Madhya Pradesh
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the Uniform Civil Code (UCC) would be introduced in the upcoming Monsoon Session of the Legislative Assembly in July.
-    *   A six-member high-level committee, formed in April, is currently drafting the Bill after surveying various parts of the state.
-    *   The public has been invited to share suggestions on a recently launched government portal.
+    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the Uniform Civil Code (UCC) would be introduced in the upcoming Monsoon Session of the Legislative Assembly, slated for July 20-24.
+    *   A six-member high-level committee, formed in April and headed by retired Supreme Court judge Justice Ranjana Prasad Desai, is currently drafting the Bill.
+    *   The CM has invited public suggestions via a government portal and hopes the Bill will be passed in the same session. The panel is also studying models from other BJP-ruled states like Uttarakhand and Gujarat.
 
-*   **Current Issue:** 🛡️ Child Protection Audit in Delhi Schools
+*   **Current Issue:** Audit of Delhi Schools for POCSO Compliance
 *   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu ordered a comprehensive citywide audit of all Delhi schools.
-    *   The audit aims to assess compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
+    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all Delhi schools to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
+    *   The audit aims to ensure a safe environment for children, focusing on infrastructure, safety measures, grievance redressal, and awareness programs.
+    *   The L-G stressed the importance of ensuring "zero tolerance" towards child abuse and promoting a culture of safety.
 
-*   **Current Issue:** 🎭 Political Turmoil & Anti-Defection Law
+*   **Current Issue:** Legality of Arrests by Enforcement Directorate
 *   **Main Points:**
-    *   The Shiv Sena (UBT) faction convened a parliamentary board meeting amid rumours of a split involving at least six of its nine Lok Sabha MPs.
-    *   The party approached the Lok Sabha Speaker, requesting that their faction be heard first in any potential disqualification proceedings.
-    *   Separately, four former AIADMK MLAs, facing disqualification proceedings for defying the party whip, submitted their written responses to the Tamil Nadu Assembly Speaker.
+    *   The Karnataka High Court declared the arrest of directors of Gameskraft Technologies Pvt. Ltd. by the Enforcement Directorate (ED) as "contrary to law."
+    *   The court ordered their release from prison, noting that the ED arrested them without issuing summons under Section 50 of the Prevention of Money Laundering Act and without new material since previous searches in 2025.
+    *   This highlights judicial scrutiny over the ED's powers and adherence to due process in arrests.
 
 ## 🌍 Geography & Environment
-*   **Current Issue:** 🏗️ Padma Barrage Project in Bangladesh & Regional Water Dynamics
+*   **Current Issue:** New Padma Barrage in Bangladesh and its Regional Impact
 *   **Main Points:**
-    *   Bangladesh is proceeding with the Padma Barrage project, a $6.4 billion multi-purpose initiative designed to store water, generate power, control floods, and improve navigation.
-    *   Concerns have been raised regarding its potential environmental impacts, including implications for the Ganges-Brahmaputra delta's ecosystem, fisheries, groundwater, and local livelihoods.
-    *   The project highlights transboundary water management issues and the need for comprehensive environmental impact assessments.
-
-*   **Current Issue:** 🌌 Accelerating Expansion of the Universe
-*   **Main Points:**
-    *   New research provides further confirmation that the universe's expansion is accelerating, a phenomenon attributed to 'dark energy'.
-    *   The findings support the Nobel Prize-winning discovery by using supernovae (Type Ia) as 'standard candles' to measure cosmic distances and expansion rates.
-    *   This acceleration continues to pose challenges to existing cosmological models and understanding of the universe's ultimate fate.
+    *   Bangladesh signed off on the new Padma barrage project to control the Padma river (Ganga in Bangladesh) and address seasonal water scarcity, located 180 km downstream of India's Farakka barrage.
+    *   The project, estimated at ₹39,170 crore, aims to store 2,900 million cu. m of water for 6.5 crore people in southwestern and northern Bangladesh.
+    *   Experts warn of considerable environmental costs, including altered river character and ecology, diminished groundwater recharge, increased salinity in the Sundarbans, and impact on livelihoods like fisherfolk.
+    *   The project also raises geopolitical concerns for India, especially given India-Bangladesh transboundary water disputes and China's growing influence in the region's water management.
 
 ## 🌐 International Relations (IR)
-*   **Current Issue:** 🤝 India-US Bilateral Engagement & Trade Relations
+*   **Current Issue:** India-U.S. Bilateral Meet and Regional Security
 *   **Main Points:**
-    *   PM Narendra Modi met U.S. President Trump on the sidelines of the G7 Summit in Evian, France, where Modi raised concerns about the safety of Indian seafarers in the Strait of Hormuz.
-    *   Trump praised Modi and indicated that India and the U.S. are "very close" to finalizing a trade deal.
-    *   The leaders also discussed efforts to restore peace in West Asia and stressed the importance of keeping the Strait of Hormuz open.
+    *   Prime Minister Narendra Modi and U.S. President Trump met on the sidelines of the G7 Summit in France, discussing the safety of Indian seafarers (following a U.S. strike off Oman) and the importance of keeping the Strait of Hormuz open.
+    *   PM Modi commended President Trump's efforts to restore peace in West Asia, expressing confidence in long-term peace.
+    *   Both leaders noted that India and the U.S. are "very close" to finalising a trade deal, with Mr. Trump calling Modi a "very tough" negotiator.
 
-*   **Current Issue:** 🚢 India-Russia Logistics Support Agreement (RELOS)
+*   **Current Issue:** Iran-U.S. Framework Deal on Nuclear Program and Sanctions Relief
 *   **Main Points:**
-    *   The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia was operationalized in January, defining procedures for supporting military formations, port calls, and use of airspace and airfield facilities.
-    *   Similar to agreements India has with countries like the U.S. and U.K., RELOS does not allow for permanent basing of troops on each other's territory.
-    *   A key aspect is that RELOS provides India access to Russian military facilities in the Arctic, supporting expanded cooperation in the region.
+    *   A 14-point framework agreement has been reached between Tehran and Washington, outlining Iran's pledge never to produce nuclear weapons and maintaining a status quo on its nuclear program.
+    *   The U.S. has agreed to facilitate the release of frozen Iranian assets and create a plan for Iran's economic development ($300 billion), including lifting sanctions on Iranian products, services, crude, and banking, and withdrawing forces from "surrounding areas."
+    *   The deal is expected to be signed in Geneva soon and aims to restore pre-war traffic through the Strait of Hormuz.
 
-*   **Current Issue:** 🇬🇧 India-UK Trade Deal Implementation
+*   **Current Issue:** Operationalisation of India-Russia Logistics Support Agreement (RELOS)
 *   **Main Points:**
-    *   India and the United Kingdom announced that their bilateral trade deal is set to take effect from July 15.
-    *   The agreement includes provisions for reduced tariffs on products and services, aiming to boost economic cooperation and facilitate trade between the two nations.
+    *   The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia was operationalized in January 2026.
+    *   RELOS, similar to agreements India holds with other nations, facilitates reciprocal use of each other's bases and ports for supplies, repair, and fuel during joint exercises, training, port calls, and Humanitarian Assistance and Disaster Relief (HADR) situations.
+    *   The agreement, signed in 2025 and valid for five years, specifically covers military formations, port calls of warships, and use of airspace/airfield facilities by military aircraft. It also grants access to Russian military facilities in the Arctic.
 
-*   **Current Issue:** 🌍 Iran Nuclear Deal & Regional Stability
+*   **Current Issue:** India-U.K. Trade Deal Implementation
 *   **Main Points:**
-    *   A 14-point framework agreement between Iran and the U.S. was published, outlining Iran's pledge never to produce nuclear weapons and the U.S.'s agreement to facilitate the release of frozen Iranian assets.
-    *   The memorandum of understanding, expected to be signed in Geneva, also includes plans for Iran's economic development, involving $300 billion.
+    *   India and the U.K. announced that their Free Trade Agreement (FTA) will take effect from July 15, after being signed in February.
+    *   The deal is expected to eliminate or reduce duties on a significant portion of traded goods, with the U.K. removing duties on 89% of its tariff lines and India on 65%.
+    *   This agreement aims to boost bilateral trade, create jobs, and strengthen economic ties between the two nations.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight:** ⚽ **Lionel Messi** achieved a World Cup hat-trick (his first in the tournament) for Argentina, equaling Miroslav Klose's all-time record of 16 goals in World Cups and becoming the first player to feature in six World Cups.
-*   **Highlight:** 🏒 The Indian women's hockey team aims to remain undefeated in the FIH Nations Cup, securing a semifinal spot and looking to regain its place in the elite FIH Pro League.
-*   **Highlight:** 🏊 **Srihari Nataraj** broke his own 50m backstroke national record at the National Aquatics meet, retaining his title and achieving qualification marks for major international events.
+*   **Highlight:** Universe's Expansion Still Accelerating 🌌
+    *   Researchers have confirmed that the universe is expanding at an accelerated rate, rebuffing earlier studies that suggested otherwise.
+    *   This finding reinforces the concept of dark energy as the invisible force driving this acceleration, critical for understanding the universe's structure and evolution.
+*   **Highlight:** Messi's World Cup Records ⚽
+    *   Lionel Messi scored a dazzling hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 goals at World Cups.
+    *   He also became the first player to feature in six World Cup tournaments, further cementing his legendary status.
