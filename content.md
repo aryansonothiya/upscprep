@@ -1,77 +1,84 @@
 # 📰 Daily UPSC Master-Brief
 
 ## 📝 The Hindu Editorial Analysis
-*   **Topic:** RBI's Evolving Fiscal Role and Central Bank Independence
-*   **Context:** The Reserve Bank of India (RBI) approved a record surplus transfer of ₹2.87 lakh crore to the Union government for FY26, raising questions about its fiscal significance and potential impact on central bank independence.
-*   **Key Takeaways:**
-    *   The record surplus transfer, significantly larger than previous years, highlights the RBI's growing role in supporting government finances, beyond its traditional mandate of monetary and financial stability.
-    *   This trend raises concerns about the RBI becoming a "fiscal instrument," potentially blurring the lines between monetary policy and fiscal policy.
-    *   The article emphasizes the importance of preserving the central bank's institutional distance and autonomy, despite its operations increasingly yielding significant fiscal revenues.
-    *   The transfer, being non-tax revenue, benefits the Union government directly and is not part of the divisible pool shared with States, indirectly supporting fiscal centralization.
 
-*   **Topic:** Misplaced Incentives for Large Families in Andhra Pradesh
-*   **Context:** The article critically examines the effectiveness and potential unintended consequences of Andhra Pradesh's incentive programs for large families, particularly the one-time aid for childbirth.
+*   **Topic:** 🩺 Health Data & Governance
+*   **Context:** Discusses the critical need for robust, reliable health data in India for effective policy-making and program implementation, highlighting current challenges in data collection, quality, and utilization.
 *   **Key Takeaways:**
-    *   Andhra Pradesh's policies, while aiming to support families, might be misplaced if they primarily offer one-time aid rather than addressing long-term childcare costs.
-    *   The data suggests that the one-time aid may not adequately offset the substantial and ongoing financial burdens associated with raising children, especially for larger families.
-    *   The article implicitly questions the efficacy of such incentives in achieving broader social or demographic goals if they fail to provide sustained support for childcare.
+    *   Effective public health programs and resource allocation are severely hampered by the absence of comprehensive and real-time health data.
+    *   India faces significant challenges in its health data system, including inconsistent data collection, issues with reliability, and limited public accessibility.
+    *   There is a pressing need for a comprehensive health data policy that prioritizes action-oriented insights over mere data accumulation.
+    *   The establishment of a robust Public Health Data System is crucial for standardized collection, analytical processing, and transparent dissemination of health information.
+
+*   **Topic:** 🏦 RBI's Evolving Role & Fiscal Federalism
+*   **Context:** Examines the implications of the Reserve Bank of India's (RBI) record ₹2.87 lakh crore surplus transfer to the Union government for FY26, particularly its impact on fiscal policy, central bank independence, and federal financial relations.
+*   **Key Takeaways:**
+    *   The substantial surplus transfer signals RBI's growing fiscal significance, providing the government with significant financial space without resorting to new taxes or borrowing.
+    *   This trend raises concerns about the erosion of central bank independence, as the RBI's actions increasingly appear to serve fiscal rather than purely monetary objectives.
+    *   The transfers contribute to fiscal centralization, as these non-tax revenues are entirely appropriated by the Union government, bypassing the divisible pool that would typically be shared with States through Finance Commission formulas.
+    *   The RBI's role is evolving from primarily a guardian of monetary stability to an increasingly important source of fiscal capacity for the government.
 
 ## 🏛️ Polity & Governance
-*   **Current Issue:** Uniform Civil Code (UCC) Bill in Madhya Pradesh
-*   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the Uniform Civil Code (UCC) would be introduced in the upcoming Monsoon Session of the Legislative Assembly, slated for July 20-24.
-    *   A six-member high-level committee, formed in April and headed by retired Supreme Court judge Justice Ranjana Prasad Desai, is currently drafting the Bill.
-    *   The CM has invited public suggestions via a government portal and hopes the Bill will be passed in the same session. The panel is also studying models from other BJP-ruled states like Uttarakhand and Gujarat.
 
-*   **Current Issue:** Audit of Delhi Schools for POCSO Compliance
+*   **Current Issue:** 🏫 POCSO Compliance in Delhi Schools
 *   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all Delhi schools to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
-    *   The audit aims to ensure a safe environment for children, focusing on infrastructure, safety measures, grievance redressal, and awareness programs.
-    *   The L-G stressed the importance of ensuring "zero tolerance" towards child abuse and promoting a culture of safety.
+    *   Delhi Lieutenant-Governor Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all schools to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
+    *   The audit aims to identify gaps in safety measures, infrastructure, and adherence to guidelines to prevent child abuse, covering over 7,000 schools through a dedicated task force.
 
-*   **Current Issue:** Legality of Arrests by Enforcement Directorate
+*   **Current Issue:** 📜 Uniform Civil Code (UCC) in Madhya Pradesh
 *   **Main Points:**
-    *   The Karnataka High Court declared the arrest of directors of Gameskraft Technologies Pvt. Ltd. by the Enforcement Directorate (ED) as "contrary to law."
-    *   The court ordered their release from prison, noting that the ED arrested them without issuing summons under Section 50 of the Prevention of Money Laundering Act and without new material since previous searches in 2025.
-    *   This highlights judicial scrutiny over the ED's powers and adherence to due process in arrests.
+    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the Uniform Civil Code (UCC) will be introduced in the upcoming Monsoon Session of the State Legislative Assembly (July 20-24).
+    *   A six-member high-level committee, formed in April, is currently drafting the Bill. M.P. would become one of the BJP-ruled states, alongside Uttarakhand and Gujarat, to implement the UCC.
+
+*   **Current Issue:** 💰 ED Probe in CMRL Pay-off Case
+*   **Main Points:**
+    *   T. Veena, daughter of former Kerala CM Pinarayi Vijayan, was questioned by the Enforcement Directorate (ED) for approximately eight hours regarding a money-laundering probe related to the Cochin Minerals and Rutile Ltd. (CMRL) pay-off case.
+    *   The investigation centers on alleged payments of ₹2.78 crore by CMRL to Veena's now-defunct Exalogic IT company, raising questions of financial irregularities and political corruption.
+
+*   **Current Issue:** 📚 Textbook Errors in Odisha
+*   **Main Points:**
+    *   Odisha Chief Minister Mohan Charan Majhi directed immediate corrective measures and action against officials responsible for errors found in school textbooks.
+    *   Textbooks for Classes 1 to 8 reportedly contain 1,678 mistakes, including factual inaccuracies (e.g., Newton described as a "greatest pilot") and incorrect images. A three-member panel will investigate the matter.
+
+*   **Current Issue:** 🗣️ Nicobar Tribal Councils & Self-Governance
+*   **Main Points:**
+    *   The Union Tribal Affairs Ministry has empowered traditional tribal councils (known as 'homi' and 'kareava') in the Nicobar Islands to draft their own election rules, replacing the previous nomination system.
+    *   This initiative aims to enhance self-governance and strengthen democratic processes within the tribal communities, allowing them to create their own internal functioning and election procedures.
 
 ## 🌍 Geography & Environment
-*   **Current Issue:** New Padma Barrage in Bangladesh and its Regional Impact
+
+*   **Current Issue:** 🌊 Bangladesh's Padma Barrage & Transboundary Water Issues
 *   **Main Points:**
-    *   Bangladesh signed off on the new Padma barrage project to control the Padma river (Ganga in Bangladesh) and address seasonal water scarcity, located 180 km downstream of India's Farakka barrage.
-    *   The project, estimated at ₹39,170 crore, aims to store 2,900 million cu. m of water for 6.5 crore people in southwestern and northern Bangladesh.
-    *   Experts warn of considerable environmental costs, including altered river character and ecology, diminished groundwater recharge, increased salinity in the Sundarbans, and impact on livelihoods like fisherfolk.
-    *   The project also raises geopolitical concerns for India, especially given India-Bangladesh transboundary water disputes and China's growing influence in the region's water management.
+    *   Bangladesh has initiated the new Padma barrage project, located 180 km downstream of India's Farakka barrage, to control the Padma river (Ganga in Bangladesh) and address seasonal water scarcity.
+    *   The project raises significant environmental concerns, including potential increases in salinity in the Sundarbans, reduced groundwater recharge, altered river ecology, and impacts on local livelihoods.
+    *   This development highlights complex transboundary water sharing dynamics in South Asia, especially given India's historical concerns regarding water management and recent political shifts in Bangladesh.
 
 ## 🌐 International Relations (IR)
-*   **Current Issue:** India-U.S. Bilateral Meet and Regional Security
-*   **Main Points:**
-    *   Prime Minister Narendra Modi and U.S. President Trump met on the sidelines of the G7 Summit in France, discussing the safety of Indian seafarers (following a U.S. strike off Oman) and the importance of keeping the Strait of Hormuz open.
-    *   PM Modi commended President Trump's efforts to restore peace in West Asia, expressing confidence in long-term peace.
-    *   Both leaders noted that India and the U.S. are "very close" to finalising a trade deal, with Mr. Trump calling Modi a "very tough" negotiator.
 
-*   **Current Issue:** Iran-U.S. Framework Deal on Nuclear Program and Sanctions Relief
+*   **Current Issue:** 🇮🇳🇺🇸 India-U.S. Bilateral Relations & Regional Security
 *   **Main Points:**
-    *   A 14-point framework agreement has been reached between Tehran and Washington, outlining Iran's pledge never to produce nuclear weapons and maintaining a status quo on its nuclear program.
-    *   The U.S. has agreed to facilitate the release of frozen Iranian assets and create a plan for Iran's economic development ($300 billion), including lifting sanctions on Iranian products, services, crude, and banking, and withdrawing forces from "surrounding areas."
-    *   The deal is expected to be signed in Geneva soon and aims to restore pre-war traffic through the Strait of Hormuz.
+    *   PM Narendra Modi met U.S. President Trump on the sidelines of the G7 Summit in France, discussing bilateral ties and regional security.
+    *   PM Modi raised concerns over the safety of Indian seafarers, particularly after a U.S. strike off Oman, and emphasized the importance of keeping the Strait of Hormuz open for global trade.
+    *   Trump lauded Modi's leadership and indicated that India and the U.S. are nearing the finalization of a comprehensive trade deal.
 
-*   **Current Issue:** Operationalisation of India-Russia Logistics Support Agreement (RELOS)
+*   **Current Issue:** 🇮🇳🇬🇧 India-U.K. Trade Deal Implementation
 *   **Main Points:**
-    *   The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia was operationalized in January 2026.
-    *   RELOS, similar to agreements India holds with other nations, facilitates reciprocal use of each other's bases and ports for supplies, repair, and fuel during joint exercises, training, port calls, and Humanitarian Assistance and Disaster Relief (HADR) situations.
-    *   The agreement, signed in 2025 and valid for five years, specifically covers military formations, port calls of warships, and use of airspace/airfield facilities by military aircraft. It also grants access to Russian military facilities in the Arctic.
+    *   The India-U.K. trade deal, targeting to boost bilateral trade to $100 billion by 2030, is slated to take effect from July 15.
+    *   The agreement involves lifting sanctions on various Indian products and services, including crude and banking, and is set to reduce trade barriers and enhance economic cooperation between the two nations.
 
-*   **Current Issue:** India-U.K. Trade Deal Implementation
+*   **Current Issue:** 🇮🇷🇺🇸 Iran-U.S. Framework Nuclear Deal
 *   **Main Points:**
-    *   India and the U.K. announced that their Free Trade Agreement (FTA) will take effect from July 15, after being signed in February.
-    *   The deal is expected to eliminate or reduce duties on a significant portion of traded goods, with the U.K. removing duties on 89% of its tariff lines and India on 65%.
-    *   This agreement aims to boost bilateral trade, create jobs, and strengthen economic ties between the two nations.
+    *   A 14-point framework agreement between Iran and the U.S. is expected to be signed in Geneva, with Iran pledging not to produce nuclear weapons.
+    *   The U.S. has agreed to facilitate the release of frozen Iranian assets and support Iran's economic development, potentially involving $300 billion, alongside lifting sanctions and a naval blockade.
+    *   Iran, in turn, has committed to restoring pre-war traffic through the Strait of Hormuz.
+
+*   **Current Issue:** 🇮🇳🇷🇺 India-Russia Logistics Agreement (RELOS)
+*   **Main Points:**
+    *   The India-Russia Reciprocal Exchange of Logistics Agreement (RELOS) became operational in January, enabling reciprocal use of each other's bases and ports for supplies, repair, and fuel during joint military activities and HADR missions.
+    *   Crucially, the agreement *does not* permit permanent basing of troops or assets but facilitates temporary access and support.
+    *   It also provides India with access to Russian military facilities in the Arctic, opening new avenues for strategic cooperation.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight:** Universe's Expansion Still Accelerating 🌌
-    *   Researchers have confirmed that the universe is expanding at an accelerated rate, rebuffing earlier studies that suggested otherwise.
-    *   This finding reinforces the concept of dark energy as the invisible force driving this acceleration, critical for understanding the universe's structure and evolution.
-*   **Highlight:** Messi's World Cup Records ⚽
-    *   Lionel Messi scored a dazzling hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 goals at World Cups.
-    *   He also became the first player to feature in six World Cup tournaments, further cementing his legendary status.
+
+*   **Highlight:** ⚽ Messi's World Cup Record
+    *   Lionel Messi scored a dazzling hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 goals at World Cups and becoming the first player to feature in six World Cup tournaments.
