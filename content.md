@@ -2,68 +2,110 @@
 
 ## 📝 The Hindu Editorial Analysis
 
-*   **Topic:** 💧 Water Scarcity and India's Developmental Goals
-*   **Context:** The editorial discusses the critical role of water management in achieving India's 'Viksit Bharat' vision, highlighting challenges like scarcity, transboundary river disputes, and the environmental impact of large-scale water projects.
+*   **Topic:** 🏭 **India's Manufacturing & Innovation Imperative**
+*   **Context:** The editorial discusses India's ambition to become a global manufacturing hub and the challenges it faces, particularly the need for innovation and support for MSMEs.
 *   **Key Takeaways:**
-    *   Water scarcity is a fundamental challenge for India, with mismanagement potentially hindering economic growth and sustainability.
-    *   Efficient water resource management requires improved irrigation, wastewater treatment, and robust community participation.
-    *   Transboundary river issues, such as those with Bangladesh over the Ganga-Padma and Teesta rivers, necessitate cooperative agreements rather than unilateral actions.
-    *   Large infrastructure projects like barrages can have significant ecological consequences, including altered river character, reduced groundwater recharge, and impacts on ecosystems like the Sundarbans.
+    *   India's share in global manufacturing remains low (1.7%), despite significant opportunities presented by global supply chain diversification.
+    *   The 'make-in-India' push needs to integrate MSMEs effectively, as they are crucial for fostering a robust manufacturing ecosystem.
+    *   Innovation is paramount; India must shift from incremental improvements to disruptive innovation to compete globally.
+    *   Addressing issues like access to capital, skilled labour, and a conducive regulatory environment for startups is essential.
 
-*   **Topic:** 🤝 Strategic Empathy in India-US Relations
-*   **Context:** The editorial reflects on the complexities of India-US strategic partnerships, especially when global events like conflicts in the Strait of Hormuz impact Indian interests, such as the safety of seafarers.
+*   **Topic:** 🏥 **Leveraging Health Data for Policy Action**
+*   **Context:** The piece highlights the gap between collecting vast amounts of health data and using it effectively for public health policies and interventions.
 *   **Key Takeaways:**
-    *   India's growing global influence requires a nuanced and assertive foreign policy approach.
-    *   Bilateral relations are tested by specific incidents, emphasizing the need for clarity and concrete outcomes from strategic alliances.
-    *   The safety and interests of Indian citizens abroad, particularly seafarers in conflict zones, are paramount and must be effectively addressed in diplomatic engagements.
+    *   Despite decades of data collection from various health surveys, the effective utilisation for evidence-based policy remains a challenge.
+    *   Often, data is collected but not adequately analysed, disseminated, or integrated into decision-making processes.
+    *   There's a need for a clear policy framework on how health data will be collected, managed, and shared to drive action.
+    *   Improving data literacy among policymakers and fostering collaboration between data scientists, public health experts, and policymakers are crucial for "data-driven action".
+
+*   **Topic:** 💧 **Water Security as a Pillar of Viksit Bharat**
+*   **Context:** This editorial underscores the critical role of water security in achieving India's developmental goals and vision of a 'Viksit Bharat' (Developed India).
+*   **Key Takeaways:**
+    *   Rapid urbanisation, industrialisation, and climate change are exacerbating water stress across India.
+    *   Effective water management requires a multi-pronged approach: conservation, efficient use, rainwater harvesting, and integrated river basin management.
+    *   The shift towards piped water supply in rural areas is a positive step, but sustained efforts are needed to ensure equitable access and quality.
+    *   Addressing challenges like groundwater depletion, pollution, and inter-state water disputes is vital for long-term water sustainability and socio-economic development.
 
 ## 🏛️ Polity & Governance
 
-*   **Current Issue:** ⚖️ Uniform Civil Code (UCC) in Madhya Pradesh
+*   **Current Issue:** ⚖️ **Uniform Civil Code (UCC) Bill in Madhya Pradesh**
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister announced that a Bill on the Uniform Civil Code (UCC) will be tabled in the upcoming Monsoon Session of the Legislative Assembly, starting July 20.
-    *   A six-member high-level committee, formed in April, is currently drafting the Bill.
-    *   The public was invited to share suggestions on a recently launched government portal.
-    *   Madhya Pradesh aims to join states like Uttarakhand, Gujarat, and Assam that have already implemented UCC Bills.
+    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the Uniform Civil Code (UCC) would be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24).
+    *   A six-member high-level committee, formed in April, is drafting the Bill and gathering public suggestions.
+    *   MP aims to follow the models of other BJP-ruled states like Uttarakhand and Gujarat that have already implemented UCC.
+    *   **UPSC Relevance:** UCC is a Directive Principle of State Policy (Article 44) and a significant topic for Mains GS-II (Indian Constitution, Fundamental Rights, Secularism).
 
-*   **Current Issue:** 📚 Errors in Odisha School Textbooks
+*   **Current Issue:** 🏦 **RBI's Expanding Fiscal Role and Central Bank Independence**
 *   **Main Points:**
-    *   Odisha Chief Minister directed immediate corrective measures and action against officials responsible for numerous errors found in newly issued school textbooks for Classes 1 to 8.
-    *   Reported mistakes include Newton being described as the "greatest pilot" and a photograph of the Karnataka Legislative Assembly being used to represent the Odisha Assembly.
-    *   A three-member panel will be constituted to probe the matter, with action to be taken based on its findings.
+    *   The Reserve Bank of India (RBI) transferred a record ₹2.87 lakh crore surplus to the Union government for FY26, significantly larger than previous years.
+    *   This transfer, while consistent with the Economic Capital Framework, raises questions about the RBI's growing fiscal significance and its implications for central bank independence.
+    *   The article discusses how RBI's reserve management and foreign asset earnings are increasingly contributing to government finances, creating "fiscal space" without new taxes or borrowing.
+    *   **UPSC Relevance:** Mains GS-III (Indian Economy, Monetary Policy, Fiscal Policy, Central Bank Independence) and GS-II (Fiscal Federalism, Union-State Financial Relations).
+
+*   **Current Issue:** 👧 **Delhi L-G Orders Citywide Audit of Schools for POCSO Compliance**
+*   **Main Points:**
+    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has directed a comprehensive audit of all Delhi schools to ensure compliance with the Protection of Children from Sexual Offences (POCSO) Act.
+    *   The audit aims to identify gaps in infrastructure, safety protocols, and awareness programs related to child protection.
+    *   The move follows concerns about child safety and the need for robust mechanisms to safeguard children in educational institutions.
+    *   **UPSC Relevance:** Mains GS-II (Social Justice, Vulnerable Sections, Government Policies, Institutions for Child Protection).
 
 ## 🌍 Geography & Environment
 
-*   **Current Issue:** 🏞️ Bangladesh's New Padma Barrage Project
+*   **Current Issue:** 🌊 **Dhaka's New Padma Barrage and Transboundary Water Dynamics**
 *   **Main Points:**
-    *   Bangladesh has signed off on a new Padma barrage project to control the Padma river (Ganga in Bangladesh) and address seasonal water scarcity.
-    *   The 2.1-km-long structure, estimated to cost Tk 50,443 crore, aims to store 2,900 million cubic meters of water for 6.5 crore people in southwestern and northern Bangladesh.
-    *   Located 180 km downstream of India's Farakka barrage, the project raises environmental concerns, including altered river character, reduced groundwater recharge, increased salinity, and negative impacts on the Sundarbans ecosystem and fisherfolk livelihoods.
-    *   Experts suggest that a series of smaller check-dams might be a more environmentally sound alternative to a single large barrage.
-    *   The project could potentially enhance China's influence as a dominant water manager in South Asia.
+    *   Bangladesh has signed off on a new Padma barrage project (estimated ₹39,170 crore) to control the Padma river (Ganga in Bangladesh) and address seasonal water scarcity.
+    *   The barrage, located 180 km downstream of India's Farakka barrage, is intended to store water for 6.5 crore people in southwestern and northern Bangladesh.
+    *   Environmental concerns are significant, as large dams can alter river ecology, reduce groundwater recharge, increase salinity, and impact ecosystems like the Sundarbans.
+    *   **UPSC Relevance:** Mains GS-I (Geography, Rivers), GS-III (Environment, Climate Change, Water Resource Management), and GS-II (International Relations, India-Bangladesh Relations, Transboundary River Disputes).
+
+*   **Current Issue:** ♻️ **Bengaluru Aims for 3% Bio-gas Blending Goal**
+*   **Main Points:**
+    *   Bengaluru is committed to achieving a 3% bio-gas blending goal by FY27, as part of its efforts towards sustainable energy.
+    *   The city already has 160 bio-gas plants and is working on adding more to process municipal solid waste into energy.
+    *   This initiative supports waste management, reduces reliance on fossil fuels, and promotes renewable energy sources.
+    *   **UPSC Relevance:** Mains GS-III (Environment, Renewable Energy, Waste Management, Sustainable Development).
 
 ## 🌐 International Relations (IR)
 
-*   **Current Issue:** 🇺🇸🇮🇳 Modi-Trump Meeting and Seafarers' Safety
+*   **Current Issue:** 🤝 **Operationalisation of India-Russia Logistics Agreement (RELOS)**
 *   **Main Points:**
-    *   Prime Minister Narendra Modi met U.S. President Donald Trump on the sidelines of the G7 Summit in Evian, France.
-    *   PM Modi raised concerns regarding the safety of Indian seafarers, especially following a U.S. strike off the coast of Oman that resulted in the killing of three Indian seafarers.
-    *   Modi commended Trump's efforts to restore peace in West Asia and emphasized the importance of keeping the Strait of Hormuz open for global maritime trade.
-    *   President Trump praised Modi as a "very tough" negotiator and indicated that India and the U.S. are "very close" to finalizing a trade deal.
+    *   The bilateral Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia, signed in 2025, became operational in January this year.
+    *   RELOS facilitates reciprocal use of each other's military bases/ports for supplies, repair, and fuel during joint exercises, training, port calls, and humanitarian assistance missions.
+    *   The agreement, similar to India's LSAs with other countries (e.g., LEMOA with the U.S.), streamlines administrative procedures without establishing permanent basing. It allows access to Russian military facilities, including in the Arctic, a region of growing strategic importance.
+    *   **UPSC Relevance:** Mains GS-II (International Relations, Bilateral Relations, Defence Cooperation, Maritime Security, Geopolitics).
 
-*   **Current Issue:** 🇮🇷🇺🇸 Iran-U.S. Framework Deal on Nuclear Pledge and Sanctions
+*   **Current Issue:** 🇺🇸🇮🇳 **Modi-Trump Meeting: Indian Seafarers and Strait of Hormuz**
 *   **Main Points:**
-    *   A 14-point framework agreement between Iran and the U.S. is expected to be signed, outlining nuclear pledges and financial relief for Iran.
-    *   Under the deal, Iran has pledged never to produce nuclear weapons and to maintain a status quo on its nuclear program, including down-blending highly enriched uranium under IAEA supervision.
-    *   The U.S. has agreed to lift Treasury Department sanctions on Iranian crude oil, petroleum products, and related services (banking, insurance, transportation), and an immediate lifting of the naval blockade.
-    *   Iran is committed to restoring pre-war traffic volume through the Strait of Hormuz.
+    *   PM Narendra Modi met U.S. President Donald Trump in Evian, France, on the sidelines of the G7 Summit.
+    *   PM Modi raised concerns regarding the safety of Indian seafarers, particularly in the Strait of Hormuz, following a recent U.S. strike off Oman that killed three Indian seafarers.
+    *   Both leaders stressed the importance of keeping the Strait of Hormuz open for global maritime trade. Discussions also touched upon the progress of the India-U.S. trade deal.
+    *   **UPSC Relevance:** Mains GS-II (International Relations, India-U.S. Relations, Maritime Security, West Asia Geopolitics).
 
-*   **Current Issue:** 🇬🇧🇮🇳 India-U.K. Trade Deal Implementation
+*   **Current Issue:** 🇬🇧🇮🇳 **India-U.K. Trade Deal to Take Effect from July 15**
 *   **Main Points:**
-    *   The free trade agreement (FTA) between India and the United Kingdom is set to take effect from July 15, after resolving earlier differences.
-    *   The deal aims to significantly boost bilateral trade and investment between the two nations.
-    *   Key components include reducing tariffs on Indian products, enhancing market access for services, and establishing a "Youth Mobility Scheme" to facilitate easier movement for young professionals.
+    *   The much-anticipated India-U.K. trade deal is set to take effect from July 15.
+    *   This agreement, finalised after prolonged negotiations, aims to boost bilateral trade and investment by reducing tariffs and non-tariff barriers across various sectors.
+    *   **UPSC Relevance:** Mains GS-II (International Relations, Economic Diplomacy, Bilateral Trade Agreements) and GS-III (Indian Economy, Foreign Trade).
+
+*   **Current Issue:** ⚛️ **Iran-U.S. Framework Deal on Nuclear Pledge & Sanctions Relief**
+*   **Main Points:**
+    *   A 14-point framework agreement has been reached between Iran and the U.S., expected to be signed in Geneva, outlining a nuclear pledge and financial relief.
+    *   Iran has pledged never to produce nuclear weapons and to down-blend highly enriched uranium under IAEA supervision.
+    *   The U.S. has agreed to facilitate the release of frozen Iranian assets and lift sanctions on Iran's products, services, crude, and banking, contingent on progress towards a final agreement.
+    *   **UPSC Relevance:** Mains GS-II (International Relations, Nuclear Diplomacy, West Asian Geopolitics, Non-proliferation).
+
+## 🔭 Science & Technology
+
+*   **Current Issue:** 🌌 **Universe's Expansion Continues to Accelerate: New Research**
+*   **Main Points:**
+    *   A team of researchers has re-confirmed that the universe is expanding at an accelerated rate, supporting the existence of "dark energy."
+    *   This finding rebuts previous research that suggested the cosmic expansion was no longer speeding up.
+    *   The study used observations of Type Ia supernovae (stellar explosions) as "cosmic mile markers" to calculate vast distances and gauge the universe's expansion rate over time.
+    *   **UPSC Relevance:** Prelims & Mains GS-III (Science & Technology, Space, Cosmology, Dark Energy).
 
 ## 🏏 Sports & Miscellaneous
 
-*   **Highlight:** ⚽ **Lionel Messi's Historic World Cup Feat:** Lionel Messi scored a dazzling hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 goals at World Cups. He also became the first player to feature in six World Cup tournaments in his 200th international match.
+*   **Highlight:** ⚽ **FIFA World Cup 2026: Messi's Hat-trick and Haaland's Performance**
+    *   Lionel Messi (Argentina) scored a hat-trick against Algeria, equaling Miroslav Klose's all-time World Cup record of 16 goals and becoming the first player to feature in six World Cup tournaments.
+    *   Erling Haaland (Norway) also scored a brace, powering Norway to a significant win.
+    *   **UPSC Relevance:** Prelims (Current Events, Major Sporting Events).
