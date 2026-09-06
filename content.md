@@ -2,112 +2,63 @@
 
 ## 📝 The Hindu Editorial Analysis
 
-*   **Topic:** 🇮🇳 **Innovate or Be Eaten: India's R&D Imperative**
-*   **Context:** The editorial discusses India's current standing in global innovation and the urgent need to boost research and development (R&D) to avoid falling behind in the global economic landscape.
+*   **Topic:** 💡 **Data Must Drive Action, Not Just Headlines**
+*   **Context:** The editorial discusses the critical need for India to leverage its vast data to inform policy decisions, particularly in public health, rather than just generating impressive statistics. It highlights gaps in data collection, analysis, and utilization.
 *   **Key Takeaways:**
-    *   India lags in R&D expenditure and patent filings compared to advanced economies.
-    *   Emphasis on improving the quality of human capital and fostering a conducive ecosystem for startups.
-    *   Need for policy alignment, increased public-private partnerships, and addressing brain drain to stimulate innovation and growth.
+    *   India is a data-rich nation but struggles with **data-driven decision-making** due to issues like data silos, lack of real-time insights, and inadequate analysis.
+    *   The **health sector** is a prime example where granular data on public health issues (e.g., nutrition, NCDs, child mortality) is crucial but often poorly utilized.
+    *   There's a call for a **'data mindset'** in government departments, moving beyond mere collection to active analysis, interpretation, and integration into policy formulation.
+    *   **Platform India 3.0** is mentioned as a potential solution, but its success depends on true integration and a commitment to transparency and accountability.
 
-*   **Topic:** 📊 **Health Data for Action: Beyond Headlines**
-*   **Context:** The importance of robust, timely, and accessible health data for effective policy-making and public health interventions in India is highlighted, along with current challenges.
+*   **Topic:** 💧 **Water Security is Crucial for a Viksit Bharat**
+*   **Context:** With India aiming for 'Viksit Bharat' by 2047, the editorial stresses that water security is a fundamental pillar for this vision, encompassing economic growth, environmental sustainability, and public health.
 *   **Key Takeaways:**
-    *   Current health data collection and utilization are often fragmented and insufficient, hindering targeted interventions.
-    *   Urges for improved data quality, standardization, and a clear governance framework for health information.
-    *   Stresses the need for greater public-private collaboration and ethical considerations in data sharing to ensure public trust and effective health outcomes.
-
-*   **Topic:** 🌍 **Strategic Empathy and India's Foreign Policy Autonomy**
-*   **Context:** Discusses the nuances of India's strategic partnerships, particularly with the U.S., in the context of recent remarks by U.S. Senator Marco Rubio and India's commitment to multi-alignment.
-*   **Key Takeaways:**
-    *   India maintains a policy of strategic autonomy, engaging with multiple global powers without becoming a junior partner to any.
-    *   Highlights the importance of India's independent foreign policy decisions in its national interest.
-    *   Underscores the need for partners to appreciate India's unique geopolitical position and diverse diplomatic engagements.
+    *   **Comprehensive water management** is essential, integrating various aspects like groundwater recharge, irrigation efficiency, and urban water supply.
+    *   The **Jal Jeevan Mission** and **Amrit Sarovar Mission** are positive steps, but challenges like uneven distribution, declining groundwater, and pollution persist.
+    *   **Community participation** and behavioural change are vital for sustainable water use, alongside technological interventions and policy frameworks.
+    *   **Integrated approach** across sectors and levels of governance is needed to ensure equitable access and efficient management of water resources.
 
 ## 🏛️ Polity & Governance
 
-*   **Current Issue:** ⚖️ **Uniform Civil Code (UCC) in Madhya Pradesh**
+*   **Current Issue:** 🏫 **L-G Orders Audit of Delhi Schools for POCSO Compliance**
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister announced that a Bill on UCC would be introduced in the upcoming Monsoon Session of the State Legislative Assembly in July.
-    *   A six-member high-level committee, formed in April, is drafting the Bill after consulting various parts of the State and has invited public suggestions.
-    *   This move follows similar initiatives by other BJP-ruled states like Uttarakhand and Gujarat, and Assam also passed a UCC Bill in May.
+    *   Lieutenant-Governor Taranjit Singh Sandhu has ordered a **citywide audit of all schools in Delhi** to assess their compliance with the **Protection of Children from Sexual Offences (POCSO) Act**.
+    *   The audit aims to identify gaps in infrastructure, safety protocols, and awareness mechanisms to ensure a safe environment for children.
+    *   The L-G stressed the need for **gender-sensitive infrastructure** and training for school staff on child protection and reporting mechanisms.
 
-*   **Current Issue:** 🏫 **Odisha CM Orders Action on Textbook Errors**
+*   **Current Issue:** 📚 **Odisha CM Orders Action on Errors in Textbooks**
 *   **Main Points:**
-    *   Odisha Chief Minister Mohan Charan Majhi directed immediate corrective measures and action against officials responsible for numerous errors in school textbooks (Classes 1 to 8).
-    *   Teachers' and parents' associations claimed up to 1,678 mistakes, including factual inaccuracies and mislabeled images.
-    *   A three-member panel will be constituted to probe the matter and recommend action based on its findings.
+    *   Odisha Chief Minister Mohan Charan Majhi has directed immediate corrective measures and action against officials responsible for **1,678 mistakes found in recently issued school textbooks** (Classes 1-8).
+    *   Errors included factual inaccuracies (e.g., Newton described as "greatest pilot") and incorrect imagery (e.g., Karnataka Assembly photo for Odisha Assembly).
+    *   A **three-member panel** will be constituted to probe the matter and recommend action against those found responsible, highlighting issues of **accountability in education**.
 
-*   **Current Issue:** 🚸 **Delhi L-G Orders POCSO Compliance Audit in Schools**
+*   **Current Issue:** 🗣️ **Delhi HC Issues Notice on Telegram Ban**
 *   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive, citywide audit of schools to assess compliance with the Protection of Children from Sexual Offences (POCSO) Act.
-    *   The audit aims to ensure the safety and well-being of children and includes measures like mandatory background checks for staff, robust complaint mechanisms, and regular training.
-    *   The L-G stressed the importance of a "zero-tolerance" approach to child abuse and directed continuous monitoring by a newly formed task force.
-
-*   **Current Issue:** 📱 **Delhi HC Issues Notice on Telegram Data Overage**
-*   **Main Points:**
-    *   The Delhi High Court issued a notice to the Centre and Telegram over allegations of data overage and potential misuse on its platform, specifically concerning exam preparation materials.
-    *   The National Testing Agency (NTA) chief had previously warned Telegram about potential data misuse before implementing a blanket ban on the platform for its services, citing concerns about question paper leaks and fraudulent activities.
-    *   This highlights ongoing concerns about data privacy, content regulation on digital platforms, and the balance between access to information and preventing misuse.
-
-*   **Current Issue:** 🏘️ **Mamata Banerjee Protests Hawkers' Eviction in West Bengal**
-*   **Main Points:**
-    *   TMC Chairperson and former West Bengal CM Mamata Banerjee led a protest march in Kolkata against the State government's eviction drive targeting hawkers and settlers.
-    *   The TMC condemned the drive as "illegal, unjust, and inhuman," vowing to fight for the dignity, livelihoods, and rights of the workers.
-    *   The Chief Minister Suvendu Adhikari had defended the anti-encroachment drives as a governance issue to clear footpaths and roads, rather than merely a livelihood issue.
-
-## 🌍 Geography & Environment
-
-*   **Current Issue:** 🇧🇩 **Bangladesh's New Padma Barrage Project**
-*   **Main Points:**
-    *   Bangladesh is set to construct a new 1.80-km long Padma Barrage downstream of the Farakka Barrage in India, aimed at regulating water flow for irrigation, hydropower, and navigation.
-    *   The project, estimated at $6.4 billion, is intended to address water scarcity in the region, particularly during the dry season, and promote economic development.
-    *   This initiative on a transboundary river (Ganga/Hooghly) has implications for regional water management and India-Bangladesh relations.
-
-*   **Current Issue:** 💧 **Water Security as a Pillar of Viksit Bharat**
-*   **Main Points:**
-    *   The opinion piece stresses that water security is fundamental for achieving the vision of 'Viksit Bharat,' highlighting the ongoing challenges in water management despite initiatives like Jal Jeevan Mission.
-    *   It calls for an integrated approach focusing on sustainable resource management, conservation, and equitable distribution, addressing both urban and rural water needs.
-    *   Emphasizes demand-side management, groundwater recharge, and community participation to ensure long-term water sustainability.
-
-*   **Current Issue:** 💨 **India Aims for 3% Compressed Biogas Blending Goal**
-*   **Main Points:**
-    *   India is on track to achieve its goal of 3% compressed biogas (CBG) blending with natural gas by FY27, as part of its energy transition and environmental targets.
-    *   Over 1,200 CBG plants are expected to be commissioned by March 2027, significantly contributing to the reduction of greenhouse gas emissions.
-    *   This initiative supports a circular economy model by converting agricultural waste and municipal solid waste into valuable energy, promoting sustainable resource management.
+    *   The Delhi High Court has issued a notice to the Centre regarding a plea challenging the **blanket ban on Telegram** imposed by the National Testing Agency (NTA).
+    *   The ban was implemented due to the alleged misuse of Telegram channels for **sharing pirated study material** for NEET and JEE exams.
+    *   Telegram argues that a blanket ban is a disproportionate response and infringes on **freedom of speech and expression**, suggesting targeted action against specific channels instead.
 
 ## 🌐 International Relations (IR)
 
-*   **Current Issue:** 🤝 **Modi-Trump Meeting on Seafarer Safety and West Asia Peace**
+*   **Current Issue:** 🤝 **India-U.S. on Seafarer Safety & Iran Nuclear Deal**
 *   **Main Points:**
-    *   Prime Minister Narendra Modi met U.S. President Donald Trump on the sidelines of the G7 Summit in Evian, France, raising concerns about the safety of Indian seafarers in global maritime trade routes, including the Strait of Hormuz.
-    *   PM Modi commended President Trump's efforts to restore peace in West Asia and stressed the importance of keeping the Strait of Hormuz open for world economy.
-    *   The leaders also discussed finalizing an India-U.S. trade deal, which Trump described as being "very close" to completion.
+    *   PM Modi met U.S. President Trump on the sidelines of the G7 Summit, raising concerns about the **safety of Indian seafarers** in global maritime trade routes, including the Strait of Hormuz.
+    *   Modi commended Trump's efforts to restore peace in West Asia and reiterated the importance of keeping the **Strait of Hormuz open** for world economy.
+    *   Separately, a **framework agreement between Iran and the U.S.** was published, outlining Iran's pledge not to produce nuclear weapons and financial relief, including the release of frozen Iranian assets. This deal could ease restrictions on **oil tankers and unlock banking/insurance access** for Iran, potentially impacting global oil markets.
 
-*   **Current Issue:** ⚛️ **Iran-U.S. Framework Deal Outlines Nuclear Pledge & Financial Relief**
+*   **Current Issue:** 🚢 **India-Russia Logistics Agreement & Shipowners' Concerns**
 *   **Main Points:**
-    *   A 14-point framework agreement between Tehran and Washington, published by Saudi media, outlines Iran's pledge never to produce nuclear weapons and maintaining a status quo on its nuclear program.
-    *   The U.S. agreed to facilitate the release of frozen Iranian assets, lift Treasury sanctions on Iranian crude oil exports, petroleum products, and related services like banking, insurance, and transportation.
-    *   The deal is expected to remove restrictions on tankers, unlock banking access for Iran, and potentially impact global oil prices (which saw a tumble post-announcement).
+    *   India and Russia have signed a **military logistics agreement (LEMOA)** in January, allowing mutual access to military facilities and services for supplies, repairs, and rest. This deepens defence cooperation and potentially enhances India's strategic reach.
+    *   Meanwhile, Indian shipowners are seeking government help due to **cautions about operating in the Strait of Hormuz**, following recent security incidents and the killing of Indian seafarers. They face challenges with insurance, crew safety, and maintaining trade routes.
 
-*   **Current Issue:** 🇷🇺🇮🇳 **India-Russia Logistics Agreement (RELOS) Operationalised**
+*   **Current Issue:** 🌊 **Dhaka's New Padma Barrage: Regional Implications**
 *   **Main Points:**
-    *   The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia was operationalised in January, allowing reciprocal use of each other's bases and ports for supplies, repair, and fuel.
-    *   The agreement, similar to LSAs India has with other countries, defines procedures for supporting military formations, port calls, and use of airspace and airfield facilities for joint exercises, training, and humanitarian assistance.
-    *   Crucially, it does not allow for permanent stationing of troops but facilitates logistical support for mutually agreed engagements, and provides India access to Russian military facilities in the Arctic.
-
-*   **Current Issue:** 🇺🇸 **U.S. Military Drops 'Indo' from Pacific Command Name**
-*   **Main Points:**
-    *   The Pentagon is reverting the name of its U.S. Indo-Pacific Command to U.S. Pacific Command, reversing a 2018 decision.
-    *   This change, while not altering the command's area of responsibility (from India to America's Pacific coastline), is said to "honour the command's deep historical roots" and foster "pride and collective spirit."
-    *   The earlier inclusion of 'Indo' was a nod to India's growing importance in U.S. strategic thinking, and the current change might signal a shift in emphasis or symbolic message.
-
-*   **Current Issue:** 🤖 **Elon Musk's Grok AI Used in U.S. Military Strikes Against Iran**
-*   **Main Points:**
-    *   A U.S. government legal brief revealed that Elon Musk's xAI tool, Grok, was used in strikes against Iran as part of the Pentagon's Maven Smart Systems (MSS) program.
-    *   Testimony from a Pentagon AI chief stated that Grok "enabled U.S. forces to deploy over 2,000 munitions to 2,000 distinct targets within 96 hours" during Operation Epic Fury.
-    *   This highlights the increasing integration of advanced AI technologies into military operations and raises questions about ethical implications, accountability, and the role of private tech companies in defense.
+    *   Bangladesh is constructing the **Padma Multipurpose Barrage** across the Padma (Ganga) river, 180 km downstream from the Farakka Barrage in India.
+    *   The project aims to improve water supply in Bangladesh's southwest, generate hydropower, and enhance navigation, but has **transboundary implications** for India regarding water flow, particularly in the lean season.
+    *   Experts highlight the potential for **diplomatic engagement and joint management** of transboundary rivers, stressing the need for a balanced approach to water resource development in the region.
 
 ## 🏏 Sports & Miscellaneous
 
-*   **Highlight:** ⚽ **Messi Treble Powers Argentina to Victory**
-    *   Lionel Messi scored a treble, leading Argentina to victory in a significant match (details on opponent/tournament from page 15).
+*   **Highlight:** 🏎️ **The Renault Duster is Back** - A prominent ad on the front page announces the return of the Renault Duster SUV, with a starting price of ₹10.49L and a 7-year warranty. (Relevant for general awareness/consumer trends, not direct UPSC content).
+*   **Highlight:** ⚽ **The World Cup: Magic, Power, and Sportswashing** - An article on Page 9 reviews three books that explore how the FIFA World Cup, despite its controversies and the influence of power and politics, retains an emotional pull for fans.
+*   **Highlight:** 🏏 **Deepti Sharma's Stellar Performance** - Indian off-spinner Deepti Sharma has become the world's highest wicket-taker in T20Is, recently achieving a five-wicket haul against Pakistan in the Women's T20 World Cup. (Good for Prelims, inspiring personality).
