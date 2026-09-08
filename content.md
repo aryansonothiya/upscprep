@@ -1,34 +1,42 @@
 # 📰 Daily UPSC Master-Brief
 ## 📝 The Hindu Editorial Analysis
-*   **Topic:** 👨‍👩‍👧‍👦 Misplaced Incentives for Large Families in Andhra Pradesh
-*   **Context:** Andhra Pradesh's scheme offering a one-time financial aid to families with three or more children has been criticized as a "misplaced incentive."
+*   **Topic:** 🩺 Health Data for Action, Not Just Headlines
+*   **Context:** India faces significant challenges in collecting, analyzing, and utilizing health data, which is crucial for effective public health policy and intervention. The editorial highlights the need to move beyond mere data collection to data-driven action.
 *   **Key Takeaways:**
-    *   The one-time aid is deemed insufficient to offset the long-term, substantial costs of raising children, particularly childcare.
-    *   Such schemes might inadvertently benefit wealthier families or large landholders more, as they can more easily meet eligibility criteria without genuinely needing the incentive for family planning decisions.
-    *   The article argues that effective population policy should focus on comprehensive social development, including women's empowerment, improved access to education, and enhanced healthcare/family planning services, rather than isolated financial incentives.
-    *   Underlying issues like poverty, lack of educational access, and limited awareness of family planning methods are often the root causes of larger families, which a one-time payment does not address.
+    *   India's health data ecosystem is fragmented and often unreliable, with existing sources like NFHS and NSSO surveys providing only snapshots rather than real-time insights.
+    *   Comprehensive health data is essential for identifying disease burdens, understanding health inequities, evaluating policy effectiveness, and guiding resource allocation.
+    *   Challenges include poor data quality, lack of standardization, insufficient analytical capacity, and delays in data dissemination.
+    *   The editorial advocates for a national health data policy that prioritizes investment in robust, real-time data collection systems, strengthens public health surveillance, and trains personnel in data management and analysis.
+    *   Emphasis on using data for actionable policy decisions and ensuring its ethical use and accessibility to improve health outcomes across the population.
 
 ## 🏛️ Polity & Governance
-*   **Current Issue:** 🏫 Child Protection & Accountability in Schools
+*   **Current Issue:** 🏫 L-G Orders Citywide Audit of Schools for POCSO Compliance
 *   **Main Points:**
-    *   **Delhi L-G Orders POCSO Audit:** Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all Delhi schools to assess compliance with the provisions of the **Protection of Children from Sexual Offences (POCSO) Act**. This move aims to ensure child safety and implement necessary measures across educational institutions.
-    *   **Odisha CM Acts on Textbook Errors:** Odisha Chief Minister Mohan Charan Majhi has directed immediate corrective measures and action against responsible officials following reports of numerous errors (e.g., calling Newton the "greatest pilot," using a Karnataka Assembly photo for Odisha) in recently issued textbooks for Classes 1 to 8. A three-member panel will be constituted for a thorough probe.
-    *   **Delhi HC Notice on Telegram Ban:** The Delhi High Court has issued a notice to the Centre regarding a plea challenging a blanket ban on Telegram. The petitioner argues that the platform is widely used for legitimate educational purposes, and a ban would impede access to valuable learning resources, raising concerns about digital rights and freedom of information.
-    *   **ED Questions Former Kerala CM's Daughter:** The Enforcement Directorate (ED) on Wednesday questioned T. Veena, daughter of former Kerala Chief Minister Pinarayi Vijayan, for around eight hours in connection with the money-laundering probe in the Cochin Minerals and Rutile Ltd. (CMRL) pay-off case, concerning alleged payments to her now-defunct IT company.
+    *   Delhi Lieutenant-Governor Taranjit Singh Sandhu has directed a comprehensive, citywide audit of all schools (government, private, and aided) to assess compliance with the Protection of Children from Sexual Offences (POCSO) Act provisions.
+    *   The audit, to be completed within three months, aims to ensure child safety, create secure environments, and prevent sexual exploitation of children.
+    *   It will cover aspects such as physical infrastructure, emergency protocols, background checks of staff, awareness programs, and grievance redressal mechanisms.
+*   **Current Issue:** 💸 A.P.'s Incentive for Large Families is Misplaced
+*   **Main Points:**
+    *   Andhra Pradesh's 'Jagananna Amma Vodi' scheme, providing financial aid to mothers for sending children to school, has a clause excluding families with more than one child (for new beneficiaries after 2023).
+    *   This condition disproportionately impacts larger families, especially those from lower socioeconomic backgrounds, effectively penalizing them and potentially hindering their access to education.
+    *   The article argues that a one-time aid cannot adequately offset the long-term childcare costs for larger families, and the policy's intent of promoting education is undermined by this restrictive clause.
+    *   It also touches upon the demographic implications, suggesting that such policies might contradict the goal of harnessing a demographic dividend in states with younger populations.
 
 ## 🌍 Geography & Environment
-*   **Current Issue:** 🌊 Transboundary River Management & Hydropower Development
+*   **Current Issue:** 🌊 Dhaka’s New Padma Barrage to Reshape Regional Water Power
 *   **Main Points:**
-    *   **Bangladesh's Padma Barrage Project:** Bangladesh is undertaking the largest-ever Padma barrage project (estimated at Tk 30,443 crore) to reshape water and power in the region.
-    *   The project includes a 2,900 million cubic metre reservoir and aims to link the Ganga (Padma in Bangladesh) to the Bhogai and Kushkaha rivers, providing irrigation for 2,00,000 hectares and generating 3,20,000 KW of hydropower.
-    *   Concerns have been raised regarding its potential environmental impact, displacement of communities, and a possible reduction in downstream water flow to India's regions like Visakhapatnam.
+    *   Bangladesh is planning to construct a large barrage on the Padma River (the main distributary of the Ganga in Bangladesh), downstream from India's Farakka Barrage.
+    *   The project aims to improve water security, manage floods, support agriculture, enhance navigation, and generate 6.5 GW of hydropower, storing up to 2,900 million cubic metres of water.
+    *   This mega-project has significant transboundary implications, potentially affecting water flow to lower riparian areas in both India and Bangladesh, altering ecosystems, and impacting inland navigation.
+    *   The article stresses the need for detailed environmental impact assessments and close cooperation with India, especially concerning shared river management, to mitigate adverse effects and ensure equitable water resource use.
 
 ## 🌐 International Relations (IR)
-*   **Current Issue:** 🤝 India-US Bilateral Relations & West Asia Diplomacy
+*   **Current Issue:** 🤝 Modi-Trump Meet & Iran-U.S. Framework Deal
 *   **Main Points:**
-    *   **Modi Meets Trump at G7:** Prime Minister Narendra Modi met U.S. President Trump on the sidelines of the G7 Summit in Evian, France. Modi raised the issue of the safety of Indian seafarers, especially in critical maritime routes like the Strait of Hormuz, following the recent killing of three Indian seafarers in a U.S. strike off Oman. Modi also commended Trump's efforts to restore peace in West Asia and emphasized keeping the Strait of Hormuz open for global trade. Trump indicated that the U.S. and India are "very close" to finalising a trade deal.
-    *   **Iran-U.S. Framework Deal:** A 14-point framework agreement between Tehran and Washington, expected to be signed in Geneva, outlines Iran's pledge never to produce nuclear weapons and the U.S. agreement to facilitate the release of frozen Iranian assets and support Iran's economic development with $300 billion. The deal includes lifting sanctions on Iran's products, services, crude oil, banking, and the naval blockade, while Iran would restore pre-war traffic through the Strait of Hormuz.
-    *   **India-U.K. Trade Deal from July 15:** The India-U.K. trade deal is set to take effect from July 15, aiming to significantly boost bilateral trade and strengthen economic ties between the two nations.
+    *   **Modi-Trump Bilateral:** Prime Minister Modi met U.S. President Trump on the sidelines of the G7 Summit in France. PM Modi raised the issue of safety of Indian seafarers, particularly in the Strait of Hormuz, following recent incidents. He also commended Trump's efforts for peace in West Asia and emphasized keeping the Strait of Hormuz open for global trade.
+    *   **Iran-U.S. Framework Deal:** A 14-point framework agreement has reportedly been reached between Tehran and Washington, expected to be signed in Geneva.
+    *   **Key Provisions:** Iran pledges never to produce nuclear weapons and maintains a status quo on its nuclear program. The U.S. agrees to facilitate the release of frozen Iranian assets and support a $300 billion economic development plan for Iran, including immediate lifting of sanctions and naval blockades. Iran, in turn, commits to restoring pre-war traffic through the Strait of Hormuz.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight:** 🇮🇳 Indian off-spinner **Deepti Sharma** has become the **world's highest wicket-taker in Women's T20Is**, surpassing Megan Schutt. This achievement comes after her match-winning five-wicket haul against Pakistan in the T20I World Cup in England.
+*   **Highlight:** ⚽ **Messi Treble Powers Argentina to Victory** (Page 3)
+    *   Lionel Messi scored a hat-trick, leading Argentina to a significant victory in a football match.
