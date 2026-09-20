@@ -1,89 +1,84 @@
 # 📰 Daily UPSC Master-Brief
 ## 📝 The Hindu Editorial Analysis
-*   **Topic:** ⚕️ **Health Data & Policy-Making**
-*   **Context:** India generates a vast amount of health data, but its utilization for effective policy-making remains suboptimal, often used for headlines rather than actionable insights.
+*   **Topic:** **Data Must Drive Action, Not Just Headlines**
+*   **Context:** The editorial discusses the critical need for robust data collection, analysis, and transparent sharing by governments to inform policy, improve public services, and ensure accountability. It highlights issues with existing data practices and proposes reforms.
 *   **Key Takeaways:**
-    *   Despite data abundance, fragmentation, lack of standardization, and inadequate analytical capacity hinder its translation into evidence-based health policies.
-    *   There's a critical need for improved data infrastructure, robust public health surveillance systems, and stronger coordination among government agencies.
-    *   Concerns regarding data privacy, reliability, and transparency must be addressed to build public trust and ensure ethical data use.
-    *   Effective health data utilization is crucial for identifying disparities, allocating resources efficiently, and achieving national health goals, especially for Non-Communicable Diseases (NCDs) and maternal/child health.
+    *   India's National Statistical Office (NSO) and other bodies conduct surveys, but the utility of this data for real-time policy and accountability is often limited.
+    *   Public data should be systematically collected, published promptly, and made easily accessible to ensure transparency and trust.
+    *   Platforms like "third-party data lakes" could integrate and analyze data from various sources (health, education, environment) to provide a holistic view for policymakers.
+    *   Four primary data sources are crucial: routine administrative data, population surveys, rapid surveys, and financial data. Better integration and analysis of these can help identify needs and direct resources effectively.
+    *   A shift in mindset is required: data should inform policy decisions, not just confirm existing narratives or serve political agendas. It must be seen as a tool for public good and accountability.
 
-*   **Topic:** 👨‍👩‍👧‍👦 **Population Policy & Welfare Schemes (Andhra Pradesh)**
-*   **Context:** Andhra Pradesh's new policy offers incentives for families having three or more children after 2026, reversing previous population control norms.
+*   **Topic:** **Rubio's Remarks and the Limits of Strategic Empathy**
+*   **Context:** The editorial examines the concept of "strategic empathy" in international relations, particularly in the context of India-U.S. ties, drawing from U.S. Senator Marco Rubio's comments and External Affairs Minister S. Jaishankar's views.
 *   **Key Takeaways:**
-    *   The policy provides financial aid, medical benefits, and education incentives for larger families.
-    *   Critique: This move contradicts national population control efforts and may exacerbate existing challenges rather than solving them.
-    *   Concerns exist that one-time financial aid is insufficient to offset long-term childcare costs, potentially straining public resources and exacerbating gender inequality.
-    *   Andhra Pradesh already has a Total Fertility Rate (TFR) below the replacement level (1.6 as per NFHS-5), suggesting the focus should be on quality of life and reproductive health, not increasing birth rates.
+    *   Senator Rubio's argument about the U.S. needing to understand India's geopolitical compulsions (e.g., historical ties with Russia) is a form of "strategic empathy."
+    *   However, the editorial cautions that such empathy has limits when it comes to fundamental national interests, particularly regarding strategic partnerships like the QUAD.
+    *   The article highlights the importance of India not being seen as an "external balancer" but as an independent power pursuing its own interests in a multipolar world.
+    *   For India-U.S. relations to deepen, a mutual understanding of each other's strategic autonomy and red lines is crucial, rather than one-sided expectations.
+    *   While cooperation on global issues like climate change and supply chains is expanding, fundamental differences in approach to security and alliances remain.
 
 ## 🏛️ Polity & Governance
-*   **Current Issue:** ⚖️ **Uniform Civil Code (UCC) in Madhya Pradesh**
+*   **Current Issue:** **UCC Bill to be tabled in Monsoon Session of M.P. Assembly in July, says CM**
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister announced that a Uniform Civil Code (UCC) Bill will be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24, 2026).
-    *   A six-member high-level committee, led by retired Supreme Court judge Justice Ranjana Prasad Desai, is currently drafting the Bill after seeking public suggestions.
-    *   Madhya Pradesh would join other BJP-ruled states like Uttarakhand, Gujarat, and Assam which have already implemented or passed UCC Bills.
+    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the **Uniform Civil Code (UCC)** would be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24).
+    *   A six-member high-level committee, headed by retired Supreme Court judge Justice Ranjana Prasad Desai, is drafting the Bill.
+    *   Public suggestions were invited via a government portal, and the committee is tasked with submitting a detailed report within 60 days.
+    *   M.P. aims to follow models adopted by other BJP-ruled States like Uttarakhand and Gujarat, which have already implemented UCC Bills.
 
-*   **Current Issue:** 🏫 **School Safety & Child Protection (Delhi)**
+*   **Current Issue:** **ED quizzes Veena for around 8 hours in CMRL pay-off case**
 *   **Main Points:**
-    *   Delhi Lieutenant-Governor (L-G) has ordered a comprehensive, city-wide audit of all schools to ensure compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
-    *   The audit aims to enhance the safety and security of children, particularly girls, by scrutinizing monitoring mechanisms, staff training, and reporting procedures for child abuse.
+    *   The Enforcement Directorate (ED) questioned T. Veena, daughter of former Kerala CM Pinarayi Vijayan, for about eight hours in a money-laundering probe related to the Cochin Minerals and Rutile Ltd. (CMRL) pay-off case.
+    *   The probe concerns payments of ₹2.78 crore made by CMRL to her now-defunct Exalogic IT company and loans extended by Empower India Capital Investments Pvt. Ltd.
+    *   This marks her first personal appearance before the ED, with heightened security at the office.
 
-*   **Current Issue:** 🏘️ **Slum Rehabilitation Policy (Delhi)**
+*   **Current Issue:** **'Gaming company directors' arrest illegal'**
 *   **Main Points:**
-    *   The Delhi Development Authority (DDA) has identified five clusters under its "Policy for Slum Relocation Policy, 2026" for in-situ rehabilitation of slum dwellers.
-    *   The initiative aims to provide dignified housing and basic amenities to residents of informal settlements, promoting urban inclusive growth.
+    *   The Karnataka High Court declared the arrest of three directors of Gameskraft Technologies Pvt. Ltd. by the Enforcement Directorate (ED) as **"contrary to law."**
+    *   The court ordered their release from prison, noting that the ED arrested them without issuing summons under Section 50 of the Prevention of Money Laundering Act and without new material evidence.
 
-*   **Current Issue:** 👨‍⚖️ **Judicial Administration & Accountability**
+*   **Current Issue:** **Manipur Governor discusses security situation with Shah**
 *   **Main Points:**
-    *   A Supreme Court bench has stated it will investigate allegations of its own Registry misplacing case records related to a significant legal matter.
-    *   This raises serious concerns about the integrity and efficiency of judicial administration and the need for greater accountability within the system.
+    *   Manipur Governor Sushil Chandra discussed the security situation in the State with Union Home Minister Amit Shah.
+    *   The meeting focused on restoring peace, addressing ethnic violence, and ensuring law and order.
+    *   Earlier, injured Kuki youths were shifted from Imphal to Churachandpur Medical College amidst protests and demands for better medical facilities and a separate administration.
 
 ## 🌍 Geography & Environment
-*   **Current Issue:** 💧 **Water Security for Viksit Bharat**
+*   **Current Issue:** **Dhaka's new Padma barrage will reshape water power in the region**
 *   **Main Points:**
-    *   Water scarcity is identified as a central challenge across all sectors, impacting health, food, energy, and the environment, crucial for achieving the "Viksit Bharat" (Developed India) vision.
-    *   An integrated, multi-sectoral approach to water management is advocated, focusing on demand-side management, water-use efficiency, conservation, and rejuvenation of water bodies.
-    *   Emphasizes the role of community participation ("Jan Bhagidari"), sustainable infrastructure (e.g., Jal Jeevan Mission, Amrit Sarovar), and technology (IoT, AI) for data-driven planning.
+    *   Bangladesh has signed off on a new 2.1-km-long Padma barrage to control the Padma river (Ganga in Bangladesh) and address seasonal water scarcity.
+    *   The barrage, located 180 km downstream of India's Farakka barrage, is designed to store 2,900 million cu. m of water for 6.5 crore people.
+    *   **Context:** Bangladesh blames India's Farakka barrage for periodic water scarcity, and the 1996 Ganges Water Treaty expires in December 2026.
+    *   **Environmental Concerns:** Experts warn that large barrages can alter river character, reduce groundwater recharge, increase salinity, affect ecosystems (e.g., Sundarbans), and harm livelihoods.
+    *   Smaller check-dams are suggested as a more sustainable alternative, though they require cross-country planning.
 
-*   **Current Issue:** ♻️ **Compressed Biogas (CBG) Blending Target**
+*   **Current Issue:** **Water security is central for a Viksit Bharat**
 *   **Main Points:**
-    *   India is on track to achieve its goal of 3% blending of Compressed Biogas (CBG) with natural gas by FY27.
-    *   CBG production from agricultural and municipal waste promotes a circular economy, reduces emissions, and provides additional income for farmers, aligning with clean energy transition goals.
+    *   The article highlights the need for a **paradigm shift** in India's water management, moving beyond fragmented schemes to a holistic approach for achieving water security for a 'Viksit Bharat' (developed India).
+    *   Key challenges include over-reliance on groundwater, inter-State water disputes, inefficient water usage in agriculture, and the impact of climate change.
+    *   **Proposed Solutions:** Focus on demand-side management, decentralised water governance, promoting micro-irrigation, rainwater harvesting, and integrated river basin management.
+    *   The goal is to provide **'Har Ghar Jal' (water to every home)** and ensure clean, piped water for all by 2030.
 
 ## 🌐 International Relations (IR)
-*   **Current Issue:** 🇮🇳🇺🇸 **India-U.S. Bilateral Relations & Maritime Security**
+*   **Current Issue:** **India, U.K. announce July 15 as trade deal implementation date**
 *   **Main Points:**
-    *   Prime Minister Narendra Modi met U.S. President Donald Trump on the sidelines of the G7 Summit in France, raising concerns about the safety of Indian seafarers following a U.S. strike off Oman.
-    *   PM Modi emphasized the importance of keeping the Strait of Hormuz open for global maritime trade and commended Trump's efforts to restore peace in West Asia.
-    *   President Trump indicated that the U.S. and India are "very close" to finalising a trade deal, and the U.S. Indo-Pacific Command was renamed to Pacific Command, reflecting a broader regional focus.
+    *   India and the United Kingdom have announced July 15, 2026, as the **implementation date for their Free Trade Agreement (FTA)**, following its approval by both Cabinets.
+    *   The deal is expected to boost bilateral trade, create jobs, and enhance cooperation across sectors.
+    *   Specific benefits include lower tariffs on 90% of UK goods into India and enhanced access for India's services and certain goods into the UK.
+    *   The FTA also includes a **"Young Professionals Scheme"** allowing Indian citizens aged 18-30 to live and work in the UK for up to two years.
 
-*   **Current Issue:** 🇮🇷🇺🇸 **U.S.-Iran Framework Deal & Oil Prices**
+*   **Current Issue:** **U.S.-Iran deal could remove restrictions on tankers; unlock banking, insurance access**
 *   **Main Points:**
-    *   A framework agreement between Tehran and Washington outlines Iran's pledge never to produce nuclear weapons, maintaining the status quo on its nuclear programme under IAEA supervision, and receiving financial relief.
-    *   The U.S. agreed to facilitate the release of frozen Iranian assets, lift sanctions on Iran's products and services (including crude and banking), and lift the naval blockade. Iran pledged to restore pre-war traffic through the Strait of Hormuz.
-    *   Expectations of increased Iranian oil supply due to eased sanctions led to a significant tumble in global oil prices, with Brent crude falling below $70.
+    *   A potential U.S.-Iran deal could lead to the removal of restrictions on tankers, allowing Iran to re-enter global oil markets freely.
+    *   This deal is also expected to **unlock banking and insurance access** for Iran, easing sanctions imposed on its financial sector.
+    *   Former U.S. President Donald Trump indicated that an agreement with Iran to end the "war" might be signed "shortly," suggesting a political dimension to the ongoing negotiations.
 
-*   **Current Issue:** 🇮🇳🇬🇧 **India-U.K. Trade Deal**
+*   **Current Issue:** **Putin hosts ASEAN leaders as West mounts pressure on Ukraine war**
 *   **Main Points:**
-    *   The trade deal between India and the United Kingdom is set to take effect from July 15, following the resolution of existing differences.
-    *   This agreement is expected to deepen economic ties and boost bilateral trade and investment between the two nations.
-
-*   **Current Issue:** 🇮🇳🇷🇺 **India-Russia Logistics Agreement**
-*   **Main Points:**
-    *   India is operationalizing a reciprocal logistics agreement with Russia, similar to LEMOSA with the U.S., allowing military vessels and aircraft to use each other's ports and airfields for re-fuelling, repairs, and supplies.
-    *   This agreement aims to facilitate closer military cooperation and interoperability, benefiting India in maintaining its Russian-origin military hardware and strengthening its strategic partnerships.
-
-*   **Current Issue:** 🇺🇸🇮🇷 **AI & Cyber Warfare**
-*   **Main Points:**
-    *   U.S. intelligence has alleged that Elon Musk's AI tool, Grok (from X), was used by Iran in cyber strikes.
-    *   This raises significant concerns about the potential misuse of AI in warfare, the increasing complexities of cyber security, and the responsibilities of technology companies in preventing such applications.
+    *   Russian President Vladimir Putin hosted leaders from the Association of Southeast Asian Nations (ASEAN) in Moscow.
+    *   The meeting comes amidst intensified Western pressure on Russia over the ongoing conflict in Ukraine.
+    *   The discussions likely focused on strengthening economic and security cooperation between Russia and ASEAN states, countering Western influence.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight:** ⚽ **Football World Cup: Messi's Record-Breaking Performance**
-    *   Lionel Messi scored a hat-trick for Argentina, equalling Miroslav Klose's all-time record of 16 goals at World Cups and becoming the first player to feature in six World Cup tournaments.
-
-*   **Highlight:** 🏏 **Women's Cricket: Deepti Sharma's Milestone**
-    *   Indian off-spinner Deepti Sharma has become the world's highest wicket-taker in Women's T20 Internationals, following a match-winning five-wicket haul against Pakistan, underscoring her crucial role for the Indian team.
-
-*   **Highlight:** 🏊 **Swimming: Srihari Nataraj Breaks National Record**
-    *   Srihari Nataraj broke his own 50m backstroke national record at the National Aquatics championships, claiming gold and demonstrating his continued dominance in the event.
+*   **Highlight:** 🇮🇳 **Deepti Sharma has become the world's highest wicket-taker in Women's T20Is**, following a match-winning five-wicket haul against Pakistan, showcasing her crucial role for the Indian team.
+*   **Science & Tech:** 🔭 **The universe's expansion is still accelerating:** New research, based on Type Ia supernova data, confirms the accelerated expansion of the universe, rebutting earlier claims of a slowdown and reaffirming the existence of dark energy.
