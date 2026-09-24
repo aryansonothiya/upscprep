@@ -1,87 +1,68 @@
 # 📰 Daily UPSC Master-Brief
-
 ## 📝 The Hindu Editorial Analysis
-
-*   **Topic:** 🏦 RBI's Expanding Fiscal Role
-*   **Context:** The Reserve Bank of India (RBI) approved a record surplus transfer of ₹2.87 lakh crore to the Union government for FY26.
+*   **Topic:** 📊 Health data must drive action, not just headlines
+*   **Context:** The editorial discusses the critical need for a robust health data framework in India, moving beyond mere announcements to effective implementation.
 *   **Key Takeaways:**
-    *   This unprecedented transfer highlights the RBI's growing fiscal significance, moving beyond its traditional role of maintaining monetary stability.
-    *   It raises important questions regarding central bank independence, the trend towards fiscal centralisation, and the exclusion of such transfers from fiscal devolution to States.
-    *   The article notes that central-bank transfers are not part of the divisible pool of income tax or GST revenues, thus not automatically shared with States under Finance Commission formulas.
-    *   The RBI's reserve management, including the sale of gold and acquisition of foreign-currency assets, now significantly impacts the government's fiscal revenues.
+    *   **Data Fragmentation:** India's health data landscape is fragmented, lacking uniform standards for collection, storage, and interoperability.
+    *   **Policy Gaps:** Despite past initiatives (e.g., National Health Policy, Ayushman Bharat Digital Mission), a comprehensive, actionable health data policy framework is still needed.
+    *   **Need for Action:** Mere collection of data or headline-grabbing announcements are insufficient; robust policies, accountability mechanisms, and skilled human resources are essential to translate data into improved public health outcomes.
+    *   **Accountability & Transparency:** There's a strong emphasis on the need for transparency and accountability in health data management to build trust and ensure ethical use.
 
-*   **Topic:** ⚽ World Cup: Sport, Politics & Power
-*   **Context:** Recent books analyze how the FIFA World Cup, despite its universal appeal, has become intertwined with political power and "sportswashing."
+*   **Topic:** 🏦 The RBI and its growing fiscal role
+*   **Context:** The Reserve Bank of India's (RBI) record ₹2.87 lakh crore surplus transfer to the Union government for FY26 highlights its increasing fiscal significance.
 *   **Key Takeaways:**
-    *   Historically, major sporting events like the World Cup have been exploited for political propaganda, as seen with Mussolini's Italy in 1938 and Qatar in 2022.
-    *   "Sportswashing" involves nations using high-profile sports events to enhance their international image and divert attention from human rights issues or political controversies.
-    *   The "easternisation" of football, with Gulf nations investing heavily in European clubs and star players, reflects shifting global power dynamics.
-    *   Despite these political and economic complexities, the World Cup retains a powerful emotional pull, offering fans a "return to childhood" every four years.
+    *   **Shift in Role:** The RBI's role is evolving from primarily a monetary stability guardian to an increasingly important source of fiscal capacity for the government.
+    *   **Record Transfer:** The large surplus transfer, driven by earnings from reserve management (foreign assets, exchange transactions), provides significant fiscal space to the Union government without new taxes or borrowing.
+    *   **RBI Independence:** This trend raises questions about central bank independence and the potential blurring of lines between monetary and fiscal policy.
+    *   **Fiscal Federalism Concerns:** The transfer, being non-tax revenue, is a Union government gain and not part of the divisible pool shared with States, raising concerns about its impact on fiscal federalism.
 
 ## 🏛️ Polity & Governance
-
 *   **Current Issue:** 📜 Uniform Civil Code (UCC) Bill in Madhya Pradesh
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a UCC Bill will be introduced in the upcoming Monsoon Session of the Legislative Assembly in July.
-    *   A six-member high-level committee, formed in April, is currently drafting the Bill after consulting various parts of the State.
-    *   The committee, headed by retired Supreme Court judge Justice Ranjana Prasad Desai, is expected to submit its detailed report and draft Bill within 60 days.
-    *   Public suggestions for the UCC have also been invited via a government portal, and the panel is studying models adopted by other BJP-ruled States like Uttarakhand and Gujarat.
+    *   Madhya Pradesh Chief Minister announced that a **Bill on Uniform Civil Code (UCC)** would be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24).
+    *   A six-member high-level committee, headed by retired Supreme Court judge Justice Ranjana Prasad Desai, is drafting the Bill and has sought public suggestions.
+    *   This follows similar moves in other BJP-ruled States like Uttarakhand and Gujarat, and Assam passing a UCC Bill in May.
 
-*   **Current Issue:** 🚨 ED Probe into CMRL Pay-off Case
+*   **Current Issue:** 🏫 Child Protection in Delhi Schools
 *   **Main Points:**
-    *   The Enforcement Directorate (ED) questioned T. Veena, daughter of former Kerala CM Pinarayi Vijayan, for approximately eight hours in connection with a money-laundering probe.
-    *   The investigation pertains to alleged payments of ₹2.78 crore made by Cochin Minerals and Rutile Ltd. (CMRL) to her now-defunct IT company, Exalogic IT.
-    *   The ED also raised questions about ₹50 lakh loans extended to Exalogic by Empower India Capital Investments Pvt. Ltd., operated by CMRL's Managing Director.
+    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu ordered a **comprehensive citywide audit of schools** (both government and private) to assess compliance with the provisions of the **Protection of Children from Sexual Offences (POCSO) Act**.
+    *   The audit aims to identify gaps in infrastructure, training, and grievance redressal mechanisms to ensure a safe environment for students.
 
-*   **Current Issue:** 🏫 L-G Orders POCSO Compliance Audit for Delhi Schools
+*   **Current Issue:** 📚 Accountability for Textbook Errors in Odisha
 *   **Main Points:**
-    *   Delhi Lieutenant-Governor (L-G) Taranjit Singh Sandhu has directed a comprehensive, citywide audit of schools.
-    *   The audit aims to assess compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act, emphasizing child safety.
-
-## 🌍 Geography & Environment
-
-*   **Current Issue:** 🌊 Padma Barrage Project in Bangladesh & Regional Water Dynamics
-*   **Main Points:**
-    *   Dhaka's new Padma barrage project, Bangladesh's largest dam on the upper course of the Padma (Ganga) river, aims for a 2,900 MW hydro-power capacity.
-    *   The project raises environmental concerns regarding its potential impact on freshwater flow, groundwater levels, fisheries, and the fragile Sunderbans mangrove forest.
-    *   It also has significant implications for water sharing with India, particularly during dry seasons, and could affect the 1996 Ganga Water Treaty.
-
-*   **Current Issue:** 🌿 India's Compressed Biogas (CBG) Blending Targets
-*   **Main Points:**
-    *   India is working towards achieving its goal of 3% compressed biogas (CBG) blending for FY27, with the current blending at 0.7%.
-    *   The country has 120 operational CBG plants, with another 400 under various stages of construction, and aims to increase the blending target to 5% by FY30.
-    *   This initiative is a strategic step towards a cleaner energy mix, reducing reliance on fossil fuels, and promoting sustainable energy solutions.
+    *   Odisha Chief Minister Mohan Charan Majhi directed **immediate corrective measures and action against officials responsible** for numerous errors found in school textbooks (Classes 1-8).
+    *   Mistakes included describing Newton as the "greatest pilot" and using a photo of the Karnataka Legislative Assembly for Odisha's. A three-member panel will probe the matter.
 
 ## 🌐 International Relations (IR)
-
-*   **Current Issue:** 🤝 India-U.K. Free Trade Agreement (FTA)
+*   **Current Issue:** 🤝 India-U.S. Bilateral Meeting & Regional Security
 *   **Main Points:**
-    *   The India-U.K. bilateral Free Trade Agreement (FTA) is set to take effect from July 15, aiming to significantly boost trade and investment between the two nations.
-    *   The agreement includes provisions for lowering tariffs on various goods and services, enhancing market access for Indian products, and facilitating professional exchanges.
-    *   This deal is expected to impact key sectors such as automobiles, machinery, textiles, and services, strengthening the India-UAE partnership and reinforcing global confidence in India.
+    *   PM Modi met U.S. President Trump on the sidelines of the G7 Summit in France, raising concerns about the **safety of Indian seafarers** in global maritime trade routes, including the Strait of Hormuz.
+    *   PM Modi commended Trump's efforts for **peace in West Asia** and stressed the **vital importance of keeping the Strait of Hormuz open** for world economy.
+    *   Both leaders expressed confidence in finalizing a **trade deal** soon.
 
-*   **Current Issue:** 🇮🇳🇷🇺 India-Russia Logistics Support Agreement (RELOS) Operationalised
+*   **Current Issue:** ⚛️ Iran-U.S. Framework Deal on Nuclear Pledge & Financial Relief
 *   **Main Points:**
-    *   The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia, signed in 2025, became operational in January this year.
-    *   This agreement enables reciprocal use of each other's bases and ports for supplies, repair, and fuel, simplifying administrative procedures for joint exercises, training, port calls, and humanitarian assistance.
-    *   Crucially, RELOS *does not* permit the permanent stationing of troops on each other's territory, similar to India's other logistics agreements like LEMOA with the U.S.
-    *   The five-year agreement also grants India access to Russian military facilities in the Arctic, opening new avenues for cooperation in the region.
+    *   A **14-point framework agreement** was reportedly reached between Tehran and Washington, to be signed in Geneva.
+    *   Iran has pledged **never to produce nuclear weapons** and to maintain a status quo on its nuclear program (down-blending highly enriched uranium).
+    *   The U.S. has agreed to facilitate the **release of frozen Iranian assets** and create a plan for Iran's economic development, including **lifting sanctions** on Iranian products/services and an immediate **lifting of naval blockade**.
 
-*   **Current Issue:** 🇺🇸🇮🇷 U.S.-Iran Deal & Global Oil Markets
+*   **Current Issue:** ⚓ India-Russia Logistics Support Agreement (RELOS)
 *   **Main Points:**
-    *   Oil prices tumbled following reports of a likely U.S.-Iran deal that could lead to the removal of restrictions on Iranian oil tankers and unlock banking and insurance access.
-    *   The proposed framework involves Iran pledging to curb its nuclear program in exchange for significant financial relief from the U.S.
-    *   The U.S. would lift sanctions on Iran's products and services, including crude oil and banking, and withdraw its naval blockade. Iran, in turn, commits to not producing nuclear weapons and maintaining the status quo on its nuclear program.
+    *   The India-Russia bilateral **Reciprocal Exchange of Logistics Agreement (RELOS)**, operationalized in January this year, has been clarified.
+    *   RELOS is a **foundational military cooperation agreement** for administrative purposes, allowing reciprocal use of bases and ports for supplies, repair, and fuel during exercises, joint training, or humanitarian missions.
+    *   It **does NOT allow permanent stationing of troops** on each other's territory, unlike some social media claims. It facilitates logistics and technical aid for military formations, warships, and aircraft, with a maximum provision for 3,000 troops during agreed engagements.
 
-*   **Current Issue:** 🇮🇳🇺🇸 PM Modi & President Trump Discuss Indian Seafarers at G7
+## 🌍 Geography & Environment
+*   **Current Issue:** 🏞️ Dhaka's new Padma Barrage and Regional Water Power
 *   **Main Points:**
-    *   Prime Minister Narendra Modi raised concerns about the safety of Indian seafarers with U.S. President Donald Trump during their bilateral meeting on the sidelines of the G7 Summit in Evian, France.
-    *   Modi emphasized the critical importance of protecting Indian seafarers, particularly in the Strait of Hormuz, following a recent U.S. strike off Oman that killed three Indian seafarers.
-    *   PM Modi also commended Trump's efforts to restore peace in West Asia and reiterated the vital importance of keeping the Strait of Hormuz open for global trade.
+    *   Bangladesh is constructing the **Padma Multipurpose Barrage** on the Padma River (main branch of the Ganga in Bangladesh), aiming for irrigation, flood control, and power generation (6.4 GW).
+    *   The project is expected to **reshap**e **water power dynamics** in the region, impacting water flow downstream to India and potentially affecting ecosystems and livelihoods dependent on the river. It underscores the importance of **transboundary river management** and cooperation between India and Bangladesh.
+
+## ⚛️ Science & Technology
+*   **Current Issue:** 🔭 Universe's Expansion Still Accelerating
+*   **Main Points:**
+    *   New research has re-confirmed that the **universe's expansion is still accelerating**, a phenomenon first observed in 1998 by Saul Perlmutter, Adam Riess, and Brian Schmidt (Nobel laureates).
+    *   Researchers used advanced deep-field surveys and new data to refine measurements of the expansion rate, finding it continues at approximately 73.2 km/s/Mpc. This acceleration is attributed to **dark energy**, a mysterious force comprising 68% of the universe's energy density.
 
 ## 🏏 Sports & Miscellaneous
-
-*   **Highlight:** ⚽ **Lionel Messi** set new World Cup records with a hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 goals and becoming the first player to feature in six World Cup tournaments.
-*   **Highlight:** 🏏 Indian off-spinner **Deepti Sharma** became the world's highest wicket-taker in Women's T20Is after a match-winning five-wicket haul against Pakistan, also contributing with crucial runs.
-*   **Highlight:** 🏊‍♂️ **Srihari Nataraj** broke his own seven-year-old national record in the men's 50m backstroke at the National Aquatics in Ahmedabad.
-*   **Highlight:** 🌌 Researchers have confirmed that the **universe's expansion is still accelerating**, providing stronger evidence for the existence of "dark energy" and the cosmological constant hypothesis.
+*   **Highlight:** ⚽ **Lionel Messi** scored a dazzling **hat-trick** for Argentina in their World Cup opener against Algeria, equating Miroslav Klose's all-time record of 16 goals at World Cups. He also became the first player to feature in six World Cup tournaments.
