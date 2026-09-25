@@ -1,68 +1,101 @@
 # 📰 Daily UPSC Master-Brief
-## 📝 The Hindu Editorial Analysis
-*   **Topic:** 📊 Health data must drive action, not just headlines
-*   **Context:** The editorial discusses the critical need for a robust health data framework in India, moving beyond mere announcements to effective implementation.
-*   **Key Takeaways:**
-    *   **Data Fragmentation:** India's health data landscape is fragmented, lacking uniform standards for collection, storage, and interoperability.
-    *   **Policy Gaps:** Despite past initiatives (e.g., National Health Policy, Ayushman Bharat Digital Mission), a comprehensive, actionable health data policy framework is still needed.
-    *   **Need for Action:** Mere collection of data or headline-grabbing announcements are insufficient; robust policies, accountability mechanisms, and skilled human resources are essential to translate data into improved public health outcomes.
-    *   **Accountability & Transparency:** There's a strong emphasis on the need for transparency and accountability in health data management to build trust and ensure ethical use.
 
-*   **Topic:** 🏦 The RBI and its growing fiscal role
-*   **Context:** The Reserve Bank of India's (RBI) record ₹2.87 lakh crore surplus transfer to the Union government for FY26 highlights its increasing fiscal significance.
+## 📝 The Hindu Editorial Analysis
+
+*   **Topic:** 💉 Health Data for Policy-Making
+*   **Context:** Despite the availability of significant health data from surveys like NFHS, its effective utilization for evidence-based policy-making in India remains low.
 *   **Key Takeaways:**
-    *   **Shift in Role:** The RBI's role is evolving from primarily a monetary stability guardian to an increasingly important source of fiscal capacity for the government.
-    *   **Record Transfer:** The large surplus transfer, driven by earnings from reserve management (foreign assets, exchange transactions), provides significant fiscal space to the Union government without new taxes or borrowing.
-    *   **RBI Independence:** This trend raises questions about central bank independence and the potential blurring of lines between monetary and fiscal policy.
-    *   **Fiscal Federalism Concerns:** The transfer, being non-tax revenue, is a Union government gain and not part of the divisible pool shared with States, raising concerns about its impact on fiscal federalism.
+    *   India must enhance the use of its health data to inform public health policies, allocate resources efficiently, and identify vulnerable populations.
+    *   Robust data analysis and transparency are crucial to build public trust and ensure data-driven governance.
+    *   A "National Health Data Leadership" is needed to coordinate data collection, analysis, and dissemination across various stakeholders.
+
+*   **Topic:** 🤝 India-US Strategic Empathy
+*   **Context:** US Senator Marco Rubio's remarks on India's position regarding West Asia, particularly the Strait of Hormuz, highlight a divergence in perspectives between the two nations.
+*   **Key Takeaways:**
+    *   India's approach to West Asian conflicts is driven by its critical energy security and maritime trade interests in the Strait of Hormuz.
+    *   The US needs to foster "strategic empathy" to better comprehend India's geopolitical compulsions and national interests in complex regions.
+    *   Such divergences necessitate clearer communication and mutual understanding to strengthen the India-US strategic partnership.
+
+*   **Topic:** 💡 Innovation and Economic Growth
+*   **Context:** India faces an urgent need to cultivate a robust culture of innovation to capitalize on its young demographic and compete effectively on the global stage.
+*   **Key Takeaways:**
+    *   Investing in quality education, research & development, and a supportive startup ecosystem is paramount for fostering innovation.
+    *   Strong intellectual property rights and an improved ease of doing business environment are essential to attract investment and nurture talent.
+    *   Collaboration among government, private sector, and academia is vital to create a fertile ground for both social and technological advancements.
+
+*   **Topic:** ⚖️ Economic Value of Domestic Work
+*   **Context:** The Supreme Court's recent ruling to assign economic value to domestic work when calculating compensation in motor accident claims.
+*   **Key Takeaways:**
+    *   This landmark judgment formally acknowledges the significant, often unpaid, economic contribution of women through domestic labour.
+    *   It serves as a step towards challenging patriarchal norms that devalue such work and provides a basis for fair compensation to dependents of homemakers.
+    *   While significant, the ruling calls for broader policy changes to formally recognize, quantify, and integrate domestic work into national economic frameworks.
 
 ## 🏛️ Polity & Governance
-*   **Current Issue:** 📜 Uniform Civil Code (UCC) Bill in Madhya Pradesh
-*   **Main Points:**
-    *   Madhya Pradesh Chief Minister announced that a **Bill on Uniform Civil Code (UCC)** would be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24).
-    *   A six-member high-level committee, headed by retired Supreme Court judge Justice Ranjana Prasad Desai, is drafting the Bill and has sought public suggestions.
-    *   This follows similar moves in other BJP-ruled States like Uttarakhand and Gujarat, and Assam passing a UCC Bill in May.
 
-*   **Current Issue:** 🏫 Child Protection in Delhi Schools
+*   **Current Issue:** 📜 **Uniform Civil Code (UCC) Bill in Madhya Pradesh**
 *   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu ordered a **comprehensive citywide audit of schools** (both government and private) to assess compliance with the provisions of the **Protection of Children from Sexual Offences (POCSO) Act**.
-    *   The audit aims to identify gaps in infrastructure, training, and grievance redressal mechanisms to ensure a safe environment for students.
+    *   Madhya Pradesh CM announced that a UCC Bill will be introduced in the upcoming Monsoon Session of the State Assembly.
+    *   A six-member high-level committee has been drafting the Bill, inviting public suggestions and studying models from other BJP-ruled states like Uttarakhand, Gujarat, and Assam.
+    *   This initiative aligns with a broader push by BJP-ruled states to implement a UCC, aimed at standardizing personal laws across all citizens.
 
-*   **Current Issue:** 📚 Accountability for Textbook Errors in Odisha
+*   **Current Issue:** 🏫 **Audit of Delhi Schools for POCSO Compliance**
 *   **Main Points:**
-    *   Odisha Chief Minister Mohan Charan Majhi directed **immediate corrective measures and action against officials responsible** for numerous errors found in school textbooks (Classes 1-8).
-    *   Mistakes included describing Newton as the "greatest pilot" and using a photo of the Karnataka Legislative Assembly for Odisha's. A three-member panel will probe the matter.
+    *   The Delhi Lieutenant-Governor has ordered a comprehensive, citywide audit of all schools to ensure compliance with the Protection of Children from Sexual Offences (POCSO) Act.
+    *   The audit will assess child safety and security measures, adherence to guidelines for child protection committees, and compliance with rules against sexual harassment.
+    *   The directive also includes regular training and sensitization programs for school staff and students on the provisions of the POCSO Act.
 
-## 🌐 International Relations (IR)
-*   **Current Issue:** 🤝 India-U.S. Bilateral Meeting & Regional Security
+*   **Current Issue:** 📲 **Telegram Ban & Internet Regulation**
 *   **Main Points:**
-    *   PM Modi met U.S. President Trump on the sidelines of the G7 Summit in France, raising concerns about the **safety of Indian seafarers** in global maritime trade routes, including the Strait of Hormuz.
-    *   PM Modi commended Trump's efforts for **peace in West Asia** and stressed the **vital importance of keeping the Strait of Hormuz open** for world economy.
-    *   Both leaders expressed confidence in finalizing a **trade deal** soon.
-
-*   **Current Issue:** ⚛️ Iran-U.S. Framework Deal on Nuclear Pledge & Financial Relief
-*   **Main Points:**
-    *   A **14-point framework agreement** was reportedly reached between Tehran and Washington, to be signed in Geneva.
-    *   Iran has pledged **never to produce nuclear weapons** and to maintain a status quo on its nuclear program (down-blending highly enriched uranium).
-    *   The U.S. has agreed to facilitate the **release of frozen Iranian assets** and create a plan for Iran's economic development, including **lifting sanctions** on Iranian products/services and an immediate **lifting of naval blockade**.
-
-*   **Current Issue:** ⚓ India-Russia Logistics Support Agreement (RELOS)
-*   **Main Points:**
-    *   The India-Russia bilateral **Reciprocal Exchange of Logistics Agreement (RELOS)**, operationalized in January this year, has been clarified.
-    *   RELOS is a **foundational military cooperation agreement** for administrative purposes, allowing reciprocal use of bases and ports for supplies, repair, and fuel during exercises, joint training, or humanitarian missions.
-    *   It **does NOT allow permanent stationing of troops** on each other's territory, unlike some social media claims. It facilitates logistics and technical aid for military formations, warships, and aircraft, with a maximum provision for 3,000 troops during agreed engagements.
+    *   The Delhi High Court has issued a notice to the Centre regarding Telegram's plea against a "blanket ban" on its services, following allegations of facilitating exam paper leaks.
+    *   The National Testing Agency (NTA) chief stated that Telegram had been warned about the misuse of its platform prior to the ban.
+    *   This case highlights the ongoing debate between freedom of speech, data privacy, and the government's authority to regulate digital platforms for law enforcement and national security.
 
 ## 🌍 Geography & Environment
-*   **Current Issue:** 🏞️ Dhaka's new Padma Barrage and Regional Water Power
-*   **Main Points:**
-    *   Bangladesh is constructing the **Padma Multipurpose Barrage** on the Padma River (main branch of the Ganga in Bangladesh), aiming for irrigation, flood control, and power generation (6.4 GW).
-    *   The project is expected to **reshap**e **water power dynamics** in the region, impacting water flow downstream to India and potentially affecting ecosystems and livelihoods dependent on the river. It underscores the importance of **transboundary river management** and cooperation between India and Bangladesh.
 
-## ⚛️ Science & Technology
-*   **Current Issue:** 🔭 Universe's Expansion Still Accelerating
+*   **Current Issue:** 🌊 **Bangladesh's New Padma Barrage & Regional Water Power Dynamics**
 *   **Main Points:**
-    *   New research has re-confirmed that the **universe's expansion is still accelerating**, a phenomenon first observed in 1998 by Saul Perlmutter, Adam Riess, and Brian Schmidt (Nobel laureates).
-    *   Researchers used advanced deep-field surveys and new data to refine measurements of the expansion rate, finding it continues at approximately 73.2 km/s/Mpc. This acceleration is attributed to **dark energy**, a mysterious force comprising 68% of the universe's energy density.
+    *   Bangladesh is constructing a new Padma barrage, located downstream of India's Farakka barrage, to control the Padma River (Ganga) and mitigate seasonal water scarcity.
+    *   The Farakka barrage has historically altered the Ganga's character in Bangladesh, leading to reduced water flow, increased salinity, and adverse impacts on the Sundarbans and local livelihoods.
+    *   Environmental experts caution about the long-term ecological costs of large dams, suggesting smaller, localized check-dams as a more sustainable alternative, while India expresses concerns regarding the project and potential Chinese involvement.
+
+*   **Current Issue:** 💧 **Water Security for Viksit Bharat**
+*   **Main Points:**
+    *   India is prioritizing comprehensive water management through initiatives like the Jal Jeevan Mission, Atal Bhujal Yojana, and Amrit Sarovar Mission to achieve national water security.
+    *   Key strategies include decentralized planning, community participation, enhancing water-use efficiency, promoting groundwater recharge, and wastewater reuse.
+    *   Ensuring access to safe drinking water and adequate irrigation is considered fundamental for economic development, public health, and climate resilience in India.
+
+*   **Current Issue:** 🌌 **Universe's Expansion Still Accelerating**
+*   **Main Points:**
+    *   New research, leveraging data from Type Ia supernovae, re-confirms that the universe continues to expand at an accelerated rate, refuting earlier contradictory studies.
+    *   This cosmic acceleration is attributed to "dark energy," a mysterious force estimated to constitute about 68% of the universe's total energy density.
+    *   The study underscores the critical role of Type Ia supernovae as "cosmic mile markers" for accurately measuring vast astronomical distances and advancing cosmological understanding.
+
+## 🌐 International Relations (IR)
+
+*   **Current Issue:** 🇺🇸🇮🇳 **India-US Relations: Seafarer Safety & Trade Deal Progress**
+*   **Main Points:**
+    *   PM Modi raised concerns regarding the safety of Indian seafarers, particularly in the critical Strait of Hormuz, during his meeting with US President Trump at the G7 Summit.
+    *   Both leaders emphasized the importance of maintaining the Strait of Hormuz open for global trade and discussed the ongoing efforts to finalize a comprehensive India-US trade deal.
+    *   The discussions highlight India's strategic interests in maritime security in West Asia and its commitment to strengthening economic partnerships with the United States.
+
+*   **Current Issue:** 🇮🇷🇺🇸 **Iran-US Framework Deal on Nuclear Programme & Sanctions**
+*   **Main Points:**
+    *   A framework agreement between Iran and the US outlines Iran's commitment not to produce nuclear weapons and the US's pledge to facilitate the release of $300 billion in frozen Iranian assets.
+    *   The deal includes the lifting of US sanctions on Iran's oil exports, banking, and insurance sectors, alongside the withdrawal of the naval blockade.
+    *   This potential agreement aims to restore pre-war traffic through the Strait of Hormuz and place Iran's nuclear program under International Atomic Energy Agency (IAEA) supervision.
+
+*   **Current Issue:** 🇬🇧🇮🇳 **India-UK Comprehensive Economic Partnership Agreement (CEPA)**
+*   **Main Points:**
+    *   The India-UK CEPA is scheduled to take effect from July 15, 2026, aiming to significantly boost bilateral trade and investment, with a target to double trade by 2030.
+    *   The agreement involves immediate tariff elimination on 99% of goods for India and 98% for the UK, covering crucial sectors like goods, services, and investments.
+    *   It also includes a "Scheme for Young Professionals" to facilitate mobility, reflecting a broader effort to deepen economic and strategic ties between the two nations.
+
+*   **Current Issue:** 🇷🇺🇮🇳 **India-Russia Logistics Agreement for Military Cooperation**
+*   **Main Points:**
+    *   India and Russia have finalized a logistics agreement enabling the mutual provision of logistics support for military cooperation, including food, water, fuel, medical aid, and maintenance.
+    *   This agreement aims to enhance interoperability between the Indian and Russian armed forces, reflecting India's expanding strategic partnerships beyond traditional allies.
+    *   It underscores India's commitment to maintaining strategic autonomy while diversifying its defense collaborations, similar to existing pacts with the US, France, and Australia.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight:** ⚽ **Lionel Messi** scored a dazzling **hat-trick** for Argentina in their World Cup opener against Algeria, equating Miroslav Klose's all-time record of 16 goals at World Cups. He also became the first player to feature in six World Cup tournaments.
+
+*   **Highlight:** ⚽ **FIFA World Cup Records:** Lionel Messi (Argentina) scored a hat-trick, equaling Miroslav Klose's all-time record of 16 goals at World Cups and becoming the first player to feature in six tournaments. Erling Haaland also scored a brace for Norway.
