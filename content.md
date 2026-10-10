@@ -1,74 +1,76 @@
 # 📰 Daily UPSC Master-Brief
 
 ## 📝 The Hindu Editorial Analysis
-*   **Topic:** Health data must drive action, not just headlines
-*   **Context:** The editorial discusses the critical need for India to move beyond merely collecting health data to effectively utilizing it for evidence-based policymaking and improving public health outcomes.
+
+*   **Topic:** 📊 Data must drive action, not just headlines
+*   **Context:** The editorial argues for robust data collection and utilization in policymaking, rather than merely using data to generate positive headlines.
 *   **Key Takeaways:**
-    *   India has made strides in collecting health data (e.g., NFHS, NSSO surveys), but significant gaps remain in disaggregated data and real-time monitoring.
-    *   **Data quality, standardization, and interoperability** across various platforms (Ayushman Bharat Digital Mission, PM-JAY) are crucial for meaningful analysis.
-    *   The "A" in **"Action"** is missing; data often ends up in reports without influencing policy or local interventions.
-    *   The editorial calls for a **Third Platform** (a robust, unified health data system) to integrate data from diverse sources, making it accessible and actionable for policymakers at all levels.
-    *   **Privacy and data security** must be paramount, with strong governance frameworks to build trust and ensure ethical use.
-    *   Regular, localized health surveys and **outcome-focused metrics** are needed to assess the impact of health programs effectively.
+    *   Emphasizes the critical need for quality, frequent, and granular data across sectors (health, education, economy) for effective and evidence-based policy formulation.
+    *   Critiques the tendency to prioritize politically appealing initiatives over those backed by solid data, often leading to misallocation of resources and suboptimal outcomes.
+    *   Highlights existing gaps and delays in India's data systems, advocating for modernizing data collection, ensuring real-time availability, and disaggregating data for more targeted interventions.
+    *   Suggests fostering collaboration between government, academia, and civil society to improve data governance, analysis, and its eventual application in policy.
+
+*   **Topic:** 🚀 Innovate or be eaten
+*   **Context:** Discusses India's imperative to foster innovation to leverage its demographic dividend and remain globally competitive.
+*   **Key Takeaways:**
+    *   Stresses that innovation is the cornerstone for India's sustained economic growth and higher living standards in the coming decades.
+    *   Identifies challenges such as insufficient R&D investment, bureaucratic hurdles, risk aversion, and a disconnect between academic research and industry needs.
+    *   Proposes comprehensive policy reforms to incentivize private sector R&D, promote academia-industry linkages, and streamline regulatory frameworks for startups.
+    *   Underscores the importance of reforming the education system to cultivate critical thinking, creativity, and problem-solving skills from an early stage, essential for a culture of innovation.
 
 ## 🏛️ Polity & Governance
-*   **Current Issue:** Uniform Civil Code (UCC) Bill in Madhya Pradesh
-*   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a **Bill on the Uniform Civil Code (UCC)** would be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24).
-    *   A six-member high-level committee, formed in April and headed by **retired Supreme Court judge Justice Ranjana Prasad Desai**, is drafting the Bill and submitting a report within 60 days.
-    *   The public has also been invited to share suggestions on a government portal.
-    *   MP aims to follow States like Uttarakhand and Gujarat, which have already implemented UCCs.
-*   **Current Issue:** L-G orders audit of Delhi schools for POCSO compliance
-*   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a **comprehensive citywide audit of all Delhi schools** (government, MCD, and private) to assess compliance with the Protection of Children from Sexual Offences (POCSO) Act.
-    *   The audit aims to identify gaps in infrastructure, staff training, and protocols for **child protection**, and ensure adherence to **SOPs for reporting and redressal** of POCSO-related incidents.
-    *   It will evaluate the presence of **functional Internal Complaints Committees (ICCs)** and a robust monitoring mechanism.
-    *   The move is in response to a rise in cases and aims to create a **zero-tolerance** environment against child abuse in educational institutions.
-*   **Current Issue:** Nicobarese tribal councils propose draft election rules
-*   **Main Points:**
-    *   The **Tribal Councils in the Nicobar group of islands** have proposed draft election rules for selecting their council members, aiming to preserve indigenous customs and traditional practices.
-    *   The proposed rules include provisions for **one-fifth women's representation**, public meetings for candidate selection, and a focus on community consensus over direct elections.
-    *   This initiative highlights the aspiration of **self-governance** and the protection of traditional systems under the **Sixth Schedule-like arrangements** provided to these tribal areas.
-    *   The proposed rules are seen as a step towards ensuring local decision-making power and cultural preservation.
 
-## 🌍 Geography & Environment
-*   **Current Issue:** Water security essential for a Viksit Bharat
+*   **Current Issue:** 🏫 L-G orders audit of all Delhi schools for POCSO compliance
 *   **Main Points:**
-    *   Water scarcity is a critical challenge hindering India's progress towards becoming a **'Viksit Bharat'** (developed India) by 2047.
-    *   The article emphasizes the need for a **holistic approach to water management**, including conservation, efficient use, wastewater recycling, and groundwater recharge.
-    *   Schemes like **Jal Jeevan Mission (JJM)** have improved access to tap water, but equitable distribution and sustainable source management remain key.
-    *   **Community participation** and behavioural change are vital for effective implementation of water management initiatives.
-    *   **Integrated water management** across sectors (agriculture, industry, domestic) and through modern technologies can enhance water security.
-*   **Current Issue:** Dhaka's new Padma barrage will reshape water power in the region
+    *   Delhi Lieutenant-Governor Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all schools to assess their compliance with the Protection of Children from Sexual Offences (POCSO) Act.
+    *   The audit aims to ensure that schools provide safe environments, including functional internal complaints committees and designated child protection officers, to safeguard children from sexual abuse.
+
+*   **Current Issue:** ⚖️ UCC Bill to be tabled in Monsoon Session of M.P. Assembly in July, says CM
 *   **Main Points:**
-    *   Bangladesh is constructing the **Padma Multipurpose Barrage**, a significant infrastructure project located 180 km downstream of the Farakka Barrage in India.
-    *   The project aims to **manage water resources**, especially during the dry season (March-May) when water flow from the Farakka Barrage is low, affecting irrigation, fishing, and biodiversity in Bangladesh.
-    *   It will create a **6.4 lakh crore hydroelectric power project**, potentially generating 2600MW, and support navigation, flood control, and groundwater recharge.
-    *   While beneficial for Bangladesh, the project raises concerns about its **downstream impact on India's North-Eastern States**, particularly regarding water flow and potential environmental changes.
-    *   This project has **regional implications** for water diplomacy and transboundary river management between India and Bangladesh.
+    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Uniform Civil Code (UCC) Bill will be introduced in the upcoming Monsoon Session of the State Legislative Assembly in July.
+    *   A six-member high-level committee, constituted in April, is currently working on the draft Bill after consulting various stakeholders and inviting public suggestions.
+    *   If passed, Madhya Pradesh will join states like Uttarakhand and Gujarat in implementing a UCC.
+
+*   **Current Issue:** 📱 Delhi HC issues notice on Telegram's over-governance plea
+*   **Main Points:**
+    *   The Delhi High Court has issued notices to the Centre and Telegram over a plea challenging new IT Rules, which the petitioner argues lead to "over-governance."
+    *   The plea contends that these rules demand access to private user data, potentially infringing upon privacy rights and freedom of speech, amidst concerns about Telegram's misuse for activities like exam material leakage.
 
 ## 🌐 International Relations (IR)
-*   **Current Issue:** Modi meets Trump, raises safety of Indian seafarers
+
+*   **Current Issue:** 🤝 Modi meets Trump, raises safety of Indian seafarers
 *   **Main Points:**
-    *   Prime Minister Narendra Modi met U.S. President Trump on the sidelines of the G7 Summit in Evian, France.
-    *   PM Modi raised concerns over the **safety of Indian seafarers** in global maritime trade routes, including the Strait of Hormuz, in the context of recent attacks and regional tensions.
-    *   Both leaders agreed on the vital importance of keeping the **Strait of Hormuz open** for world economy and discussed peace efforts in West Asia.
-    *   The two countries are also "very close" to finalizing a **trade deal**.
-*   **Current Issue:** Iran-U.S. framework deal outlines nuclear pledge, financial relief
+    *   PM Narendra Modi met US President Donald Trump on the sidelines of the G7 Summit in Evian, France, raising concerns about the safety of Indian seafarers, especially after a recent US strike off Oman.
+    *   PM Modi emphasized the critical importance of keeping the Strait of Hormuz open for global maritime trade.
+    *   President Trump praised Modi and indicated that India and the US are "very close" to finalising a trade deal, calling Modi a "very tough negotiator."
+
+*   **Current Issue:** 🕊️ Iran-U.S. framework deal outlines nuclear pledge, financial relief
 *   **Main Points:**
-    *   A 14-point framework agreement between Tehran and Washington has been published, expected to be signed in Geneva.
-    *   Under the deal, Iran pledges **never to produce nuclear weapons** and to maintain a status quo on its nuclear program.
-    *   The U.S. has agreed to **facilitate the release of frozen Iranian assets**, create a plan for Iran's economic development ($300 billion), and **lift sanctions** on Iranian products/services, including crude and banking.
-    *   The agreement also includes immediate lifting of naval blockade and withdrawal of forces from 'surrounding areas' by the US, while Iran pledges restoring pre-war traffic through the Strait of Hormuz.
-*   **Current Issue:** Rubio's remarks and the limits of strategic empathy
-*   **Context:** An editorial discussing the implications of recent remarks by U.S. Senator Marco Rubio regarding India's foreign policy and its relationship with Russia.
-*   **Key Takeaways:**
-    *   Rubio's remarks, suggesting India "has to decide" between the U.S. and Russia, reflect a **growing impatience within sections of the U.S. establishment** regarding India's strategic autonomy.
-    *   India's foreign policy has historically been guided by **strategic autonomy**, balancing relations with major powers based on national interest, rather than aligning with one bloc.
-    *   The editorial argues against "strategic empathy" that seeks to overly understand and accommodate the US perspective at the cost of India's independent foreign policy choices.
-    *   India's continued defence ties with Russia and its stance on the Ukraine conflict are rooted in its **historical relationship, defence needs, and economic considerations**.
-    *   The article highlights the importance of **India's self-interest** in maintaining diverse partnerships for its security and economic growth, urging the U.S. to acknowledge this reality rather than push for exclusivity.
+    *   A 14-point framework agreement between Tehran and Washington is expected to be signed in Geneva, with Iran pledging never to produce nuclear weapons and to maintain status quo on its nuclear program under IAEA supervision.
+    *   The U.S. has agreed to facilitate the release of frozen Iranian assets and develop a plan for Iran's economic development, potentially involving $300 billion.
+    *   Key provisions include the lifting of sanctions on Iranian products/services (including oil and banking), immediate naval blockade removal, and withdrawal of US forces from surrounding areas, while Iran commits to restoring pre-war traffic through the Strait of Hormuz.
+
+*   **Current Issue:** 📈 India-U.K. trade deal to take effect from July 15
+*   **Main Points:**
+    *   The India-U.K. Free Trade Agreement (FTA) is set to be implemented from July 15, aiming to significantly boost bilateral trade and investment.
+    *   The deal will remove approximately 80% of UK tariffs on Indian goods and 80% of UK exports to India, fostering deeper economic ties.
+    *   It seeks to reduce trade barriers, create jobs, and enhance cooperation across various sectors, including services and investment, contributing to economic growth in both nations.
+
+*   **Current Issue:** 🚢 What does the India-Russia logistics agreement allow?
+*   **Main Points:**
+    *   The India-Russia Agreement on Reciprocal Exchange of Logistics (AREL) allows the militaries of both countries to access and use each other's military bases for logistics support.
+    *   This includes provisions for refuelling, repair, and resupply, aiming to enhance interoperability, simplify procedures for port calls, and facilitate joint exercises and humanitarian missions.
+    *   The agreement further strengthens the strategic partnership between India and Russia, particularly in defense cooperation, given India's significant reliance on Russian military hardware.
+
+## 🌍 Geography & Environment
+
+*   **Current Issue:** 💧 Dhaka's new Padma barrage will reshape water power in the region
+*   **Main Points:**
+    *   Bangladesh is planning to construct a new barrage on the Padma River (a distributary of the Ganga) to address water security, climate change impacts, and river bank erosion.
+    *   The Padma Barrage Project aims to regulate water flow for irrigation, navigation, and hydropower generation, crucial for the country's economic development.
+    *   Concerns have been raised regarding potential transboundary impacts on India's Farakka Barrage and downstream ecosystems, as well as ecological consequences within Bangladesh, emphasizing the need for transparent information sharing and collaborative management with India.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight:** Lionel Messi scored a dazzling **hat-trick** for Argentina in his 200th international match, equalling Miroslav Klose's **all-time record of 16 goals at World Cups**. Messi also became the **first player to feature in six World Cup tournaments**. ⚽
-*   **Highlight:** Indian women's hockey team looks to continue its winning run against Uruguay in the FIH Nations Cup. India is determined to win the tournament to regain its spot in the **elite FIH Pro League**. 🏑
+
+*   **Highlight:** ⚽ **Lionel Messi** scored a hat-trick in his 200th international match for Argentina, equalling Miroslav Klose's all-time record of **16 goals at World Cups**. (Page 15)
+*   **Highlight:** 🏏 Indian women's cricketer **Deepti Sharma** became the world's highest wicket-taker in T20Is after a stellar five-wicket haul against Pakistan. (Page 21)
