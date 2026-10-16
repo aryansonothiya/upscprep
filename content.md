@@ -1,98 +1,59 @@
 # 📰 Daily UPSC Master-Brief
 
 ## 📝 The Hindu Editorial Analysis
-
-*   **Topic:** 💡 **Innovate or be eaten**
-*   **Context:** This editorial discusses India's ambition to become a global leader in innovation and the challenges it faces.
+*   **Topic:** 📈 Driving Health Outcomes with Data
+*   **Context:** India is generating vast amounts of health data, but its effective utilization for policy-making and improving public health remains a significant challenge.
 *   **Key Takeaways:**
-    *   India's demographic dividend and digital infrastructure provide a strong foundation, but genuine innovation requires more than just policies.
-    *   Critical areas for focus include increasing R&D spending, improving human capital, strengthening intellectual property rights, fostering venture capital, and promoting social innovation.
-    *   The creation of a robust "ecosystem" for innovation, rather than just isolated policy measures, is essential for sustainable growth and competitiveness.
-
-*   **Topic:** 📊 **Health data must drive action, not just headlines**
-*   **Context:** The piece highlights the importance of leveraging health data effectively for public health decision-making in India.
-*   **Key Takeaways:**
-    *   While health data shows improvements in some indicators, there's a critical need for more disaggregated, real-time, and comprehensive data collection.
-    *   Focus must shift from merely collecting data to robust analysis and proactive utilisation for policy formulation and program implementation.
-    *   Addressing data gaps, particularly in areas like nutrition, non-communicable diseases (NCDs), and mental health, is crucial for equitable health outcomes. Public-private partnerships can play a key role.
-
-*   **Topic:** 🤝 **Rubio's remarks and the limits of strategic empathy**
-*   **Context:** This editorial examines US Senator Marco Rubio's comments on India-US relations, particularly concerning India's ties with Russia and China.
-*   **Key Takeaways:**
-    *   Rubio's statements highlight a prevailing US perspective that often views India's strategic choices through an "either-or" lens, rather than understanding India's need for multi-alignment.
-    *   India's strategic autonomy and relationships with various global powers (e.g., Russia for defence, China for trade) are driven by its geopolitical compulsions and national interests, not simply by ideological alignment.
-    *   For the India-US partnership to deepen, there is a need for greater "strategic empathy" from the US, acknowledging India's unique position and complex foreign policy challenges.
+    *   **Data-driven Policy:** The editorial emphasizes the critical need to move beyond mere data collection to using insights for impactful health interventions, especially in areas like Non-Communicable Diseases (NCDs), maternal & child health, and infectious diseases.
+    *   **Challenges:** It highlights existing hurdles such as data silos, poor data quality, lack of interoperability across systems, and inadequate analytical capacity within the health sector.
+    *   **Recommendations:** Calls for a "Platform Shift" for real-time data integration, standardized data collection mechanisms, fostering a robust data-sharing culture, and strengthening human resources for effective data analysis and policy formulation.
+    *   **Viksit Bharat Goal:** Links a robust health data infrastructure and its judicious utilization directly to achieving the vision of a 'Viksit Bharat' (developed India) by significantly improving national health indicators.
 
 ## 🏛️ Polity & Governance
-
-*   **Current Issue:** 🏫 **L-G orders audit of all Delhi schools for POCSO compliance**
+*   **Current Issue:** 📚 Errors in School Textbooks & Accountability
 *   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive, citywide audit of schools to assess compliance with the Protection of Children from Sexual Offences (POCSO) Act.
-    *   This directive aims to ensure a safe environment for students, particularly given the rising number of POCSO cases.
-    *   The audit will cover aspects like staff screening, CCTV surveillance, safety protocols, and awareness programs, with a dedicated mechanism for monitoring.
-
-*   **Current Issue:** 📚 **Odisha CM orders action errors in textbooks**
+    *   Odisha Chief Minister Mohan Charan Majhi ordered immediate corrective measures and strict action against officials responsible for numerous errors found in school textbooks for Classes 1 to 8.
+    *   Notable mistakes included describing Isaac Newton as the "greatest pilot" and using a photograph of the Karnataka Legislative Assembly to represent the Odisha Legislative Assembly.
+    *   A three-member panel will be constituted to probe the matter and recommend action, highlighting significant concerns about quality control in the education system.
+*   **Current Issue:** 🧒 POCSO Compliance Audit for Delhi Schools
 *   **Main Points:**
-    *   Odisha Chief Minister Mohan Charan Majhi has directed immediate corrective measures and action against officials responsible for numerous errors found in school textbooks (Class 1-8).
-    *   Reports indicate as many as 1,678 mistakes, including factual errors (e.g., Newton described as the "greatest pilot") and geographical inaccuracies (e.g., Karnataka Assembly photo used for Odisha Assembly).
-    *   A three-member panel will be constituted to probe the matter, with action to follow based on its findings, emphasizing accountability in education.
-
-*   **Current Issue:** ⚖️ **SC seeks Delhi Police reply on bail pleas of two 'Indian Mujahideen' operatives**
-*   **Main Points:**
-    *   The Supreme Court has sought a reply from the Delhi Police on the bail pleas of two alleged 'Indian Mujahideen' operatives, Abdul Wahid Siddibapa and Asadullah Akhtar.
-    *   The case involves charges under the Unlawful Activities (Prevention) Act (UAPA), with the Delhi High Court having previously denied them bail, citing serious allegations.
-    *   This highlights the legal complexities and due process challenges in cases involving terror-related charges and the UAPA.
+    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu ordered a comprehensive, citywide audit of all schools in Delhi to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act, 2012.
+    *   The audit aims to ensure that schools adhere to safety norms, have clear child protection policies, designated staff, and established reporting mechanisms to prevent and effectively address child sexual abuse cases.
 
 ## 🌍 Geography & Environment
-
-*   **Current Issue:** 💧 **Water security is crucial for a Viksit Bharat**
+*   **Current Issue:** 💧 Water Security for 'Viksit Bharat'
 *   **Main Points:**
-    *   India faces significant water stress, with depleting groundwater levels and challenges in both rural and urban water supply.
-    *   Government initiatives like the Jal Jeevan Mission, Atal Bhujal Yojana, and Amrit Sarovar aim to address these issues through access to potable water, groundwater management, and water body rejuvenation.
-    *   A multi-sectoral approach, promoting community participation, data-driven planning, infrastructure development, and inter-State cooperation, is essential for achieving long-term water security for a 'Developed India'.
+    *   **Centrality of Water:** The article underscores that water security is fundamental to realizing India's vision of a 'Viksit Bharat' (developed India) by 2047.
+    *   **Jal Jeevan Mission (JJM):** Commends the success of the JJM in providing tap water connections but points to ongoing challenges in ensuring the sustainability and quality of water supply.
+    *   **Challenges:** Key issues include severe groundwater depletion, widespread water pollution, adverse impacts of climate change (leading to increased floods and droughts), and inadequate infrastructure for holistic water management.
+    *   **Way Forward:** Emphasizes the critical need for increased community participation, integrated watershed management, reuse of treated wastewater, and the adoption of climate-resilient practices to ensure long-term water availability and security.
 
 ## 🌐 International Relations (IR)
-
-*   **Current Issue:** 🇮🇳🇺🇸 **Modi meets Trump, raises safety of Indian seafarers**
+*   **Current Issue:** 🤝 India-U.S. Strategic Engagement & Trade
 *   **Main Points:**
-    *   PM Narendra Modi met US President Trump on the sidelines of the G7 Summit in Evian, France, raising concerns about the safety of Indian seafarers, particularly in the Strait of Hormuz.
-    *   Modi commended Trump's efforts for peace in West Asia and stressed the importance of keeping the Strait of Hormuz open for global maritime trade.
-    *   Discussions also touched upon a "very close" India-US trade deal, with Trump affirming US commitment to prevent Iran from acquiring nuclear weapons.
-
-*   **Current Issue:** 🇮🇷🇺🇸 **Iran-U.S. framework deal outlines nuclear pledge, financial relief**
+    *   Prime Minister Narendra Modi and U.S. President Donald Trump held a bilateral meeting on the sidelines of the G7 Summit in Evian, France.
+    *   **Seafarers' Safety:** PM Modi specifically raised the critical issue of the safety of Indian seafarers working on global maritime trade routes, including the Strait of Hormuz, in light of recent incidents.
+    *   **West Asia Peace & Hormuz:** The PM commended Trump's efforts to restore peace in West Asia and stressed the vital importance of keeping the Strait of Hormuz open for global economic stability.
+    *   **Trade Deal:** President Trump indicated that the U.S. and India were "very close" to finalising a trade deal, acknowledging PM Modi as a "very tough" negotiator.
+*   **Current Issue:** ⚛️ Iran-U.S. Framework Deal on Nuclear & Sanctions Relief
 *   **Main Points:**
-    *   A 14-point framework agreement has reportedly been reached between Tehran and Washington, expected to be signed in Geneva.
-    *   Iran has pledged never to produce nuclear weapons and to maintain a status quo on its nuclear program.
-    *   The US has agreed to facilitate the release of frozen Iranian assets, create a $300 billion economic development plan for Iran, lift sanctions on Iranian products and services, and remove its naval blockade.
+    *   A 14-point framework agreement has been reached between Tehran and Washington, which is expected to be signed in Geneva.
+    *   **Iran's Pledge:** Iran has pledged never to produce nuclear weapons and agreed to maintain a status quo on its nuclear programme under the supervision of the International Atomic Energy Agency (IAEA).
+    *   **U.S. Concessions:** The U.S. agreed to facilitate the release of frozen Iranian assets, create a plan for Iran's economic development involving $300 billion, lift sanctions on Iranian products and services (including crude oil and banking), and immediately lift a naval blockade.
 
-*   **Current Issue:** 🇮🇳🇷🇺 **What does the India-Russia logistics agreement allow?**
+## 💲 Economy
+*   **Current Issue:** 🏦 RBI's Expanding Fiscal Role
 *   **Main Points:**
-    *   India and Russia are moving towards finalising a logistics agreement, similar to India's LEMOA (Logistics Exchange Memorandum of Agreement) with the US.
-    *   This pact would enable mutual provision of logistical support, supplies, and services, including refueling and repairs, for military assets during port calls or joint exercises.
-    *   The agreement aims to enhance interoperability and strengthen defence cooperation between the two countries, providing a crucial framework for support in global operations.
-
-*   **Current Issue:** 🇮🇳🇬🇧 **India-U.K. trade deal to take effect from July 15**
+    *   **RBI's Balance Sheet:** The Reserve Bank of India (RBI) has witnessed a significant expansion of its balance sheet, with substantial transfers to the government becoming a notable component of its operations.
+    *   **Quasi-Fiscal Operations:** The RBI undertakes various functions that have implicit or explicit fiscal implications, such as managing foreign currency holdings and supporting government initiatives, which can blur the lines between monetary and fiscal policy.
+    *   **Impact:** This growing role raises questions about the RBI's independence, its influence on government finances, and the potential accumulation of contingent liabilities for the central bank.
+*   **Current Issue:** 🇬🇧🇮🇳 India-U.K. Trade Deal Implementation
 *   **Main Points:**
-    *   The comprehensive trade agreement between India and the United Kingdom is set to take effect from July 15.
-    *   This deal aims to significantly boost bilateral trade by reducing tariffs and non-tariff barriers across various sectors.
-    *   The agreement is expected to strengthen economic ties, create new opportunities for businesses, and enhance strategic partnership between the two nations.
-
-## 💰 Economy & Finance
-
-*   **Current Issue:** 🏦 **The RBI and its growing fiscal role**
-*   **Main Points:**
-    *   The Reserve Bank of India recently announced a record surplus transfer of ₹2.47 lakh crore to the Central government, highlighting its increasing fiscal role beyond monetary policy.
-    *   This substantial transfer provides fiscal space for the government but also raises questions about the RBI's balance sheet strength and its monetary policy autonomy.
-    *   The article details the components of RBI's income (e.g., interest from foreign assets, government securities) and expenditure, underscoring the need for transparency in determining transfer quantum.
-
-*   **Current Issue:** 📈 **A Historic Milestone in Indian Banking (Emirates NBD investment in RBL Bank)**
-*   **Main Points:**
-    *   Emirates NBD has completed a landmark investment in RBL Bank, marking the largest ever Foreign Direct Investment (FDI) and equity fundraise in India's banking sector.
-    *   This significant investment reinforces global confidence in India's banking system and strengthens the strategic partnership between India and the UAE.
-    *   It highlights India's attractiveness as a destination for foreign capital, particularly in crucial sectors like banking.
+    *   The India-U.K. trade deal is officially set to take effect from July 15, 2026, aiming to liberalize trade across a wide array of sectors between the two nations.
+    *   **Expected Benefits:** The agreement is anticipated to boost bilateral trade, foster job creation, and facilitate easier movement of goods and services, strengthening economic ties.
+    *   **Challenges & Resolution:** The finalization process involved extensive negotiations to address issues related to tariffs, services, and regulatory alignments to mutual satisfaction.
 
 ## 🏏 Sports & Miscellaneous
-
-*   **Highlight:** ⚽ **Messi treble powers Argentina to victory in World Cup match.**
-*   **Highlight:** 🏏 **India-A routs Afghanistan-A, all but confirms final berth in tri-nation series.**
-*   **Highlight:** 🏃‍♂️ **Srihari Nataraj breaks his own 50m backstroke record at National aquatics.**
+*   **Highlight:** 🏊‍♂️ **Srihari Nataraj** broke his own 7-year-old men's 50m backstroke national record at the National aquatics in Ahmedabad, clocking an impressive 25.21 seconds in the heats.
+*   **Highlight:** 🏏 **Deepti Sharma** became the world's highest wicket-taker in Women's T20 Internationals, surpassing Australia's Megan Schutt, following her stellar five-wicket haul against Pakistan in the ongoing T20 World Cup.
+*   **Highlight:** ⚽ Football legend **Lionel Messi** scored a crucial hat-trick for Argentina, powering his team to victory and adding another milestone to his illustrious career.
