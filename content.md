@@ -2,93 +2,87 @@
 
 ## 📝 The Hindu Editorial Analysis
 
-*   **Topic:** 📊 **Data Must Drive Action, Not Just Headlines**
-*   **Context:** Discusses the critical need for robust health data in India to move from anecdotal evidence to data-driven policy-making. Highlights gaps in current data collection and utilization.
+*   **Topic:** 📊 **Leveraging Health Data for Policy Action**
+*   **Context:** The editorial discusses the importance of health data in India and critiques the current approach, which often focuses on data collection without adequate analysis and policy implementation.
 *   **Key Takeaways:**
-    *   India's health data ecosystem is fragmented and lacks comprehensive collection and sharing.
-    *   There's a need for a national health data strategy, emphasizing interoperability and data literacy.
-    *   Effective data collection and analysis can help identify health disparities, track disease outbreaks, and improve policy implementation for better health outcomes.
+    *   India has a wealth of health data but struggles with **data to action pathways**, leading to missed opportunities for public health improvement.
+    *   **Data quality, standardisation, and accessibility** are crucial for effective policy formulation and monitoring.
+    *   There's a need for a **"Platform Zero"** approach where data is integrated and readily available to policymakers, researchers, and the public for real-time analysis.
+    *   Emphasis on **fiscal decentralisation** in health data-driven policies to empower States and local bodies, rather than centralisation.
 
-*   **Topic:** 💡 **Innovate or Be Eaten**
-*   **Context:** Explores India's potential to become a global innovation hub, emphasizing the challenges and opportunities in leveraging its demographic dividend.
+*   **Topic:** 💧 **Water Security for Viksit Bharat**
+*   **Context:** This piece highlights the critical role of water security in achieving the vision of a 'Viksit Bharat' (Developed India) by 2047, outlining challenges and suggesting strategies.
 *   **Key Takeaways:**
-    *   India possesses the talent and market size to be a leader in innovation but lags in R&D spending and patent filings.
-    *   Focus on skill development, public-private partnerships, and easing regulatory hurdles are crucial for fostering an innovation ecosystem.
-    *   A culture that rewards risk-taking and provides capital for startups is essential for India to avoid being left behind.
+    *   Achieving water security involves addressing issues from **supply to demand management, equitable access, and sustainable use**.
+    *   The **'Panch-Tatva' (five elements) framework** (water, soil, forest, energy, air) should guide efforts, focusing on water-use efficiency, watershed development, and groundwater recharge.
+    *   **Community participation and policy reforms** are essential for effective water governance and achieving long-term sustainability.
 
-*   **Topic:** 🤝 **Rubio’s Remarks and the Limits of Strategic Empathy**
-*   **Context:** Analyzes the implications of U.S. Senator Marco Rubio's comments on India-U.S. relations, particularly concerning human rights and democratic values.
+*   **Topic:** 🇺🇸🇮🇳🇨🇳 **Limits of Strategic Empathy in US Foreign Policy**
+*   **Context:** The article critically examines U.S. Senator Marco Rubio's recent remarks on U.S. foreign policy towards China and India, focusing on the concept of "strategic empathy."
 *   **Key Takeaways:**
-    *   The U.S. and India, despite deepening strategic ties, continue to have differences in their approaches to human rights and internal political matters.
-    *   Strategic empathy requires understanding each other's perspectives but does not necessitate overlooking fundamental differences in values.
-    *   Economic and strategic imperatives often overshadow value-based concerns in international relations, highlighting the complexity of bilateral ties.
+    *   Rubio suggests the U.S. needs to understand its adversaries' (like China's) motivations but also its allies' (like India's) strategic compulsions.
+    *   The U.S.'s attempt to **balance support for India with its broader regional interests** in the Indo-Pacific, while confronting China, faces challenges.
+    *   India's pursuit of **strategic autonomy** means it will not simply align with U.S. objectives, highlighting the complexities of alliance management.
 
 ## 🏛️ Polity & Governance
 
-*   **Current Issue:** 🏫 **L-G Orders Audit of All Delhi Schools for POCSO Compliance**
+*   **Current Issue:** 🏫 **L-G Orders Audit of Delhi Schools for POCSO Compliance**
 *   **Main Points:**
-    *   Lieutenant-Governor Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all Delhi schools (government, aided, and private) to assess their compliance with the Protection of Children from Sexual Offences (POCSO) Act.
-    *   The audit aims to identify gaps in infrastructure, staff training, and compliance with guidelines like the "Child Protection Policy".
-    *   This directive follows concerns about child safety and aims to create a zero-tolerance environment towards child abuse in educational institutions.
+    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a **comprehensive citywide audit** of all schools in Delhi to assess compliance with the **Protection of Children from Sexual Offences (POCSO) Act**.
+    *   The audit will review infrastructure, safety measures, staff verification, and awareness programmes to ensure a safe environment for children.
+    *   This directive follows concerns about child safety and aims to implement a **"zero-tolerance" approach** to POCSO violations.
 
-*   **Current Issue:** 📚 **Odisha CM Orders Action Over Errors in Textbooks**
+*   **Current Issue:** ⚖️ **SC Bench to Examine Alleged Misplacement of Case Records**
 *   **Main Points:**
-    *   Odisha Chief Minister Mohan Charan Majhi has directed immediate corrective measures and action against officials responsible for numerous errors found in newly issued textbooks for Classes 1 to 8.
-    *   Reported mistakes include describing Isaac Newton as the "greatest pilot" and using a photo of the Karnataka Assembly to represent the Odisha Assembly.
-    *   A three-member panel will be constituted to probe the matter and recommend action against those found responsible.
+    *   The Supreme Court is set to constitute a special bench to investigate allegations that its **Registry has misplaced case records**, including those related to crucial matters.
+    *   This move highlights concerns about the **integrity and efficiency of judicial record-keeping** and raises questions about accountability within the Supreme Court's administration.
 
-*   **Current Issue:** ⚖️ **SC Seeks Delhi Police Reply on Bail Pleas of 'Indian Mujahideen' Operatives**
+*   **Current Issue:** 📚 **Odisha CM Directs Action Over Textbook Errors**
 *   **Main Points:**
-    *   The Supreme Court has issued notice to the Delhi Police to respond to the bail applications of two alleged Indian Mujahideen operatives, Abdul Baqi and Abdul Razzaq.
-    *   The duo was arrested in connection with terror activities and have been in custody for 12 years.
-    *   The case highlights concerns regarding prolonged detention and the right to a speedy trial, especially in cases under anti-terror laws.
-
-*   **Current Issue:** 📜 **UCC Bill to Be Tabled in Monsoon Session of M.P. Assembly**
-*   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Charan Majhi announced that a Uniform Civil Code (UCC) Bill will be introduced in the upcoming Monsoon Session of the State Assembly.
-    *   The government has gathered feedback from various sections of society, including tribal groups, on the proposed UCC.
-    *   This move aligns with the BJP's national agenda for a UCC, aiming to consolidate personal laws across religions.
+    *   Odisha Chief Minister Mohan Charan Majhi ordered **immediate corrective measures and action** against officials responsible for **1,678 errors found in recently issued school textbooks** for Classes 1 to 8.
+    *   Errors included factual inaccuracies (e.g., Newton as "greatest pilot") and incorrect imagery (Karnataka Assembly photo for Odisha Assembly).
+    *   A **three-member panel** will be constituted to probe the matter and fix accountability.
 
 ## 🌍 Geography & Environment
 
-*   **Current Issue:** 🌊 **Dhaka's New Padma Barrage Will Reshape Water Power in the Region**
+*   **Current Issue:** 🌊 **Dhaka's New Padma Barrage to Reshape Regional Water Dynamics**
 *   **Main Points:**
-    *   Bangladesh is set to begin construction of a new Padma barrage, located 180 km downstream of the Farakka Barrage in India.
-    *   The project, funded by India, aims to improve river flow, mitigate water scarcity, and generate hydropower, transforming water resource management in the region.
-    *   Environmental concerns include potential impacts on biodiversity, fisheries, and the Sunderbans mangrove forest, requiring careful ecological assessment and cooperation with India.
-
-*   **Current Issue:** 💧 **Water Security Critical for a Viksit Bharat**
-*   **Main Points:**
-    *   India faces a severe water crisis, exacerbated by climate change and inefficient water management practices, threatening its vision of a 'Viksit Bharat' (Developed India).
-    *   Integrated water management, focusing on both surface and groundwater, along with community participation and decentralised governance, is essential.
-    *   Government initiatives like Jal Jeevan Mission, while significant, need to be complemented by a broader strategy for water conservation, efficient use, and addressing pollution.
+    *   Bangladesh is constructing a **new 180 km Padma barrage** downstream of the Farakka barrage in India, aiming to address water scarcity in its southwestern region and enhance hydropower.
+    *   The project involves a **4.6 lakh crore taka (Tk 4.6 lakh crore) investment** and is expected to mitigate the impact of the Farakka barrage, especially during dry seasons (March-May), which leads to reduced water flow in Bangladesh.
+    *   Concerns exist about the **environmental and social impacts** of the barrage, particularly its effect on upstream sediment flow and the **transboundary river ecosystem** of the Ganga-Padma-Meghna basin. India has welcomed the project and pledged support.
 
 ## 🌐 International Relations (IR)
 
-*   **Current Issue:** ☢️ **Iran-U.S. Framework Deal Outlines Nuclear Pledge, Financial Relief**
+*   **Current Issue:** 🤝 **India-U.S. Bilateral Dialogue on Maritime Security & West Asia Peace**
 *   **Main Points:**
-    *   A 14-point framework agreement between Tehran and Washington was published, outlining Iran's pledge never to produce nuclear weapons and maintaining a status quo on its nuclear programme under IAEA supervision.
-    *   The U.S. has agreed to facilitate the release of frozen Iranian assets and create a plan for Iran's economic development, potentially involving $300 billion, along with lifting sanctions on Iranian products and an immediate naval blockade.
-    *   This deal, expected to be signed in Geneva, signifies a major diplomatic breakthrough aimed at de-escalating tensions and ensuring nuclear non-proliferation in the region.
+    *   During the G7 Summit sidelines, PM Modi met U.S. President Trump, raising the issue of **safety for Indian seafarers** in global maritime trade routes, including the **Strait of Hormuz**.
+    *   Modi commended Trump's efforts for **West Asia peace** and stressed the importance of keeping the Strait of Hormuz open for global economy.
+    *   Trump praised Modi as a "tough negotiator" and noted the U.S. and India are "very close" to finalising a **trade deal**.
 
-*   **Current Issue:** 🚢 **Modi Meets Trump, Raises Safety of Indian Seafarers**
+*   **Current Issue:** 🇷🇺🇮🇳 **India-Russia Logistics Agreement (RELOS) Operationalised**
 *   **Main Points:**
-    *   During their bilateral meeting in Evian, France, PM Narendra Modi raised the issue of the safety of Indian seafarers, particularly concerning the Strait of Hormuz.
-    *   PM Modi commended U.S. President Trump for efforts to restore peace in West Asia, emphasizing the importance of keeping the Strait of Hormuz open for global trade.
-    *   The leaders also discussed finalizing a trade deal between the U.S. and India, with President Trump praising Modi as a "very tough" negotiator.
+    *   The **Reciprocal Exchange of Logistics Agreement (RELOS)** between India and Russia was operationalised in January, allowing for **reciprocal use of each other's bases and ports for supplies, repair, and fuel**.
+    *   Similar to agreements with the U.S. (LEMOA) and other nations, RELOS defines procedures for **joint exercises, training, humanitarian assistance**, and technical support.
+    *   It **does not allow for permanent stationing of troops** on each other's territory but facilitates logistical support for mutually agreed engagements. A key aspect is **access to Russian military facilities in the Arctic**.
 
-*   **Current Issue:** 🤝 **India-U.K. Trade Deal to Take Effect From July 15**
+*   **Current Issue:** ⚛️ **Iran-U.S. Framework Deal on Nuclear Programme and Sanctions Relief**
 *   **Main Points:**
-    *   The much-anticipated India-U.K. bilateral trade agreement is set to take effect from July 15.
-    *   This agreement aims to significantly boost trade and investment between the two countries by reducing tariffs and non-tariff barriers across various sectors.
-    *   The deal is expected to create new opportunities for businesses and consumers in both nations, strengthening their economic partnership.
+    *   A 14-point framework agreement between Tehran and Washington was published, outlining Iran's pledge **never to produce nuclear weapons** and to down-blend highly enriched uranium under IAEA supervision.
+    *   The U.S. agreed to **facilitate the release of frozen Iranian assets**, create a plan for Iran's economic development ($300 billion), and lift sanctions on Iran's products, services, and naval blockade.
 
-*   **Current Issue:** 🇷🇺 **What Does the India-Russia Logistics Agreement Allow? (RELOS)**
+*   **Current Issue:** 🇬🇧🇮🇳 **India-U.K. Trade Deal to Take Effect from July 15**
 *   **Main Points:**
-    *   The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia, operationalized in January, is a foundational military cooperation agreement.
-    *   It defines procedures for reciprocal provision of logistic support, supplies, and services for activities like joint exercises, training, port calls, and humanitarian assistance.
-    *   RELOS does NOT permit permanent basing of troops but facilitates temporary access to facilities, including Russian military facilities in the Arctic, for mutually agreed engagements.
+    *   The **India-U.K. trade deal** is set to be implemented from July 15, aiming to significantly boost bilateral trade and investment.
+    *   Key provisions include the **elimination of tariffs** on 90% of U.K. goods exports to India, alongside the phasing out of tariffs on Indian goods for the U.K.
+    *   The agreement seeks to increase market access, streamline customs procedures, and strengthen cooperation in various sectors.
 
 ## 🏏 Sports & Miscellaneous
 
-*   **Highlight:** 🇦🇷 **Messi Treble Powers Argentina to Victory** (P1) and 🏏 **Deepti Sharma Rediscovering Her Mojo in Women's Cricket** (P21)
+*   **Highlight:** 🏊 **Srihari Nataraj Breaks Own National Backstroke Record**
+    *   Indian swimmer Srihari Nataraj broke his own **seven-year-old men's 50m backstroke national record** at the National Aquatics in Ahmedabad. He clocked 25.21 in heats and 25.32 in the final, retaining his title.
+
+*   **Highlight:** ⚽ **The World Cup: A Blend of Sport, Politics, and Power**
+    *   Analysis of how the FIFA World Cup, despite its appeal, has become intertwined with **geopolitics, economics, and "sportswashing"** by host nations and powerful interests.
+
+*   **Highlight:** 💰 **RBI Allows Banks to Offer Higher Interest to NRO PIs**
+    *   The Reserve Bank of India (RBI) has allowed banks to offer **higher interest rates on Non-Resident Ordinary (NRO) accounts** held by Persons of Indian Origin (PIOs) and Overseas Citizens of India (OCIs), aligning them with domestic term deposit rates.
