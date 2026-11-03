@@ -1,80 +1,95 @@
 # 📰 Daily UPSC Master-Brief
-
 ## 📝 The Hindu Editorial Analysis
 
-*   **Topic:** 💡 **Health Data for Informed Action**
-*   **Context:** India's current status regarding the collection, utilization, and governance of health data, highlighting the gap between data availability and effective policy implementation.
+*   **Topic:** 📊 Data-driven Governance and Public Health
+*   **Context:** The editorial emphasizes the critical need for robust data collection, analysis, and dissemination to inform effective policy decisions, particularly in public health and social sectors. It highlights the shortcomings in India's data systems and cautions against relying solely on sporadic surveys.
 *   **Key Takeaways:**
-    *   India urgently needs comprehensive and reliable health data to drive evidence-based policymaking, rather than relying on fragmented information or short-term headlines.
-    *   Challenges include outdated data sources, lack of a robust data governance framework, and insufficient inter-state collaboration.
-    *   Improved data collection, ethical use, and accessibility are crucial for understanding health disparities and allocating resources effectively, especially for vulnerable populations.
-    *   The focus should shift from merely generating data to ensuring its quality, analysis, and integration into the healthcare system for sustained public health improvements.
+    *   **Importance of Granular Data:** Timely, reliable, and disaggregated data is indispensable for evidence-based policymaking, especially in health, education, and poverty alleviation.
+    *   **Challenges in India's Data Landscape:** India faces issues with the availability, quality, and timeliness of data from sources like NFHS and NSSO, leading to incomplete or outdated information.
+    *   **Consequences of Poor Data:** Inaccurate or insufficient data results in poorly targeted interventions, making it difficult to measure policy outcomes effectively. A unified data policy is advocated.
+    *   **Data Democracy:** Data should be made publicly accessible to enhance government accountability and allow for external scrutiny and analysis.
 
-*   **Topic:** 💧 **Water Security for 'Viksit Bharat'**
-*   **Context:** The increasing water crisis in India due to demographic growth, urbanization, and climate change, and its implications for achieving the vision of a developed India ('Viksit Bharat').
+*   **Topic:** 👨‍👩‍👧‍👦 Population Control Policies and Social Welfare
+*   **Context:** This "Data Point" article criticizes Andhra Pradesh's incentive scheme that offers financial aid for larger families, arguing it is counterproductive to national population control goals.
 *   **Key Takeaways:**
-    *   Water stress impacts all sectors (agriculture, industry, domestic) and necessitates an integrated, multi-stakeholder approach to water management.
-    *   Solutions involve combining traditional wisdom with modern technology for groundwater recharge, watershed management, and wastewater treatment.
-    *   Effective governance, community participation, and transboundary cooperation are essential for sustainable water resource management.
-    *   While initiatives like Jal Jeevan Mission are positive, continuous efforts are needed to ensure equitable access and availability of water across all regions.
-
-*   **Topic:** 👨‍👩‍👧‍👦 **A.P.'s Family Incentives: A Misplaced Policy?**
-*   **Context:** Andhra Pradesh government's plan to provide incentives for larger families (three or more children) to boost declining fertility rates, particularly in certain communities.
-*   **Key Takeaways:**
-    *   The policy aims to address declining fertility rates and demographic shifts within specific religious and tribal groups in the state.
-    *   Critics argue that one-time financial aid is insufficient to cover the long-term costs and responsibilities of raising multiple children.
-    *   Concerns are raised about potential negative impacts on child health outcomes, gender equality, and the overall well-being of marginalized families who might be encouraged to have more children without adequate support.
-    *   A more effective approach would be to invest in comprehensive social services, including healthcare, education, and economic opportunities, rather than offering direct cash incentives for birth rates.
+    *   **Counter-intuitive Policy:** Andhra Pradesh's scheme offering a one-time aid of ₹1.2 lakh for families having a third child runs contrary to broader family planning and population stabilization efforts.
+    *   **Demographic Dividend:** India is experiencing a demographic dividend, and policies should focus on investing in human capital through health, education, and employment, rather than incentivizing larger families.
+    *   **Inadequate Aid:** A single financial incentive is insufficient to cover the long-term costs of childcare. A better approach would be universal benefits like health insurance, quality education, and nutrition support.
+    *   **Poverty Exacerbation:** Such incentives might inadvertently encourage economically vulnerable families to have more children, potentially deepening the cycle of poverty.
 
 ## 🏛️ Polity & Governance
 
-*   **Current Issue:** 🏫 **Delhi L-G Orders POCSO Compliance Audit for All Schools**
+*   **Current Issue:** ⚖️ Uniform Civil Code (UCC) in Madhya Pradesh
 *   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has mandated a comprehensive, citywide audit of all Delhi schools to ensure strict compliance with the Protection of Children from Sexual Offences (POCSO) Act provisions.
-    *   The audit will assess the functionality of Internal Complaints Committees (ICCs) and Child Protection Committees (CPCs), crucial for safeguarding children.
-    *   Key areas include verifying adequate CCTV surveillance, conducting thorough staff background checks, and implementing awareness programs for child safety.
-    *   This directive aims to establish a zero-tolerance environment against child abuse and ensure a safe, nurturing space for all students.
+    *   Madhya Pradesh Chief Minister announced that a **UCC Bill** would be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24).
+    *   A six-member high-level committee, led by retired SC judge Ranjana Prasad Desai, was formed in April to draft the Bill and has invited public suggestions.
+    *   Other BJP-ruled states like Uttarakhand, Gujarat, and Assam have already implemented or passed UCC Bills.
 
-*   **Current Issue:** ⚖️ **M.P. to Table Uniform Civil Code (UCC) Bill**
+*   **Current Issue:** 🚨 ED's Enforcement Powers Under Judicial Scrutiny
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill for the Uniform Civil Code (UCC) will be introduced in the upcoming Monsoon Session of the Legislative Assembly in July.
-    *   A six-member high-level committee, chaired by retired Supreme Court judge Justice Ranjana Prasad Desai, has been tasked with preparing the draft Bill and submitting a detailed report within 60 days.
-    *   The committee has actively sought public suggestions and reviewed UCC models adopted by other BJP-ruled states like Uttarakhand, Gujarat, and Assam.
-    *   CM Yadav expressed confidence that the Bill will be passed during the July session, making Madhya Pradesh another state to implement the UCC.
+    *   The Karnataka High Court declared the arrest of **Gameskraft Technologies Pvt. Ltd. directors by the Enforcement Directorate (ED) as "contrary to law."**
+    *   The court noted that the ED arrested them without issuing summons under **Section 50 of the Prevention of Money Laundering Act (PMLA)** and found no new material compared to previous searches.
+    *   This highlights ongoing legal challenges and judicial oversight regarding the ED's procedures and powers of arrest.
+
+*   **Current Issue:** ✈️ Enhanced Airport Security Measures
+*   **Main Points:**
+    *   **Full body scanners** are currently on trial at four major Indian airports (Delhi, Mumbai, Bengaluru, Hyderabad), with three more airports slated to follow.
+    *   These **millimetre-wave technology** scanners aim to enhance security by detecting non-metal objects and explosives without physical frisking.
+    *   The **DGCA has mandated the installation of full body scanners by December 2026** to improve aviation security protocols.
+
+*   **Current Issue:** 🌍 Nicobarese Tribal Councils Oppose Draft Election Rules
+*   **Main Points:**
+    *   Nicobarese tribal councils in Andaman & Nicobar Islands are opposing the draft election rules for village bodies, fearing an **erosion of their traditional governance system.**
+    *   The traditional system involves **'Headmen' elected by custom**, whereas the new rules propose elections by secret ballot, nominations, reservations, and disqualification criteria.
+    *   Tribal communities are advocating for the **preservation of their cultural heritage and autonomy** in self-governance.
 
 ## 🌍 Geography & Environment
 
-*   **Current Issue:** 🌊 **Bangladesh's New Padma Barrage and Regional Water Dynamics**
+*   **Current Issue:** 🌊 Padma Barrage Project in Bangladesh and Regional Water Dynamics
 *   **Main Points:**
-    *   Bangladesh has greenlit the construction of a new 2.1-km Padma barrage, designed to store 2,900 million cubic meters of water, aiming to address seasonal water scarcity for 6.5 crore people.
-    *   The barrage will be located 180 km downstream of India's Farakka barrage, which Bangladesh has historically blamed for its water woes, raising questions about transboundary river management.
-    *   Environmental experts warn of significant ecological costs, including reduced groundwater recharge, increased salinity in the Sundarbans, riverbank erosion, and negative impacts on livelihoods.
-    *   The project highlights complex water diplomacy issues with India, potential reliance on Chinese engineering, and geopolitical sensitivities over water infrastructure in the region.
+    *   Bangladesh plans to build a new **Padma barrage (on River Ganga) 180 km downstream of India's Farakka Barrage** to ensure year-round navigability and water supply.
+    *   The project aims to divert Ganga waters to Matiranga-Hooghly and the Kolkata Port, impacting the **Ganga-Brahmaputra basin.**
+    *   Concerns exist regarding potential **adverse effects on upstream areas in India**, including the Sundarbans, Kolkata Port, groundwater levels, and fish habitats due to reduced freshwater flow.
+    *   This initiative underscores the need for **regional cooperation and joint river basin management** between India and Bangladesh.
+
+*   **Current Issue:** 🌌 Universe's Accelerating Expansion Confirmed
+*   **Main Points:**
+    *   New research, leveraging data from **Type Ia supernovae**, has re-confirmed that the **universe's expansion is accelerating**, challenging earlier claims of non-accelerating expansion.
+    *   This acceleration is attributed to **dark energy**, a mysterious force believed to constitute about 70% of the universe's energy density.
+    *   The study reinforces the **cosmological constant (Lambda)** as the most fitting explanation for this phenomenon and highlights the crucial role of the Hubble Space Telescope in such discoveries.
 
 ## 🌐 International Relations (IR)
 
-*   **Current Issue:** 🤝 **Modi-Trump Meet: Seafarers' Safety & Trade Deal**
+*   **Current Issue:** 🤝 Modi-Trump Meet: Seafarers' Safety & Trade Deal
 *   **Main Points:**
-    *   During their bilateral meeting on the sidelines of the G7 Summit in Evian, France, PM Modi raised the critical issue of the safety of Indian seafarers with U.S. President Trump.
-    *   Modi emphasized the importance of keeping the Strait of Hormuz open for global maritime trade, especially after recent incidents off Oman.
-    *   The leaders acknowledged the strong India-U.S. relationship and expressed optimism about finalizing a trade deal soon, with Trump praising Modi as a "very tough" negotiator.
-    *   Discussions also touched upon regional peace efforts in West Asia and a shared stance against Iran developing nuclear weapons.
+    *   PM Modi met US President Trump on the sidelines of the G7 Summit in Evian, France, emphasizing the **safety of Indian seafarers** globally, particularly in the **Strait of Hormuz**.
+    *   Modi cited the recent killing of three Indian seafarers in a US strike off Oman and highlighted the importance of keeping the **Strait of Hormuz open for the world economy**.
+    *   Discussions also touched upon **finalizing a bilateral trade deal**, with President Trump commending Modi as a "tough negotiator."
 
-*   **Current Issue:** 🇮🇳🇷🇺 **India-Russia Logistics Agreement (RELOS) Operationalized**
+*   **Current Issue:** 🇮🇷🇺🇸 Iran-U.S. Framework Deal: Nuclear Pledge & Sanctions Relief
 *   **Main Points:**
-    *   The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia, signed in 2025, has been operationalized, enabling reciprocal use of bases and ports for supplies, repair, and fuel.
-    *   This agreement, similar to India's LSAs with other nations, facilitates joint exercises, training, humanitarian assistance, and port calls, but *does not* permit permanent stationing of troops.
-    *   RELOS streamlines administrative procedures for military-to-military engagement and technical support, enhancing defence cooperation between the two countries.
-    *   A significant aspect of the agreement is India's access to Russian military facilities in the Arctic, aligning with both countries' expanding cooperation in the region.
+    *   A 14-point framework agreement has been reached, wherein the US will facilitate the release of **frozen Iranian assets** and contribute to Iran's economic development ($300 billion).
+    *   Iran has pledged **not to produce nuclear weapons** and to maintain the status quo on its nuclear program, agreeing to **down-blend highly enriched uranium** under IAEA supervision.
+    *   The US committed to **lifting sanctions on Iran's products and services** (including crude and banking), an immediate naval blockade lifting, and troop withdrawal from "surrounding areas."
+    *   Iran, in turn, pledged to restore pre-war traffic through the Strait of Hormuz.
 
-*   **Current Issue:** 📈 **India-U.K. Trade Deal to Take Effect Mid-July**
+*   **Current Issue:** 🇬🇧🇮🇳 India-U.K. Trade Deal Implementation
 *   **Main Points:**
-    *   The bilateral trade agreement between India and the United Kingdom is set to take effect from July 15, following its finalization in February this year.
-    *   This Free Trade Agreement (FTA) aims to significantly boost bilateral trade, reduce tariffs across various sectors, and enhance cooperation in services.
-    *   Key provisions include greater market access for goods and services, and mechanisms for mutual recognition of professional qualifications.
-    *   The deal is anticipated to further strengthen the India-U.K. economic partnership and align with India's broader strategic cooperation frameworks.
+    *   The **India-U.K. trade deal** is set to take effect from **July 15**, marking a significant step in bilateral economic relations.
+    *   This agreement is expected to **boost trade and investment** between the two nations, fostering stronger economic ties.
+
+*   **Current Issue:** 🇨🇳🇷🇺 ASEAN-Russia Relations Amidst Ukraine War
+*   **Main Points:**
+    *   Russian President Putin hosted **ASEAN leaders** for a summit, aiming to strengthen ties with Asian partners amidst Western pressure over the Ukraine war.
+    *   The discussions focused on **economic cooperation and regional security**, with ASEAN nations seeking stability in the Asia-Pacific region.
+
+*   **Current Issue:** 🤖 Misuse of AI Tool in Cyber Strikes Against Iran
+*   **Main Points:**
+    *   The US accused Elon Musk's AI tool, **Grok (from xAI)**, of being used by Iran to "amplify disinformation" against critical US infrastructure in cyber strikes.
+    *   This incident underscores the growing challenges of **regulating dual-use AI technology** and the escalating threat of cyber warfare. Musk's company denies involvement.
 
 ## 🏏 Sports & Miscellaneous
 
-*   **Highlight:** ⚽ **Messi's Treble Propels Argentina to Victory**
-    *   Football icon Lionel Messi scored a hat-trick, leading Argentina to a decisive victory, showcasing his continued prowess on the field.
+*   **Highlight:** ⚽ **Lionel Messi scored a dazzling hat-trick** for Argentina against Algeria, equalling Miroslav Klose's all-time record of 16 goals at World Cups. He also became the first player to feature in six World Cup tournaments.
+*   **Highlight:** 🏒 The **Indian women's hockey team** looks to continue its winning run against Uruguay in the FIH Nations Cup, aiming for a spot in next season's elite FIH Pro League.
+*   **Highlight:** 🏏 **Deepti Sharma's five-wicket haul** against Pakistan helped her reclaim the title of the world's highest wicket-taker in T20Is, underscoring her crucial role in the Indian women's cricket team.
