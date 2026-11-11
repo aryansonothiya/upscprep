@@ -1,66 +1,42 @@
 # 📰 Daily UPSC Master-Brief
 
 ## 📝 The Hindu Editorial Analysis
-*   **Topic:** **Population Policy & Social Incentives in Andhra Pradesh**
-*   **Context:** Andhra Pradesh's government has announced a one-time financial aid for families having more than two children, aiming to boost birth rates and address demographic concerns like an aging population.
+
+*   **Topic:** 🏦 RBI's Expanding Fiscal Role and Central Bank Independence
+*   **Context:** The Reserve Bank of India (RBI) recently approved a record surplus transfer of ₹2.87 lakh crore to the Union government for FY26, consistent with the Economic Capital Framework. This transfer highlights the RBI's growing fiscal significance.
 *   **Key Takeaways:**
-    *   The incentive is deemed **misplaced** as a one-time aid is insufficient to offset the long-term costs of childcare and is unlikely to significantly impact fertility rates.
-    *   Such interventions, without comprehensive support for education, health, and economic opportunities, often lead to **unintended consequences**.
-    *   Experts suggest focusing on **holistic policies** that empower women, improve healthcare, and ensure economic stability, rather than crude demographic manipulations.
-    *   The policy risks exacerbating existing **socio-economic inequalities** and putting further strain on resources in the long run.
+    *   **Fiscal Centralization:** RBI's transfers are classified as non-tax revenue, meaning they are a direct gain for the Union government and not part of the divisible pool shared with States. This indirectly supports **fiscal centralization**, as States still bear significant spending obligations but have less fiscal flexibility.
+    *   **Evolving Role of Central Bank:** The RBI's role is evolving from primarily a guardian of monetary stability to an increasingly important source of fiscal capacity. This intertwines monetary institutions and fiscal outcomes, potentially making the central bank an informal fiscal instrument.
+    *   **Impact on Independence:** While within the legal framework, the large scale of these transfers raises questions about the RBI's **institutional distance** from the government's fiscal compulsions, potentially impacting its independence.
+    *   **Reserve Management & Revenue:** The surplus is significantly boosted by gains from foreign assets, foreign exchange transactions, and interest earned on securities. This indicates that the RBI's reserve management decisions now impact not only monetary stability but also contribute substantially to government revenues.
 
 ## 🏛️ Polity & Governance
-*   **Current Issue:** **Accountability in Education & Child Protection**
+
+*   **Current Issue:** ⚖️ Key Legislative & Social Governance Initiatives
 *   **Main Points:**
-    *   The Odisha Chief Minister has ordered immediate corrective measures and action against officials responsible for over 1,600 errors found in school textbooks (Classes 1-8). 📚
-    *   A three-member panel will investigate, emphasizing the need for **quality control and accountability** in public education.
-    *   In Delhi, the Lieutenant-Governor has ordered a **comprehensive audit** of all schools to ensure compliance with the **Protection of Children from Sexual Offences (POCSO) Act**.
-    *   This initiative aims to enhance **child safety**, requiring police verification of staff, CCTV installation, and regular inspections to prevent child sexual abuse. 🚨
-*   **Current Issue:** **Uniform Civil Code (UCC) Legislation**
-*   **Main Points:**
-    *   The Madhya Pradesh Chief Minister announced that a Bill on the **Uniform Civil Code (UCC)** would be introduced in the upcoming Monsoon Session of the State Legislative Assembly in July. 🏛️
-    *   A six-member high-level committee, headed by a retired Supreme Court judge, has been drafting the Bill after studying models from other BJP-ruled states like Uttarakhand and Gujarat.
-*   **Current Issue:** **Airport Security Enhancements**
-*   **Main Points:**
-    *   Full-body scanners are currently undergoing trials at four major Indian airports (Delhi, Mumbai, Bengaluru, Chennai), with three more airports slated for trials.
-    *   This move aims to enhance **security screening** by detecting prohibited items without physical contact, improving efficiency and passenger experience. ✈️
+    *   **Uniform Civil Code (UCC) in MP:** Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on **Uniform Civil Code (UCC)** will be introduced in the upcoming Monsoon Session of the State Legislative Assembly, scheduled for July. A six-member panel is drafting the Bill, considering models from Uttarakhand and Gujarat.
+    *   **POCSO Compliance Audit in Delhi Schools:** Delhi Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all schools to assess their compliance with the provisions of the **Protection of Children from Sexual Offences (POCSO) Act**. This aims to enhance child safety and address concerns over past violations.
+    *   **Hawker Eviction in West Bengal:** Former West Bengal Chief Minister Mamata Banerjee led a protest against the State government's ongoing drive to evict hawkers, terming it "illegal, unjust, and inhuman" and demanding their rehabilitation. The government, however, argues that it addresses "unchecked encroachment" for public walkways.
 
 ## 🌍 Geography & Environment
-*   **Current Issue:** **Transboundary River Management & Environmental Concerns**
+
+*   **Current Issue:** 💧 Transboundary River Governance: Bangladesh's Padma Barrage
 *   **Main Points:**
-    *   Bangladesh has signed off on the construction of a new **Padma barrage** on the Ganga river, 180 km downstream of India's Farakka barrage. 🌊
-    *   The project, while intended to control water and address seasonal scarcity in Bangladesh, raises significant **environmental concerns**, including altered river character, reduced groundwater recharge, increased salinity in the Sundarbans, and impacts on livelihoods.
-    *   Experts suggest that smaller check-dams might be a more sustainable solution compared to large barrages, given the complexities of **transboundary water governance** and **climate change impacts**. 🌍
-*   **Current Issue:** **National Energy Policy: Compressed Biogas**
-*   **Main Points:**
-    *   India is on track to achieve its target of **3% compressed biogas (CBG) blending** with natural gas for FY27.
-    *   This policy aims to promote **sustainable energy solutions**, reduce reliance on fossil fuels, and manage agricultural waste. 🌱
+    *   **Padma Barrage Project:** Bangladesh has approved the construction of a new 2.1-km long Padma barrage project, estimated at ₹39,170 crore, to store water for 6.5 crore people and address seasonal water scarcity. It will be located 180 km downstream of India's Farakka barrage.
+    *   **Context of Farakka Barrage:** Bangladesh has historically blamed India's **Farakka barrage** for altering the Ganga River's (Padma in Bangladesh) character and contributing to water scarcity. The **1996 Ganges Water Treaty**, which governs water sharing, is set to expire in December 2026.
+    *   **Environmental Concerns:** Experts warn of significant ecological costs, including reduced groundwater recharge, increased salinity in the Sundarbans (affecting the world's largest mangrove forest and local livelihoods), and potential for severe flooding due to silt accumulation, mirroring impacts from the Farakka barrage.
+    *   **Regional Geopolitics:** The project, situated close to the border, could raise concerns with India, especially given the increasing Chinese influence in regional water management and India's cautious stance towards Bangladesh's new administration.
 
 ## 🌐 International Relations (IR)
-*   **Current Issue:** **G7 Summit, India-U.S. Ties & West Asia Peace Deal**
+
+*   **Current Issue:** 🤝 India's Diplomatic Engagements and Global Security Dynamics
 *   **Main Points:**
-    *   Prime Minister Modi met U.S. President Trump on the sidelines of the G7 Summit, discussing the **safety of Indian seafarers** in the Strait of Hormuz following a recent U.S. strike. 🚢
-    *   Modi underscored the importance of keeping the Strait of Hormuz open for global trade and commended Trump's efforts towards a **West Asia peace deal**.
-    *   The **U.S.-Iran framework agreement** (expected to be signed shortly) outlines a nuclear pledge from Iran and financial relief from the U.S. (lifting sanctions on oil, banking, insurance) in exchange for maintaining a nuclear status quo under IAEA supervision.
-    *   The deal aims to restore pre-war traffic through the Strait of Hormuz and ensure Iran does not produce nuclear weapons. 🤝
-*   **Current Issue:** **India-U.K. Trade Deal**
-*   **Main Points:**
-    *   The **India-U.K. Free Trade Agreement (FTA)** is set to take effect from July 15, aiming to significantly boost bilateral trade and investment. 📈
-    *   The agreement is expected to reduce tariffs on goods and services, address non-tariff barriers, and deepen the economic and strategic partnership between the two nations.
-*   **Current Issue:** **India-Russia Logistics Agreement (RELOS)**
-*   **Main Points:**
-    *   The **Reciprocal Exchange of Logistics Agreement (RELOS)** between India and Russia has been operationalized, streamlining procedures for reciprocal use of military bases/ports for supplies, repairs, and fuel during joint exercises, training, and HADR missions. 🇷🇺🇮🇳
-    *   It clarifies that the agreement does **NOT** permit permanent basing of troops but allows for a maximum of 3,000 troops for mutually agreed engagements.
-    *   A key aspect is India's access to **Russian military facilities in the Arctic**, supporting expanded cooperation in the region.
-*   **Current Issue:** **U.S. Military Strategic Shifts**
-*   **Main Points:**
-    *   The U.S. Pentagon has reverted the name of its military command from **U.S. Indo-Pacific Command** to **U.S. Pacific Command**, reversing a 2018 decision.
-    *   This change honours historical roots but retains the same area of responsibility, spanning from Western India to America's Pacific coastline. 🇺🇸
-*   **Current Issue:** **AI in Warfare**
-*   **Main Points:**
-    *   The U.S. government revealed that Elon Musk's xAI tool, **Grok**, was used in strikes against Iran as part of **Project Maven**, an AI-assisted targeting program. 🤖
-    *   This highlights the increasing integration of advanced AI in military operations, raising critical ethical and policy questions regarding automated strikes.
+    *   **Modi-Trump Meeting at G7 Summit:** Prime Minister Narendra Modi met US President Donald Trump on the sidelines of the G7 Summit in Evian, France. Discussions included the **safety of Indian seafarers** operating in global maritime routes (e.g., Strait of Hormuz) and efforts to restore peace in West Asia. President Trump lauded Modi as a "very tough" negotiator, as a **U.S.-India trade deal** is reportedly nearing finalization.
+    *   **US-Iran Framework Deal:** A 14-point framework agreement between the US and Iran has been outlined, with Iran pledging not to produce nuclear weapons and the US agreeing to **financial relief**. This includes lifting naval blockades and sanctions on Iranian crude oil exports, potentially **unlocking banking and insurance access** for tankers. Iran has also agreed to dilute its highly enriched uranium stocks.
+    *   **India-Russia Logistics Agreement (RELOS):** The **Reciprocal Exchange of Logistics Agreement (RELOS)** between India and Russia, operationalized in January, allows for reciprocal use of military facilities for supplies, repairs, and fuel during joint exercises, training, and HADR missions. Importantly, it **does not allow permanent basing of troops** but facilitates access for up to 3,000 troops for mutually agreed engagements, including in the Arctic.
+    *   **India-UK Trade Deal:** A trade deal between India and the United Kingdom is set to take effect from July 15, aiming to strengthen trade and investment ties between the two nations.
+    *   **US Pacific Command Name Restored:** The Pentagon announced the restoration of the name **U.S. Pacific Command**, dropping "Indo" from the previous "U.S. Indo-Pacific Command," to honor historical roots while maintaining its extensive area of responsibility from India to the US Pacific coastline.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight:** Lionel Messi scored a hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 goals at World Cups and becoming the first player to feature in six tournaments. ⚽
-*   **Highlight:** Indian swimmer Srihari Nataraj broke his own seven-year-old men's 50m backstroke record at the National aquatics in Ahmedabad. 🏊‍♂️
+
+*   **Highlight:** ⚽ The FIFA World Cup 2026 is underway! **Lionel Messi** scored a dazzling hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 World Cup goals and becoming the first player to feature in six tournaments. In another match, **Norway** made World Cup history by fielding three sons of former World Cup players (Erling Haaland, Alexander Sorloth, and Kristian Thorstvedt) in the same match against Iraq.
