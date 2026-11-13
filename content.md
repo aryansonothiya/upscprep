@@ -1,36 +1,77 @@
 # 📰 Daily UPSC Master-Brief
 
 ## 📝 The Hindu Editorial Analysis
-*   **Topic:** RBI's Evolving Fiscal Role and Central Bank Independence
-*   **Context:** The Reserve Bank of India (RBI) recently approved a record ₹2.87 lakh crore surplus transfer to the Union government for FY26. This move has spurred discussions about the RBI's growing fiscal significance, particularly how its earnings from reserve management and foreign assets support government finances.
+
+*   **Topic:** 📊 **Data-Driven Public Health Policy in India**
+*   **Context:** The editorial highlights India's persistent challenges in public health data collection and utilisation, despite advancements. It stresses the urgent need for robust, granular data to formulate effective health policies and interventions.
 *   **Key Takeaways:**
-    *   **Record Surplus Transfer:** The transfer significantly increased from previous years (₹30,000-₹65,000 crore), reaching ₹2.87 lakh crore for FY26, consistent with the Economic Capital Framework (ECF).
-    *   **Balance Sheet Growth:** This increase coincides with a phenomenal 20.6% growth in RBI's balance sheet to ₹91.97 lakh crore and over 26% increase in gross income, mainly from foreign assets and exchange transactions.
-    *   **Fiscal Space without Taxation:** Central bank transfers provide fiscal space to the government without new taxes or borrowing, raising questions about a stabilizing institution acting as a "fiscal instrument."
-    *   **Impact on Monetary Stability:** RBI's decisions on reserve management, exchange rate intervention, and asset allocation now impact not just monetary stability but also the economy's overall health and fiscal results.
-    *   **Fiscal Federalism Concerns:** The surplus transfer is considered non-tax revenue for the Union government, not part of the divisible pool shared with States as per Finance Commission formulas, potentially contributing to fiscal centralisation.
-    *   **Central Bank Independence:** The growing intertwining of monetary institutions and fiscal outcomes raises concerns about maintaining institutional distance and preserving central bank independence as fiscal pressures intensify.
+    *   India suffers from **significant data gaps** in critical public health areas like child mortality, maternal health, and disease prevalence (e.g., hypertension, diabetes).
+    *   Existing data is often **aggregated**, making it difficult to understand variations across demographics, regions, and social groups.
+    *   There's a **lack of skilled personnel** for data collection, analysis, and interpretation, hindering evidence-based policy-making.
+    *   The editorial calls for **inter-State data-sharing protocols**, investment in human resources, and greater accountability in data collection to ensure policies are informed by reality, not just headlines.
+
+*   **Topic:** 🤝 **Strategic Empathy in India-U.S. Relations**
+*   **Context:** The article discusses U.S. Senator Marco Rubio's comments regarding India's foreign policy and its historical non-alignment, suggesting a need for a more nuanced U.S. approach.
+*   **Key Takeaways:**
+    *   India's strategic autonomy is rooted in its **national interests** and historical context, not an anti-U.S. stance.
+    *   The U.S. must develop **"strategic empathy"** to understand India's geopolitical compulsions, especially regarding its relationships with countries like China and Russia.
+    *   Recognising India as a **major global power** with its own strategic priorities is crucial for a stronger and more balanced India-U.S. partnership.
+    *   The U.S. should avoid pressuring India into alliances that could compromise its **independent foreign policy**.
 
 ## 🏛️ Polity & Governance
-*   **Current Issue:** Auditing Delhi Schools for POCSO Compliance & UCC Bill
+
+*   **Current Issue:** ⚖️ **Uniform Civil Code (UCC) in Madhya Pradesh**
 *   **Main Points:**
-    *   **POCSO Compliance Audit:** Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all Delhi schools to assess compliance with the Protection of Children from Sexual Offences (POCSO) Act. This aims to ensure a safe environment and adherence to child protection protocols.
-    *   **UCC Bill in Madhya Pradesh:** Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the Uniform Civil Code (UCC) would be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24), expressing hope for its passage within the session. A six-member committee is working on the draft Bill.
-    *   **AIADMK MLA Disqualification Case:** Tamil Nadu Assembly Speaker J.C.D. Prabhakar confirmed that four former AIADMK MLAs, facing disqualification proceedings for defying party whip and voting against the government, have submitted their written responses. The Speaker will review these before making a decision.
+    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a **UCC Bill** will be tabled in the upcoming Monsoon Session of the State Legislative Assembly in July.
+    *   A **six-member committee** formed by the State government in April is drafting the Bill and has invited public suggestions.
+    *   MP aims to follow other BJP-ruled States like Uttarakhand, Gujarat, and Assam, which have already implemented or are in the process of implementing the UCC.
+
+*   **Current Issue:** 🏫 **POCSO Compliance Audit for Delhi Schools**
+*   **Main Points:**
+    *   Delhi Lieutenant-Governor (L-G) Taranjit Singh Sandhu ordered a **comprehensive, citywide audit of all schools** to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
+    *   The audit will evaluate measures for **child safety, training of staff, reporting mechanisms**, and awareness campaigns for students and parents.
+
+*   **Current Issue:** 📱 **Delhi HC Notice on Telegram Ban**
+*   **Main Points:**
+    *   The Delhi High Court issued a **notice to the Centre** regarding the blanket ban on the Telegram messaging app.
+    *   Petitioners argue the ban violates fundamental rights, including **freedom of speech and access to information**.
+    *   The NTA chief reportedly stated that Telegram was warned multiple times about misuse (e.g., for **paper leaks and exam malpractices**) before the ban.
 
 ## 🌍 Geography & Environment
-*   **Current Issue:** Padma Barrage Project & Accelerating Universe Expansion
+
+*   **Current Issue:** 🌊 **Padma Barrage Project and India-Bangladesh Water Sharing**
 *   **Main Points:**
-    *   **Padma Barrage in Bangladesh:** Bangladesh is set to construct a new Padma barrage (worth Tk 30,443 crore or $2.7 billion) to alleviate the impacts of sea-level rise and salinity ingress from the Bay of Bengal, regulating water flow in the Ganges, Brahmaputra, and Meghna rivers. This project has potential implications for water management in the region, including India's Farakka Barrage.
-    *   **Universe's Expansion Accelerating:** New research reinforces the finding that the universe's expansion is not only continuing but also accelerating. This phenomenon, attributed to "dark energy," poses a challenge to conventional physics, suggesting that our understanding of the cosmos is still incomplete.
+    *   Bangladesh is constructing a **new barrage on the Padma river** (the main distributary of the Ganges in Bangladesh) to divert water to the Gorai river.
+    *   The project aims to improve water management, combat salinity, and boost agriculture in Bangladesh's southwest.
+    *   Concerns have been raised by India regarding the **potential impact on water availability** and the delicate ecosystems in the lower Ganges basin in India.
+
+*   **Current Issue:** ♻️ **India's Compressed Biogas Blending Goal**
+*   **Main Points:**
+    *   India is on track to achieve its target of **3% compressed biogas (CBG) blending** in natural gas by FY27.
+    *   Currently, the blending stands at **0.8%**, with 1,246 CBG plants registered across the country.
+    *   This initiative contributes to **reducing crude oil imports**, boosting the rural economy, and improving waste management.
 
 ## 🌐 International Relations (IR)
-*   **Current Issue:** India's Diplomatic Engagements and Strategic Pacts
+
+*   **Current Issue:** 🇺🇸🇮🇳 **Modi-Trump Meet on G7 Sidelines & Indian Seafarers' Safety**
 *   **Main Points:**
-    *   **Modi-Trump Meeting:** Prime Minister Narendra Modi met U.S. President Trump on the sidelines of the G7 Summit in France. Modi raised concerns about the safety of Indian seafarers in global maritime routes, including the Strait of Hormuz, following a U.S. strike. Trump praised Modi as a "very tough" negotiator, noting progress on an India-U.S. trade deal.
-    *   **India-Russia Logistics Agreement (RELOS):** The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia was operationalized in January. This foundational military cooperation agreement facilitates reciprocal use of each other's bases and ports for supplies, repairs, and fuel during joint exercises, training, and humanitarian aid. It does *not* allow for permanent stationing of troops, clarifying social media claims.
-    *   **India-U.K. Trade Deal:** A bilateral trade deal between India and the U.K. is set to take effect from July 15. The deal aims to boost bilateral trade and investment by reducing tariffs on a wide range of goods and services.
-    *   **Iran-U.S. Nuclear Framework:** A 14-point framework agreement between Tehran and Washington was published, outlining Iran's pledge not to produce nuclear weapons and potential financial relief for Iran, including the release of frozen assets and lifting of sanctions.
+    *   Prime Minister Narendra Modi met U.S. President Donald Trump on the sidelines of the G7 Summit in Evian, France.
+    *   PM Modi raised the critical issue of the **safety of Indian seafarers**, especially following the recent killing of three Indian sailors off the coast of Oman.
+    *   Discussions included efforts to **restore peace in West Asia** and ensure the Strait of Hormuz remains open for global trade.
+    *   President Trump praised Modi as a "very tough negotiator" and expressed optimism about **finalising a trade deal** between the U.S. and India.
+
+*   **Current Issue:** 🇮🇷🇺🇸 **Iran-U.S. Framework Deal on Nuclear Programme & Sanctions**
+*   **Main Points:**
+    *   A **14-point framework agreement** has been reached between Iran and the U.S., expected to be signed in Geneva.
+    *   Iran has pledged **never to produce nuclear weapons** and to maintain the status quo on its nuclear programme under international supervision.
+    *   In return, the U.S. has agreed to facilitate the **release of frozen Iranian assets**, lift sanctions on Iranian products/services (including crude oil and banking), and withdraw its naval blockade.
+
+*   **Current Issue:** 🇮🇳🇷🇺 **India-Russia Logistics Support Agreement (RELOS)**
+*   **Main Points:**
+    *   The **Reciprocal Exchange of Logistics Agreement (RELOS)** between India and Russia was operationalised in January 2026.
+    *   This foundational military cooperation agreement allows for the **reciprocal use of each other's bases and ports** for supplies, repair, and fuel during joint exercises, training, and Humanitarian Assistance and Disaster Relief (HADR) situations.
+    *   It has been clarified that the agreement **does NOT permit permanent stationing of troops**; rather, it specifies procedures for mutually agreed engagements with a maximum of 3,000 troops.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight:** 🇦🇷 Lionel Messi achieved a record-equalling **hat-trick** (16 goals in World Cups, matching Miroslav Klose) in his 200th international match, leading Argentina to a 3-0 victory against Algeria in the FIFA World Cup! ⚽️ Additionally, Emirates NBD completed a landmark investment in RBL Bank, marking the **largest ever foreign direct investment and equity fundraise in India's banking sector**. 🏦
+
+*   **Highlight:** ⚽️ **Lionel Messi** created history by scoring a hat-trick for Argentina, equalling Miroslav Klose's all-time record of **16 goals at World Cups** and becoming the first player to feature in **six World Cup tournaments**.
