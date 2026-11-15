@@ -1,70 +1,80 @@
 # 📰 Daily UPSC Master-Brief
+
 ## 📝 The Hindu Editorial Analysis
-*   **Topic:** Water Security for a Viksit Bharat
-*   **Context:** India is facing significant water challenges, exacerbated by climate change and population growth, impacting agricultural, industrial, and domestic needs. The editorial discusses the imperative of achieving water security for India to become a developed nation by 2047.
+
+*   **Topic:** 🏦 RBI's Growing Fiscal Role & Federalism Concerns
+*   **Context:** The Reserve Bank of India (RBI) approved a record ₹2.87 lakh crore surplus transfer to the Union government for FY26, highlighting its expanding financial footprint.
 *   **Key Takeaways:**
-    *   **Holistic Approach:** The need for a comprehensive and integrated water resource management strategy, moving beyond traditional supply-side solutions to embrace demand-side management.
-    *   **Decentralization & Community:** Emphasizes local-level planning and community participation, particularly involving women's self-help groups (SHGs), to ensure equitable and efficient water use.
-    *   **Data & Technology:** Highlights the importance of real-time data from hydro-met stations, advanced monitoring, and satellite imagery for effective planning and addressing water quality issues.
-    *   **Inter-State Cooperation:** Calls for improved coordination and consensus-building among States for transboundary river management and dispute resolution.
-    *   **Financial & Policy Support:** Stresses the need for adequate financial allocations, policy reforms, and infrastructure development to support water conservation, efficient irrigation, and wastewater treatment.
+    *   The **RBI's balance sheet grew by 20.6% to ₹91.97 lakh crore by March 2026**, with gross income rising over 26%, underscoring its increasing financial significance.
+    *   This trend raises concerns about the **independence of the central bank** and the potential for its role to become increasingly "fiscalised" in supporting government finances.
+    *   Reserve management decisions, including gold sales and foreign-currency asset management, now significantly impact fiscal revenues.
+    *   A critical "federal blind spot" is identified: these large non-tax revenues accrue solely to the Union government and are **excluded from the divisible pool shared with States** via Finance Commission formulas, exacerbating fiscal centralisation.
+
+*   **Topic:** ⚽ The World Cup: Sportswashing and the Reality of Power
+*   **Context:** Recent books analyze how the FIFA World Cup has become entwined with global power dynamics, politics, and the phenomenon of "sportswashing."
+*   **Key Takeaways:**
+    *   Major sporting events are increasingly **exploited for political and economic agendas**, exemplified by historical instances like Mussolini in 1938 and recent hosts like Qatar (2022) and Russia (2018).
+    *   The concept of **"sportswashing"** is highlighted, where autocratic regimes use prestigious events to enhance their international image despite human rights concerns.
+    *   The growing commercialisation, rising ticket prices, and expansion of teams (e.g., to 48 teams) risk diluting the sport's quality and fan experience, prioritizing revenue over the "purity of the game."
 
 ## 🏛️ Polity & Governance
-*   **Current Issue 1:** 🏫 L-G Orders City-wide Audit of Delhi Schools for POCSO Compliance
+
+*   **Current Issue:** ⚖️ Uniform Civil Code (UCC) in Madhya Pradesh
 *   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive city-wide audit of all schools in Delhi.
-    *   The audit aims to assess compliance with the provisions of the **Protection of Children from Sexual Offences (POCSO) Act**.
-    *   The initiative seeks to identify gaps, implement corrective measures, and ensure zero-tolerance towards child sexual abuse.
-*   **Current Issue 2:** 📜 UCC Bill to be Tabled in M.P. Assembly's Monsoon Session
+    *   Madhya Pradesh Chief Minister announced that a **Bill on Uniform Civil Code (UCC) will be introduced in the upcoming Monsoon Session of the Legislative Assembly** in July.
+    *   A six-member high-level committee, formed in April, is currently drafting the Bill after studying models adopted by other BJP-ruled states like Uttarakhand and Gujarat.
+
+*   **Current Issue:** 🏫 Audit of Delhi Schools for POCSO Compliance
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a **Uniform Civil Code (UCC) Bill** will be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24).
-    *   A six-member high-level committee, formed in April and headed by retired SC Justice Ranjana Prasad Desai, is drafting the bill and has sought public suggestions.
-    *   This follows similar moves by other BJP-ruled States like Uttarakhand and Gujarat.
-*   **Current Issue 3:** 🚶‍♀️ Mamata Marches Against Hawkers' Eviction in West Bengal
+    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a **comprehensive citywide audit of all Delhi schools** to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
+    *   This directive follows concerns about child safety and aims to ensure adherence to guidelines for physical infrastructure, child protection policies, and staff training.
+
+*   **Current Issue:** 📊 Intra-party Dynamics and Anti-Defection Law
 *   **Main Points:**
-    *   TMC chairperson and former Chief Minister Mamata Banerjee led a protest march in Kolkata against the State government's eviction drive targeting hawkers and settlers.
-    *   The TMC described the drive as "illegal, unjust, and inhumane" and pledged to fight for the rights and livelihoods of the workers.
-    *   Chief Minister Suvendu Adhikari defended the anti-encroachment drives, stating that "unchecked encroachment" had become a governance issue, not merely a livelihood issue.
+    *   The Shiv Sena (UBT) convened a parliamentary board meeting amid **speculations of a split**, with reports suggesting six of its nine Lok Sabha MPs might rebel.
+    *   Party leaders met the Lok Sabha Speaker with a "caveat letter," requesting to be heard first if any rival faction approaches, reflecting concerns over the **Anti-defection Law**.
+    *   Separately, four former AIADMK MLAs have submitted responses to the Tamil Nadu Assembly Speaker regarding **disqualification proceedings** initiated after they defied the party whip and joined another political party.
 
 ## 🌍 Geography & Environment
-*   **Current Issue:** 💧 Dhaka's New Padma Barrage to Reshape Regional Water Dynamics
+
+*   **Current Issue:** 📈 Rising Prices of Essential Commodities & Farmer Distress
 *   **Main Points:**
-    *   Bangladesh is undertaking its largest infrastructure project, the Padma barrage, on the Ganges-Padma River.
-    *   The project, with an estimated cost of **Tk 50,443 crore (US $4.2 billion)**, aims to divert 2,900 million cubic metres of water from the Ganges to the Bhairab-Hooghly and revive Kolkata Port.
-    *   This initiative is crucial for Bangladesh to address challenges like reduced river flow, salinity intrusion, and groundwater depletion, but also raises **transboundary water management concerns** with India.
-    *   Environmental impact assessments highlight potential effects on aquatic ecosystems, livelihoods, and biodiversity, emphasizing the need for robust planning and cooperation.
+    *   Prices of essential commodities, particularly **tomatoes, onions, and potatoes (TOP), have risen across almost all States** in the past week.
+    *   Farmers, however, report receiving very low prices for their produce (e.g., ₹2-3 per kg for potatoes), indicating significant **supply chain inefficiencies and distress in the agricultural sector**.
+    *   The issue highlights a disconnect between farm-gate prices and retail prices, with farmers' bodies accusing the government of failing to protect farmers' interests while corporate houses and big traders benefit.
+
+*   **Current Issue:** 🏞️ Over-tourism and Infrastructure Strain in Hill Stations
+*   **Main Points:**
+    *   Shimla experienced a massive influx of **15 lakh vehicles between May 1 and June 15**, leading to significant traffic congestion and strain on civic infrastructure during the summer tourist rush.
+    *   Police have adopted a five-point strategy, including deploying additional personnel and mapping alternative routes, to manage the situation, highlighting challenges in **sustainable tourism and urban planning in ecologically sensitive areas.**
 
 ## 🌐 International Relations (IR)
-*   **Current Issue 1:** 🤝 Modi Meets Trump at G7 Summit; Discusses Seafarers' Safety and Trade Deal
-*   **Main Points:**
-    *   Prime Minister Narendra Modi met U.S. President Donald Trump on the sidelines of the **G7 Summit in Evian, France**.
-    *   PM Modi raised the issue of **safety of Indian seafarers** working on global maritime trade routes, particularly in the Strait of Hormuz, following the recent killing of three Indian seafarers in a U.S. strike.
-    *   Discussions also covered **West Asia peace efforts** and the finalisation of a **U.S.-India trade agreement**, which Trump described as "very close."
-*   **Current Issue 2:** ⚛️ Iran-U.S. Framework Deal Outlines Nuclear Pledge, Financial Relief
-*   **Main Points:**
-    *   A 14-point framework agreement has been reached between Tehran and Washington, expected to be signed in Geneva.
-    *   Iran has pledged **never to produce nuclear weapons** and agreed to down-blend its highly enriched uranium under international supervision.
-    *   The U.S. has agreed to facilitate the **release of frozen Iranian assets**, create a plan for Iran's economic development involving $300 billion, lift sanctions on Iranian products and services, and immediately end the naval blockade.
-*   **Current Issue 3:** 📈 India-U.K. Trade Deal to Take Effect from July 15
-*   **Main Points:**
-    *   The comprehensive trade agreement between India and the United Kingdom will officially come into effect from **July 15, 2026**.
-    *   The deal involves **tariff reductions** on various products and services, aiming to significantly boost bilateral trade and investment between the two nations.
 
-## 💰 Economy
-*   **Current Issue:** 🏦 RBI's Expanding Fiscal Role and Implications for Financial Stability
+*   **Current Issue:** 🤝 India-Russia Logistics Support Agreement (RELOS) Operationalized
 *   **Main Points:**
-    *   The RBI's balance sheet has grown substantially, reaching **₹72.87 lakh crore** for 2025-26, highlighting its significant fiscal contributions to the government.
-    *   The central bank manages large foreign exchange reserves, intervenes in markets, and earns substantial income, transferring considerable **dividends** to the government.
-    *   This growing fiscal role raises questions about the **RBI's independence** and potential conflicts between monetary policy and fiscal needs.
-    *   The article discusses the implications for **financial stability**, liquidity management, and the overall macroeconomic framework, emphasizing the need for clear guidelines and transparency.
+    *   The **Reciprocal Exchange of Logistics Agreement (RELOS)** between India and Russia was operationalized in January, defining procedures for mutual logistical support.
+    *   The agreement allows for **reciprocal use of each other's bases and ports for supplies, repair, and fuel** during activities like joint exercises, training, and Humanitarian Assistance and Disaster Relief (HADR).
+    *   Crucially, officials clarify that **RELOS does not provide for the permanent stationing of troops** by either country on the other's territory. India has similar LSAs with nine other nations.
 
-## 🔬 Science & Technology
-*   **Current Issue:** 🌌 Universe's Expansion Still Accelerating, Researchers Confirm
+*   **Current Issue:** 🇺🇸🇮🇷 Iran-U.S. Framework Deal on Nuclear Pledge and Sanctions Relief
 *   **Main Points:**
-    *   A new study by researchers at the Harvard & Smithsonian Center for Astrophysics reinforces earlier findings that the universe's expansion is **still accelerating**.
-    *   The study used **Type Ia supernovae** as "standard candles" to measure distances, confirming the continued acceleration.
-    *   This phenomenon is attributed to **dark energy**, a mysterious force believed to constitute about 68% of the universe's total energy density.
+    *   A **14-point framework agreement** between Iran and the U.S. has been published, outlining Iran's pledge never to produce nuclear weapons and the U.S.'s commitment to **financial relief**.
+    *   The U.S. will facilitate the **release of frozen Iranian assets and lift sanctions** on Iranian crude oil exports, petroleum products, banking, insurance, and transportation.
+    *   This deal is expected to remove restrictions on tankers carrying Iranian oil and allow access to international banking and insurance systems, with the agreement potentially to be signed in Geneva soon.
+
+*   **Current Issue:** 🇬🇧🇮🇳 India-U.K. Trade Deal & Bilateral Meetings
+*   **Main Points:**
+    *   The **India-U.K. trade deal is set to take effect from July 15**, indicating significant progress in bilateral economic relations.
+    *   On the sidelines of the G7 Summit, **PM Modi met U.S. President Trump**, discussing the safety of Indian seafarers (following a recent incident off Oman) and stressing the importance of keeping the Strait of Hormuz open.
+    *   Trump affirmed that the U.S. and India are "very close" to finalising a trade agreement and praised Modi's efforts towards peace in West Asia.
+
+*   **Current Issue:** 🇺🇸 Pacific Command Renaming & Geopolitics
+*   **Main Points:**
+    *   The Pentagon has **restored the name of the U.S. Indo-Pacific Command to the U.S. Pacific Command**, reversing a 2018 decision.
+    *   While the name change acknowledges "deep historical roots," the **command's area of responsibility, stretching from the western part of India to America's Pacific coastline, remains unchanged**.
 
 ## 🏏 Sports & Miscellaneous
-*   **Highlight 1:** 🚗 Renault Duster Is Back! Price starting at **₹10.49L** with a 7-year warranty, turbo-charged engine (163 ps/280Nm torque), and dual OpenR screens with Google built-in. (Page 1)
-*   **Highlight 2:** 🏏 Deepti Sharma's stellar performance in Women's T20 World Cup, becoming the world's highest wicket-taker in T20Is with 167 wickets and a match-winning five-wicket haul against Pakistan. (Page 21)
+
+*   **Highlight:** 🚗 **Renault Duster's Relaunch** with a starting price of ₹10.49L, featuring a turbo-charged 163 ps engine, dual OpenR screens with Google built-in, and a 7-year warranty. (Significant automobile sector news for current affairs)
+*   **Highlight:** ⚽ **FIFA World Cup 2026** highlights included Lionel Messi's dazzling hat-trick for Argentina, Erling Haaland's goals for Norway, and Norway fielding three sons of former World Cup players in the same match – a first in World Cup history.
+*   **Highlight:** 🏏 In Women's T20 World Cup, India's Deepti Sharma rediscovered her form with a match-winning five-wicket haul against Pakistan, making her the world's highest wicket-taker in T20Is.
