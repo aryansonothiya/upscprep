@@ -2,79 +2,80 @@
 
 ## 📝 The Hindu Editorial Analysis
 
-*   **Topic:** 🏦 RBI's Growing Fiscal Role & Federalism Concerns
-*   **Context:** The Reserve Bank of India (RBI) approved a record ₹2.87 lakh crore surplus transfer to the Union government for FY26, highlighting its expanding financial footprint.
+*   **Topic:** 📊 **Leveraging Health Data for Policy & Action**
+*   **Context:** The editorial discusses the critical need for India to move beyond merely collecting health data to effectively utilizing it for evidence-based policy formulation and timely interventions. This is especially relevant in light of the National Family Health Survey (NFHS) and other national health data collection efforts.
 *   **Key Takeaways:**
-    *   The **RBI's balance sheet grew by 20.6% to ₹91.97 lakh crore by March 2026**, with gross income rising over 26%, underscoring its increasing financial significance.
-    *   This trend raises concerns about the **independence of the central bank** and the potential for its role to become increasingly "fiscalised" in supporting government finances.
-    *   Reserve management decisions, including gold sales and foreign-currency asset management, now significantly impact fiscal revenues.
-    *   A critical "federal blind spot" is identified: these large non-tax revenues accrue solely to the Union government and are **excluded from the divisible pool shared with States** via Finance Commission formulas, exacerbating fiscal centralisation.
+    *   India has a wealth of health data, but its utility is hampered by issues like lack of timely release, inconsistency, and insufficient analysis.
+    *   Effective data utilization can identify patterns, assess program impact, and guide resource allocation in areas like nutrition, maternal-child health, and disease prevention.
+    *   There is a need for a robust institutional framework to ensure data quality, promote inter-sectoral collaboration, and encourage researchers and policymakers to use available data.
+    *   Reliable, frequently updated, and disaggregated health data are crucial for achieving "Viksit Bharat" goals and addressing critical issues like malnutrition, anaemia, and non-communicable diseases.
 
-*   **Topic:** ⚽ The World Cup: Sportswashing and the Reality of Power
-*   **Context:** Recent books analyze how the FIFA World Cup has become entwined with global power dynamics, politics, and the phenomenon of "sportswashing."
+*   **Topic:**  geopolitical 🤝 **Strategic Empathy in U.S. Foreign Policy**
+*   **Context:** The editorial analyzes remarks made by a U.S. Senator (likely Rubio, given the title) regarding China, India, and the U.S.'s approach to global alliances. It delves into the concept of "strategic empathy" in foreign relations, particularly concerning the Indo-Pacific.
 *   **Key Takeaways:**
-    *   Major sporting events are increasingly **exploited for political and economic agendas**, exemplified by historical instances like Mussolini in 1938 and recent hosts like Qatar (2022) and Russia (2018).
-    *   The concept of **"sportswashing"** is highlighted, where autocratic regimes use prestigious events to enhance their international image despite human rights concerns.
-    *   The growing commercialisation, rising ticket prices, and expansion of teams (e.g., to 48 teams) risk diluting the sport's quality and fan experience, prioritizing revenue over the "purity of the game."
+    *   "Strategic empathy" involves understanding an adversary's motivations and vulnerabilities to craft more effective policy, rather than just dismissing their actions.
+    *   The U.S. faces a challenge in balancing its alliances and commitments, especially when allies (like India) maintain relations with other powers (like Russia or China).
+    *   There's a debate on whether the U.S. should tolerate India's multi-alignment or push for clearer alignment, considering India's strategic autonomy and historical relationships.
+    *   The article suggests that for India, deep engagement with Russia on defence and energy is driven by strategic necessity and cost-effectiveness, which the U.S. must empathetically understand.
+
+*   **Topic:** 💧 **Water Security for a Viksit Bharat**
+*   **Context:** This opinion piece highlights water as a fundamental pillar for India's development goals, particularly the vision of "Viksit Bharat," and discusses the challenges and strategies for ensuring comprehensive water security.
+*   **Key Takeaways:**
+    *   India faces significant water stress due to population growth, urbanization, climate change, and inefficient water management practices.
+    *   The Jal Jeevan Mission and Atal Bhujal Yojana are critical government initiatives aimed at providing safe drinking water and improving groundwater management.
+    *   Integrated Water Resource Management (IWRM) is essential, encompassing watershed development, rainwater harvesting, rejuvenation of traditional water bodies, and efficient irrigation.
+    *   Achieving water security requires a multi-faceted approach involving government, local communities, scientific research, and advanced technologies to ensure sustainable and equitable water access for all.
 
 ## 🏛️ Polity & Governance
 
-*   **Current Issue:** ⚖️ Uniform Civil Code (UCC) in Madhya Pradesh
+*   **Current Issue:** ⚖️ **Uniform Civil Code (UCC) in Madhya Pradesh**
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister announced that a **Bill on Uniform Civil Code (UCC) will be introduced in the upcoming Monsoon Session of the Legislative Assembly** in July.
-    *   A six-member high-level committee, formed in April, is currently drafting the Bill after studying models adopted by other BJP-ruled states like Uttarakhand and Gujarat.
+    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the Uniform Civil Code (UCC) will be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24).
+    *   A six-member high-level committee, formed in April and headed by retired Supreme Court judge Justice Ranjana Prasad Desai, is drafting the Bill and has sought public suggestions.
+    *   This move follows other BJP-ruled States like Uttarakhand and Gujarat, and Assam, which have either implemented or passed UCC Bills, indicating a growing national push for the code.
 
-*   **Current Issue:** 🏫 Audit of Delhi Schools for POCSO Compliance
+*   **Current Issue:** 👧 **POCSO Compliance Audit for Delhi Schools**
 *   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a **comprehensive citywide audit of all Delhi schools** to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
-    *   This directive follows concerns about child safety and aims to ensure adherence to guidelines for physical infrastructure, child protection policies, and staff training.
+    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all Delhi schools to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
+    *   The audit aims to ensure that child protection committees are functional, staff is sensitised, and appropriate mechanisms are in place to prevent and address sexual abuse.
+    *   This initiative underscores the government's commitment to safeguarding children and creating a safe educational environment.
 
-*   **Current Issue:** 📊 Intra-party Dynamics and Anti-Defection Law
+*   **Current Issue:** 📚 **Errors in Odisha School Textbooks**
 *   **Main Points:**
-    *   The Shiv Sena (UBT) convened a parliamentary board meeting amid **speculations of a split**, with reports suggesting six of its nine Lok Sabha MPs might rebel.
-    *   Party leaders met the Lok Sabha Speaker with a "caveat letter," requesting to be heard first if any rival faction approaches, reflecting concerns over the **Anti-defection Law**.
-    *   Separately, four former AIADMK MLAs have submitted responses to the Tamil Nadu Assembly Speaker regarding **disqualification proceedings** initiated after they defied the party whip and joined another political party.
-
-## 🌍 Geography & Environment
-
-*   **Current Issue:** 📈 Rising Prices of Essential Commodities & Farmer Distress
-*   **Main Points:**
-    *   Prices of essential commodities, particularly **tomatoes, onions, and potatoes (TOP), have risen across almost all States** in the past week.
-    *   Farmers, however, report receiving very low prices for their produce (e.g., ₹2-3 per kg for potatoes), indicating significant **supply chain inefficiencies and distress in the agricultural sector**.
-    *   The issue highlights a disconnect between farm-gate prices and retail prices, with farmers' bodies accusing the government of failing to protect farmers' interests while corporate houses and big traders benefit.
-
-*   **Current Issue:** 🏞️ Over-tourism and Infrastructure Strain in Hill Stations
-*   **Main Points:**
-    *   Shimla experienced a massive influx of **15 lakh vehicles between May 1 and June 15**, leading to significant traffic congestion and strain on civic infrastructure during the summer tourist rush.
-    *   Police have adopted a five-point strategy, including deploying additional personnel and mapping alternative routes, to manage the situation, highlighting challenges in **sustainable tourism and urban planning in ecologically sensitive areas.**
+    *   Odisha Chief Minister Mohan Charan Majhi has directed immediate corrective measures and action against responsible officials following reports of numerous errors in school textbooks for Classes 1 to 8.
+    *   Reports indicate up to 1,678 mistakes, including factual inaccuracies (e.g., Newton described as 'greatest pilot') and incorrect images (e.g., Karnataka Assembly photo for Odisha Assembly).
+    *   A three-member panel will be constituted to probe the matter and recommend action, highlighting concerns about education quality and accountability in textbook publication.
 
 ## 🌐 International Relations (IR)
 
-*   **Current Issue:** 🤝 India-Russia Logistics Support Agreement (RELOS) Operationalized
+*   **Current Issue:** 🇮🇷🤝🇺🇸 **Iran-U.S. Framework Deal on Nuclear Program & Sanctions**
 *   **Main Points:**
-    *   The **Reciprocal Exchange of Logistics Agreement (RELOS)** between India and Russia was operationalized in January, defining procedures for mutual logistical support.
-    *   The agreement allows for **reciprocal use of each other's bases and ports for supplies, repair, and fuel** during activities like joint exercises, training, and Humanitarian Assistance and Disaster Relief (HADR).
-    *   Crucially, officials clarify that **RELOS does not provide for the permanent stationing of troops** by either country on the other's territory. India has similar LSAs with nine other nations.
+    *   A 14-point framework agreement between Tehran and Washington outlines Iran's pledge never to produce nuclear weapons and to maintain the status quo on its nuclear program under IAEA supervision.
+    *   The U.S. has agreed to facilitate the release of frozen Iranian assets, lifting sanctions on Iranian products and services (including crude and banking), and withdrawing forces from 'surrounding areas'.
+    *   Iran, in turn, pledges to restore pre-war traffic through the Strait of Hormuz. The deal, expected to be signed in Geneva, aims to provide financial relief and economic development involving $300 billion for Iran.
 
-*   **Current Issue:** 🇺🇸🇮🇷 Iran-U.S. Framework Deal on Nuclear Pledge and Sanctions Relief
+*   **Current Issue:** 🇮🇳🇺🇸 **Modi-Trump Meeting: Seafarers' Safety, Trade & West Asia**
 *   **Main Points:**
-    *   A **14-point framework agreement** between Iran and the U.S. has been published, outlining Iran's pledge never to produce nuclear weapons and the U.S.'s commitment to **financial relief**.
-    *   The U.S. will facilitate the **release of frozen Iranian assets and lift sanctions** on Iranian crude oil exports, petroleum products, banking, insurance, and transportation.
-    *   This deal is expected to remove restrictions on tankers carrying Iranian oil and allow access to international banking and insurance systems, with the agreement potentially to be signed in Geneva soon.
+    *   During a bilateral meeting on the sidelines of the G7 Summit in Evian, France, PM Modi raised the issue of safety for Indian seafarers working on global maritime trade routes, including the Strait of Hormuz, especially after the killing of three Indian seafarers in a recent U.S. strike.
+    *   PM Modi commended President Trump for efforts to restore peace in West Asia and stressed the importance of keeping the Strait of Hormuz open for global economy.
+    *   Both leaders expressed optimism about finalizing a "very close" India-U.S. trade deal, despite previous delays over tariff policies and finer details.
 
-*   **Current Issue:** 🇬🇧🇮🇳 India-U.K. Trade Deal & Bilateral Meetings
+*   **Current Issue:** 🇮🇳🇬🇧 **India-U.K. Trade Deal Implementation**
 *   **Main Points:**
-    *   The **India-U.K. trade deal is set to take effect from July 15**, indicating significant progress in bilateral economic relations.
-    *   On the sidelines of the G7 Summit, **PM Modi met U.S. President Trump**, discussing the safety of Indian seafarers (following a recent incident off Oman) and stressing the importance of keeping the Strait of Hormuz open.
-    *   Trump affirmed that the U.S. and India are "very close" to finalising a trade agreement and praised Modi's efforts towards peace in West Asia.
+    *   India and the U.K. have announced July 15 as the implementation date for their comprehensive trade deal, aimed at boosting bilateral trade and economic cooperation.
+    *   The agreement seeks to remove tariffs on over 99% of U.K. goods and 90% of Indian goods, easing trade in sectors like automotive, textiles, and services.
+    *   The deal includes provisions for easier movement of professionals, enhanced cooperation in areas like digital trade and investment, and the formation of a 'Strategic Economic Dialogue' to monitor progress.
 
-*   **Current Issue:** 🇺🇸 Pacific Command Renaming & Geopolitics
+## 🌍 Geography & Environment
+
+*   **Current Issue:** 💦 **Water Supply to Mumbai Reservoirs**
 *   **Main Points:**
-    *   The Pentagon has **restored the name of the U.S. Indo-Pacific Command to the U.S. Pacific Command**, reversing a 2018 decision.
-    *   While the name change acknowledges "deep historical roots," the **command's area of responsibility, stretching from the western part of India to America's Pacific coastline, remains unchanged**.
+    *   The article highlights the share of stock in reservoirs supplying water to Mumbai, a critical aspect of urban water management.
+    *   This data is essential for assessing water security for the metropolitan area, especially during pre-monsoon and post-monsoon periods.
+    *   Efficient management of reservoir levels and catchment areas is crucial to ensure adequate water supply for Mumbai's vast population.
 
 ## 🏏 Sports & Miscellaneous
 
-*   **Highlight:** 🚗 **Renault Duster's Relaunch** with a starting price of ₹10.49L, featuring a turbo-charged 163 ps engine, dual OpenR screens with Google built-in, and a 7-year warranty. (Significant automobile sector news for current affairs)
-*   **Highlight:** ⚽ **FIFA World Cup 2026** highlights included Lionel Messi's dazzling hat-trick for Argentina, Erling Haaland's goals for Norway, and Norway fielding three sons of former World Cup players in the same match – a first in World Cup history.
-*   **Highlight:** 🏏 In Women's T20 World Cup, India's Deepti Sharma rediscovered her form with a match-winning five-wicket haul against Pakistan, making her the world's highest wicket-taker in T20Is.
+*   **Highlight:** 🚗 **Renault Duster Re-launch:** The Renault Duster is making a comeback with a starting price of ₹10.49L, featuring a 163 ps turbocharged engine, dual OpenR screens, Google built-in, and a 7-year warranty. (Relevant for Prelims as a business/brand update).
+*   **Highlight:** 🏏 **Deepti Sharma's Stellar Performance:** India's off-spinner Deepti Sharma has become the world's highest wicket-taker in Women's T20Is, showcasing her crucial role in the Indian team, especially with recent match-winning performances.
+*   **Highlight:** ⚽ **World Cup and 'Sportswashing':** The World Cup, while a global spectacle, is increasingly entangled with power, politics, and "sportswashing," as discussed in recent books. This highlights the socio-political dimensions of major sporting events.
