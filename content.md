@@ -1,81 +1,65 @@
 # 📰 Daily UPSC Master-Brief
-
 ## 📝 The Hindu Editorial Analysis
-
-*   **Topic:** 📊 **Leveraging Health Data for Policy & Action**
-*   **Context:** The editorial discusses the critical need for India to move beyond merely collecting health data to effectively utilizing it for evidence-based policy formulation and timely interventions. This is especially relevant in light of the National Family Health Survey (NFHS) and other national health data collection efforts.
+*   **Topic:** 📊 Data-Driven Governance for Effective Policy Making
+*   **Context:** The article "Data must drive action, not just headlines" (Page 6) emphasizes the critical role of robust data systems in informed public policy and good governance, highlighting gaps in current data collection and utilization.
 *   **Key Takeaways:**
-    *   India has a wealth of health data, but its utility is hampered by issues like lack of timely release, inconsistency, and insufficient analysis.
-    *   Effective data utilization can identify patterns, assess program impact, and guide resource allocation in areas like nutrition, maternal-child health, and disease prevention.
-    *   There is a need for a robust institutional framework to ensure data quality, promote inter-sectoral collaboration, and encourage researchers and policymakers to use available data.
-    *   Reliable, frequently updated, and disaggregated health data are crucial for achieving "Viksit Bharat" goals and addressing critical issues like malnutrition, anaemia, and non-communicable diseases.
+    *   India needs to move towards **evidence-based policy-making** through comprehensive and timely data collection.
+    *   Current data often suffers from delays, lack of granularity, and inadequate disaggregation by social groups, hindering effective policy design and evaluation.
+    *   **"Platform thinking"** is crucial, integrating various data sources (demographic, socio-economic, health, environment) for a holistic view.
+    *   Investment in **statistical capacity building** at local levels and ensuring transparency in data release are essential for public trust and accountability.
 
-*   **Topic:**  geopolitical 🤝 **Strategic Empathy in U.S. Foreign Policy**
-*   **Context:** The editorial analyzes remarks made by a U.S. Senator (likely Rubio, given the title) regarding China, India, and the U.S.'s approach to global alliances. It delves into the concept of "strategic empathy" in foreign relations, particularly concerning the Indo-Pacific.
+*   **Topic:** 👨‍👩‍👧‍👦 Demographic Incentives and Welfare Policy
+*   **Context:** The opinion piece "Why A.P.'s incentive for having more children is misplaced" (Page 7) critiques Andhra Pradesh's one-time aid for large families.
 *   **Key Takeaways:**
-    *   "Strategic empathy" involves understanding an adversary's motivations and vulnerabilities to craft more effective policy, rather than just dismissing their actions.
-    *   The U.S. faces a challenge in balancing its alliances and commitments, especially when allies (like India) maintain relations with other powers (like Russia or China).
-    *   There's a debate on whether the U.S. should tolerate India's multi-alignment or push for clearer alignment, considering India's strategic autonomy and historical relationships.
-    *   The article suggests that for India, deep engagement with Russia on defence and energy is driven by strategic necessity and cost-effectiveness, which the U.S. must empathetically understand.
-
-*   **Topic:** 💧 **Water Security for a Viksit Bharat**
-*   **Context:** This opinion piece highlights water as a fundamental pillar for India's development goals, particularly the vision of "Viksit Bharat," and discusses the challenges and strategies for ensuring comprehensive water security.
-*   **Key Takeaways:**
-    *   India faces significant water stress due to population growth, urbanization, climate change, and inefficient water management practices.
-    *   The Jal Jeevan Mission and Atal Bhujal Yojana are critical government initiatives aimed at providing safe drinking water and improving groundwater management.
-    *   Integrated Water Resource Management (IWRM) is essential, encompassing watershed development, rainwater harvesting, rejuvenation of traditional water bodies, and efficient irrigation.
-    *   Achieving water security requires a multi-faceted approach involving government, local communities, scientific research, and advanced technologies to ensure sustainable and equitable water access for all.
+    *   The **one-time aid of ₹1.2 lakh** for families with more than two children in A.P. is seen as a short-sighted approach that fails to address long-term childcare costs.
+    *   Such policies may lead to **unintended demographic consequences** and exacerbate existing challenges like child malnutrition and lack of access to quality education.
+    *   Instead, focus should be on **comprehensive welfare policies** that invest in human capital, healthcare, education, and social protection for all children, irrespective of family size.
+    *   The move contrasts with national and global efforts towards **stabilising population growth** and promoting sustainable development goals.
 
 ## 🏛️ Polity & Governance
-
-*   **Current Issue:** ⚖️ **Uniform Civil Code (UCC) in Madhya Pradesh**
+*   **Current Issue:** 📚 Accountability in Education and Child Protection in Delhi
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the Uniform Civil Code (UCC) will be introduced in the upcoming Monsoon Session of the Legislative Assembly (July 20-24).
-    *   A six-member high-level committee, formed in April and headed by retired Supreme Court judge Justice Ranjana Prasad Desai, is drafting the Bill and has sought public suggestions.
-    *   This move follows other BJP-ruled States like Uttarakhand and Gujarat, and Assam, which have either implemented or passed UCC Bills, indicating a growing national push for the code.
+    *   **L-G orders audit of all Delhi schools for POCSO compliance** (Page 2): Lieutenant-Governor Taranjit Singh Sandhu has ordered a comprehensive citywide audit to assess compliance with the Protection of Children from Sexual Offences (POCSO) Act provisions in all schools. This aims to ensure a safe environment for students.
+    *   **Odisha CM orders action over errors in textbooks** (Page 1): Chief Minister Mohan Charan Majhi has directed immediate corrective measures and action against responsible officials for numerous errors found in school textbooks for Classes 1 to 8. A three-member panel will probe the matter.
 
-*   **Current Issue:** 👧 **POCSO Compliance Audit for Delhi Schools**
+*   **Current Issue:** ⚖️ Judiciary and Enforcement Powers
 *   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all Delhi schools to assess their compliance with the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
-    *   The audit aims to ensure that child protection committees are functional, staff is sensitised, and appropriate mechanisms are in place to prevent and address sexual abuse.
-    *   This initiative underscores the government's commitment to safeguarding children and creating a safe educational environment.
+    *   **High Court declares gaming company directors' arrest illegal** (Page 5): The Karnataka High Court ruled the arrest of Gameskraft Technologies Pvt. Ltd. directors by the Enforcement Directorate (ED) as illegal, stating they were arrested without summons under PMLA and without new material evidence.
+    *   **SC bench says it will look into allegation of Registry misplacing case records** (Page 12): The Supreme Court will examine allegations of its Registry misplacing case records pertaining to a plea challenging a High Court order.
 
-*   **Current Issue:** 📚 **Errors in Odisha School Textbooks**
+*   **Current Issue:** 📱 Digital Rights and Government Regulation
 *   **Main Points:**
-    *   Odisha Chief Minister Mohan Charan Majhi has directed immediate corrective measures and action against responsible officials following reports of numerous errors in school textbooks for Classes 1 to 8.
-    *   Reports indicate up to 1,678 mistakes, including factual inaccuracies (e.g., Newton described as 'greatest pilot') and incorrect images (e.g., Karnataka Assembly photo for Odisha Assembly).
-    *   A three-member panel will be constituted to probe the matter and recommend action, highlighting concerns about education quality and accountability in textbook publication.
+    *   **Delhi HC issues notice to Centre on Telegram ban** (Page 1, 11): The Delhi High Court has issued a notice to the Centre regarding the blanket ban on voice calls over Telegram, raising questions about digital rights and government regulation of communication platforms. The NTA chief cited concerns over misuse for exam cheating before the ban.
 
-## 🌐 International Relations (IR)
-
-*   **Current Issue:** 🇮🇷🤝🇺🇸 **Iran-U.S. Framework Deal on Nuclear Program & Sanctions**
+*   **Current Issue:** 🏦 RBI's Expanding Fiscal Role and Independence
 *   **Main Points:**
-    *   A 14-point framework agreement between Tehran and Washington outlines Iran's pledge never to produce nuclear weapons and to maintain the status quo on its nuclear program under IAEA supervision.
-    *   The U.S. has agreed to facilitate the release of frozen Iranian assets, lifting sanctions on Iranian products and services (including crude and banking), and withdrawing forces from 'surrounding areas'.
-    *   Iran, in turn, pledges to restore pre-war traffic through the Strait of Hormuz. The deal, expected to be signed in Geneva, aims to provide financial relief and economic development involving $300 billion for Iran.
+    *   **The RBI and its growing fiscal role** (Page 10): The RBI's record ₹2.87 lakh crore surplus transfer to the Centre for FY26 highlights its increasing fiscal significance, as earnings from reserve management and foreign assets support government finances. This trend raises questions about the central bank's independence, fiscal centralisation, and the exclusion of such transfers from fiscal devolution to States.
 
-*   **Current Issue:** 🇮🇳🇺🇸 **Modi-Trump Meeting: Seafarers' Safety, Trade & West Asia**
+*   **Current Issue:** 📜 Uniform Civil Code in States
 *   **Main Points:**
-    *   During a bilateral meeting on the sidelines of the G7 Summit in Evian, France, PM Modi raised the issue of safety for Indian seafarers working on global maritime trade routes, including the Strait of Hormuz, especially after the killing of three Indian seafarers in a recent U.S. strike.
-    *   PM Modi commended President Trump for efforts to restore peace in West Asia and stressed the importance of keeping the Strait of Hormuz open for global economy.
-    *   Both leaders expressed optimism about finalizing a "very close" India-U.S. trade deal, despite previous delays over tariff policies and finer details.
-
-*   **Current Issue:** 🇮🇳🇬🇧 **India-U.K. Trade Deal Implementation**
-*   **Main Points:**
-    *   India and the U.K. have announced July 15 as the implementation date for their comprehensive trade deal, aimed at boosting bilateral trade and economic cooperation.
-    *   The agreement seeks to remove tariffs on over 99% of U.K. goods and 90% of Indian goods, easing trade in sectors like automotive, textiles, and services.
-    *   The deal includes provisions for easier movement of professionals, enhanced cooperation in areas like digital trade and investment, and the formation of a 'Strategic Economic Dialogue' to monitor progress.
+    *   **UCC Bill to be tabled in Monsoon Session of M.P.** (Page 3): The Uniform Civil Code (UCC) Bill is expected to be tabled in the upcoming Monsoon Session of the Madhya Pradesh Legislative Assembly.
 
 ## 🌍 Geography & Environment
-
-*   **Current Issue:** 💦 **Water Supply to Mumbai Reservoirs**
+*   **Current Issue:** 💧 Water Security and Transboundary River Projects
 *   **Main Points:**
-    *   The article highlights the share of stock in reservoirs supplying water to Mumbai, a critical aspect of urban water management.
-    *   This data is essential for assessing water security for the metropolitan area, especially during pre-monsoon and post-monsoon periods.
-    *   Efficient management of reservoir levels and catchment areas is crucial to ensure adequate water supply for Mumbai's vast population.
+    *   **Water security is central for a Viksit Bharat** (Page 7): The article highlights the importance of effective water management, including integrated approaches to address challenges like depleting groundwater, inter-sectoral water usage, and community participation for achieving water security in India.
+    *   **Dhaka's new Padma barrage will reshape water power in the region** (Page 22): Bangladesh's proposed Padma barrage, aimed at preserving water in the Padma River and increasing freshwater flows, is expected to have significant environmental and socio-economic impacts on both Bangladesh and India, particularly on the downstream Ganges basin.
+
+## 🌐 International Relations (IR)
+*   **Current Issue:** 🤝 Bilateral Engagements and Trade Deals
+*   **Main Points:**
+    *   **Modi meets Trump, raises safety of Indian seafarers** (Page 1): PM Narendra Modi met U.S. President Trump on the sidelines of the G7 Summit in France, raising concerns over the safety of Indian seafarers, particularly in the Strait of Hormuz, and discussing progress on a trade deal.
+    *   **India-U.K. trade deal to take effect from July 15** (Page 1, 13): The long-awaited India-U.K. bilateral trade agreement is set to become effective from July 15, aiming to boost economic cooperation and reduce tariffs on various goods and services.
+
+*   **Current Issue:** ⚛️ Iran-U.S. Nuclear Deal and Regional Stability
+*   **Main Points:**
+    *   **Iran-U.S. framework deal outlines nuclear pledge, financial relief** (Page 1, 14): A 14-point framework agreement between Tehran and Washington is expected to be signed, involving Iran's pledge never to produce nuclear weapons and maintaining a status quo on its nuclear programme, while the U.S. facilitates the release of frozen Iranian assets and outlines a plan for Iran's economic development. This could also remove restrictions on oil tankers and unlock banking access.
+
+*   **Current Issue:** 🛡️ Defence Cooperation and Strategic Autonomy
+*   **Main Points:**
+    *   **What does the India-Russia logistics agreement allow?** (Page 10): The India-Russia Reciprocal Exchange of Logistics Agreement (RELOS), operationalised in January, defines procedures for reciprocal use of military bases, ports, and airfields for supplies, repair, and fuel during joint exercises, training, and humanitarian missions. It does not permit permanent stationing of troops.
 
 ## 🏏 Sports & Miscellaneous
-
-*   **Highlight:** 🚗 **Renault Duster Re-launch:** The Renault Duster is making a comeback with a starting price of ₹10.49L, featuring a 163 ps turbocharged engine, dual OpenR screens, Google built-in, and a 7-year warranty. (Relevant for Prelims as a business/brand update).
-*   **Highlight:** 🏏 **Deepti Sharma's Stellar Performance:** India's off-spinner Deepti Sharma has become the world's highest wicket-taker in Women's T20Is, showcasing her crucial role in the Indian team, especially with recent match-winning performances.
-*   **Highlight:** ⚽ **World Cup and 'Sportswashing':** The World Cup, while a global spectacle, is increasingly entangled with power, politics, and "sportswashing," as discussed in recent books. This highlights the socio-political dimensions of major sporting events.
+*   **Highlight:** ⚽ **Lionel Messi scored a dazzling hat-trick** for Argentina against Algeria, equalling Miroslav Klose's all-time record of 16 goals at World Cups and becoming the first player to feature in six World Cup tournaments (Page 1, 17).
+*   **Highlight:** 🏊 **Srihari Nataraj broke his own 50m backstroke national record** at the National Aquatics in Ahmedabad (Page 18).
+*   **Highlight:** 🏏 **Deepti Sharma became the world's highest wicket-taker in T20Is** after a match-winning five-wicket haul against Pakistan in the Women's T20 World Cup (Page 21).
