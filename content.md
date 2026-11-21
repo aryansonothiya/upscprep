@@ -2,95 +2,76 @@
 
 ## 📝 The Hindu Editorial Analysis
 
-*   **Topic:** 📊 **Health Data for Policy-Making**
-*   **Context:** The editorial discusses the critical need for better data governance and utilization of health data to inform public policy, rather than merely making headlines. It highlights issues with data collection, accessibility, and analysis in India.
+*   **Topic:** 🏦 **The RBI and its growing fiscal role**
+*   **Context:** The Reserve Bank of India (RBI) approved a record ₹2.87 lakh crore surplus transfer to the Union government for FY26, highlighting the central bank's increasing fiscal significance.
 *   **Key Takeaways:**
-    *   India lacks a robust system for collecting, analyzing, and disseminating health data effectively. Many surveys are irregular or incomplete.
-    *   Good health data is crucial for evidence-based policymaking, identifying vulnerable groups, and evaluating intervention impacts.
-    *   There's a need for a central, independent body to manage health data, ensure transparency, and enforce accountability.
-    *   Addressing social determinants of health (e.g., poverty, education, sanitation) requires granular, district-level data.
+    *   **Fiscal Significance:** The unprecedented transfer, driven by reserve management and foreign asset earnings, provides significant fiscal space to the government without new taxes or borrowing.
+    *   **Central Bank Independence:** Raises questions about the evolving relationship between the central bank and fiscal policy, and maintaining RBI's autonomy amid increasing fiscal contributions.
+    *   **Fiscal Federalism:** The surplus transfer is a non-tax revenue for the Union government and is not part of the divisible pool shared with States, indirectly supporting fiscal centralisation.
+    *   **Evolving Role:** The RBI is transitioning from primarily a guardian of monetary stability to an important source of fiscal capacity, intertwining monetary institutions and fiscal outcomes.
 
-*   **Topic:** 🇺🇸🇮🇳 **The Limits of Strategic Empathy in India-US Relations**
-*   **Context:** The piece analyzes recent US remarks regarding India's foreign policy stances and highlights the challenges of achieving true "strategic empathy" between the two nations, especially on issues where their interests diverge.
+*   **Topic:** 🧑‍⚕️ **Health data must drive action, not just headlines**
+*   **Context:** The article discusses the need for effective utilisation of health data to inform policy and interventions, moving beyond mere collection and reporting of statistics.
 *   **Key Takeaways:**
-    *   US policymakers sometimes misinterpret India's strategic autonomy as a lack of alignment, particularly concerning Russia or China.
-    *   "Strategic empathy" requires understanding the historical, geographical, and geopolitical compulsions of another nation.
-    *   India's foreign policy is shaped by its diverse neighborhood, economic needs, and historical non-alignment, which may not always align with US expectations.
-    *   For a robust partnership, both nations need to acknowledge and respect differing perspectives without seeking to impose their own.
+    *   **Gap between Data & Action:** Despite significant health data collection efforts (e.g., NFHS, NSSO, Census), there's often a disconnect between data availability and its translation into actionable policy.
+    *   **Targeted Interventions:** Comprehensive and disaggregated health data can help identify specific populations and regions facing health challenges, enabling precise policy interventions.
+    *   **Inter-sectoral Linkages:** Health outcomes are influenced by various factors (e.g., sanitation, education, poverty); integrated data analysis can highlight these linkages for holistic policy-making.
+    *   **Accountability & Transparency:** Robust data governance, public dashboards, and regular impact assessments are crucial to ensure transparency, accountability, and adaptive policy adjustments.
 
 ## 🏛️ Polity & Governance
 
-*   **Current Issue:** ⚖️ **Uniform Civil Code (UCC) in Madhya Pradesh**
+*   **Current Issue:** ⚖️ **UCC Bill to be tabled in Monsoon Session of M.P. Assembly in July, says CM**
 *   **Main Points:**
-    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the UCC will be introduced in the upcoming Monsoon Session of the Legislative Assembly, slated for July 20-24.
-    *   A six-member high-level committee, formed in April and headed by retired Supreme Court judge Justice Ranjana Prasad Desai, is drafting the Bill.
-    *   The public was invited to share suggestions on a government portal.
-    *   MP aims to follow Uttarakhand and Gujarat, which have already implemented a UCC, and Assam, which passed a UCC Bill in May.
+    *   Madhya Pradesh Chief Minister Mohan Yadav announced that a Bill on the **Uniform Civil Code (UCC)** will be introduced in the upcoming Monsoon Session of the Legislative Assembly, slated from July 20.
+    *   A six-member high-level committee formed in April is working on the draft Bill, which is expected to be passed in the same session.
+    *   The public was invited to share suggestions on the UCC through a recently launched government portal.
+    *   The panel is also studying models adopted by other BJP-ruled States like Uttarakhand and Gujarat that have implemented UCC.
 
-*   **Current Issue:** 🏫 **POCSO Compliance Audit for Delhi Schools**
+*   **Current Issue:** 👧 **L-G orders audit of all Delhi schools for POCSO compliance**
 *   **Main Points:**
-    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a comprehensive citywide audit of all Delhi schools (government, private, aided) to ensure compliance with the Protection of Children from Sexual Offences (POCSO) Act.
-    *   The audit aims to identify gaps in infrastructure, safety protocols, and awareness mechanisms.
-    *   Recommendations include creating child protection committees, installing CCTV cameras, training staff, and raising awareness among students and parents.
+    *   Lieutenant-Governor (L-G) Taranjit Singh Sandhu has ordered a **comprehensive citywide audit of all Delhi schools** to assess compliance with the provisions of the **Protection of Children from Sexual Offences (POCSO) Act**.
+    *   The audit aims to ensure robust safety measures and child protection mechanisms are in place across all educational institutions in the capital.
 
-*   **Current Issue:** 📱 **Telegram Ban & Freedom of Speech**
+*   **Current Issue:** 🏘️ **Nicobarese tribal councils oppose draft election rules**
 *   **Main Points:**
-    *   The Delhi High Court has issued a notice to the Centre regarding Telegram's plea against the blanket ban on its services, arguing it violates freedom of speech and expression.
-    *   Telegram stated it regularly removes unlawful content and engages with authorities.
-    *   The National Testing Agency (NTA) chief claimed Telegram was warned multiple times about the misuse of its platform for sharing sensitive exam material before the ban.
-
-*   **Current Issue:** 📚 **Errors in Odisha School Textbooks**
-*   **Main Points:**
-    *   Odisha Chief Minister Mohan Charan Majhi ordered immediate corrective measures and action against officials responsible for numerous errors (reportedly 1,678) in recently issued textbooks for Classes 1 to 8.
-    *   Examples included Newton being called the "greatest pilot" and a photo of Karnataka Assembly used for Odisha.
-    *   A three-member panel will be constituted to probe the matter and recommend action.
+    *   Tribal councils from Nicobarese island groups have rejected the Election Commission-conducted polls for their self-governance system, fearing it could introduce "election rivalry, division, and conflict."
+    *   They assert that their **existing forms of self-governance** are "traditional, time-tested, and consensus-based" and align more closely with democratic values.
+    *   The draft rules notified by the Andaman and Nicobar Islands administration in May aimed to reorganise villages into constituencies, prepare voter rolls, and reserve leadership positions for women, along with five-yearly elections.
 
 ## 🌍 Geography & Environment
 
-*   **Current Issue:** 🌊 **Padma Barrage and Transboundary Water Politics**
+*   **Current Issue:** 💧 **Water security is central for a Viksit Bharat** (Editorial on P6)
 *   **Main Points:**
-    *   Bangladesh is constructing the Padma Multipurpose Barrage, 180 km downstream of the Farakka Barrage, aimed at addressing water scarcity in the dry season and increasing water flow in the lean season.
-    *   The project, with Indian financial and technical support, aims to divert water from the Ganga to the Bhairab-Rupsha river system, crucial for the Sundarbans.
-    *   Concerns exist about its potential environmental impact on the lower Gangetic delta, particularly regarding sedimentation, erosion, and ecosystem health.
-    *   India and Bangladesh emphasize cooperation, but transboundary river management remains a sensitive issue with potential regional implications for energy and ecology.
-
-*   **Current Issue:** 💧 **Water Security for 'Viksit Bharat'**
-*   **Main Points:**
-    *   Water security is identified as a central component for achieving the vision of 'Viksit Bharat' by 2047, requiring a paradigm shift from conventional water management.
-    *   Focus areas include aquifer mapping, rejuvenation of water bodies, increased farmer participation in irrigation, and integrating local and traditional water management practices.
-    *   The 'Jal Jeevan Mission' and 'Amrit Sarovar' initiative are key steps, but decentralized governance and community participation are essential for long-term sustainability.
+    *   The article emphasizes that achieving **"Viksit Bharat"** (Developed India) requires a strong focus on water security, particularly in the context of climate change and increasing demand.
+    *   **Integrated Water Management:** Stresses the need for comprehensive strategies that include efficient water use, rainwater harvesting, groundwater recharge, and protection of water bodies.
+    *   **Challenges:** Highlights issues like groundwater depletion, water pollution, and inefficient irrigation practices that threaten India's water resources.
+    *   **Policy Recommendations:** Advocates for community participation, technological solutions, and robust policy frameworks to ensure equitable and sustainable access to water across all sectors.
 
 ## 🌐 International Relations (IR)
 
-*   **Current Issue:** 🇮🇳🇺🇸 **Modi-Trump Meet & Indian Seafarers' Safety**
+*   **Current Issue:** 🤝 **India, U.K. announce July 15 as trade deal implementation date**
 *   **Main Points:**
-    *   Prime Minister Narendra Modi met US President Donald Trump on the sidelines of the G7 Summit in Evian, France.
-    *   Modi raised the issue of the safety of Indian seafarers, particularly concerning those working on global maritime trade routes, including the Strait of Hormuz, following the killing of three Indian seafarers in a recent US strike off Oman.
-    *   Both leaders stressed the importance of keeping the Strait of Hormuz open for global trade and discussed a potential India-US trade deal.
+    *   India and the United Kingdom announced that their **free trade agreement (FTA)** will officially take effect from **July 15**.
+    *   The FTA aims to boost bilateral trade and investment by lowering tariffs, simplifying customs procedures, and addressing non-tariff barriers.
+    *   The agreement includes provisions for goods, services, investments, intellectual property, and specific sectors like Scotch whisky and Indian textiles.
+    *   Both nations expect the deal to significantly increase economic cooperation and create jobs.
 
-*   **Current Issue:** 🇮🇷🇺🇸 **Iran-US Nuclear Framework Deal**
+*   **Current Issue:** 🇺🇸🇮🇷 **Iran-U.S. framework deal outlines nuclear pledge, financial relief**
 *   **Main Points:**
-    *   A 14-point framework agreement has reportedly been reached between Tehran and Washington, expected to be signed in Geneva soon.
-    *   The deal outlines Iran's pledge not to produce nuclear weapons and to down-blend highly enriched uranium under IAEA supervision.
-    *   In return, the US has agreed to facilitate the release of frozen Iranian assets, create a plan for Iran's economic development ($300 billion), lift sanctions on Iranian products (including crude and banking), and immediately lift the naval blockade.
+    *   A 14-point framework agreement between Iran and the U.S. is expected to be signed, potentially in Geneva, outlining a path towards de-escalation.
+    *   **U.S. Pledges:** Commitments to lift sanctions on Iranian products (including crude oil and banking), immediate lifting of naval blockade, and withdrawal of forces from 'surrounding areas'.
+    *   **Iran Pledges:** Agreement to restore pre-war traffic through the Strait of Hormuz and a pledge **never to produce nuclear weapons**, alongside maintaining a status quo on its nuclear programme under supervision.
+    *   **Economic Relief:** The U.S. will facilitate the release of frozen Iranian assets and create a plan for Iran's economic development, involving $300 billion, contingent on progress in negotiations.
 
-*   **Current Issue:** 🇮🇳🇬🇧 **India-UK Trade Deal Implementation**
+*   **Current Issue:** 🇷🇺🇮🇳 **What does the India-Russia logistics agreement allow?**
 *   **Main Points:**
-    *   The India-UK Comprehensive Economic Partnership Agreement (CEPA) is set to take effect from July 15, 2026.
-    *   The deal involves substantial tariff cuts, making 99% of UK exports to India tariff-free by 2030 and 80% of Indian exports to the UK immediately duty-free.
-    *   Key sectors like textiles, agriculture, and automobiles are expected to benefit from increased market access.
-    *   The agreement also includes provisions on services, investment, and intellectual property.
-
-*   **Current Issue:** 🇮🇳🇷🇺 **India-Russia Logistics Agreement**
-*   **Main Points:**
-    *   India and Russia are close to signing a military logistics agreement, enabling mutual access to military facilities for supplies, repairs, and refueling.
-    *   This agreement follows similar pacts India has with the US, France, South Korea, Singapore, and Australia.
-    *   It aims to enhance military interoperability, streamline maintenance, and support exercises.
+    *   The **Reciprocal Exchange of Logistics Agreement (RELOS)** between India and Russia was operationalised in January this year.
+    *   **Purpose:** It is a foundational military cooperation agreement for administrative purposes, enabling reciprocal use of each other's bases and ports for supplies, repair, and fuel.
+    *   **Scope:** Covers joint military exercises, training, humanitarian assistance and disaster relief (HADR) missions, port and repair services, medical support, food, and reciprocal access to military facilities, including airbases and ports.
+    *   **Clarification:** The agreement **does not allow for permanent basing of troops** or assets but facilitates visits and engagements mutually agreed upon by both sides, with a maximum of 3,000 troops during such periods. It is similar to LSAs India has with other countries like the U.S. and France.
 
 ## 🏏 Sports & Miscellaneous
 
-*   **Highlight:** ⚽ **Messi's Record-Breaking Hat-trick in World Cup**
-*   **Details:** Lionel Messi scored a dazzling hat-trick for Argentina against Algeria, equaling Miroslav Klose's all-time record of 16 goals at World Cups. He also became the first player to feature in six World Cup tournaments.
-
-*   **Highlight:** 🏦 **Emirates NBD Landmark Investment in RBL Bank**
-*   **Details:** Emirates NBD completed a significant investment in RBL Bank, marking the largest-ever foreign direct investment and equity fundraise in India's banking sector, strengthening India-UAE partnership and reinforcing global confidence in India.
+*   **Highlight:** ⚽ **Lionel Messi** became the first player to feature in **six FIFA World Cup tournaments** and equalled Miroslav Klose's all-time record of **16 goals** at the World Cup, scoring a hat-trick for Argentina against Algeria.
+*   **Highlight:** 🏦 **Emirates NBD** completed a landmark investment in RBL Bank, marking the largest-ever foreign direct investment and equity fundraise in India's banking sector.
+*   **Highlight:** 🏊‍♂️ Indian swimmer **Srihari Nataraj** broke his own seven-year-old men's **50m backstroke record** at the National aquatics in Ahmedabad.
