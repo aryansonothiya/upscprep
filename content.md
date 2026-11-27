@@ -2,41 +2,86 @@
 
 ## 📝 The Hindu Editorial Analysis
 
-*   **Topic:** 👨‍👩‍👧‍👦 Why A.P.'s incentive for having more children is misplaced
-*   **Context:** Andhra Pradesh has proposed incentives for families with more than two children, including a one-time aid of ₹1.5 lakh for the third child and up to ₹5 lakh for the fifth child. This policy is contrary to national efforts towards population stabilization.
+*   **Topic:** 🏥 Health Data Management & Governance
+*   **Context:** Discussions around health data collection in India and the imperative for this data to be effectively translated into actionable public health policies and improved outcomes.
 *   **Key Takeaways:**
-    *   **Against National Policy:** The policy contradicts India's long-term goal of population stabilization and total fertility rate (TFR) targets (currently 2.0).
-    *   **Misplaced Incentives:** While states like Uttar Pradesh and Assam offer disincentives for larger families, A.P.'s approach could encourage population growth without addressing underlying socioeconomic issues.
-    *   **Socioeconomic Factors:** The Data Point suggests that educational attainment and wealth are significant factors in family size, with poorer and less educated families tending to have more children. A one-time aid cannot offset long-term childcare costs.
-    *   **Childcare Costs & Women's Employment:** Lack of affordable childcare is a major barrier for women's workforce participation. Policies should focus on reducing childcare costs and supporting women's careers, rather than incentivizing more births.
-    *   **Potential for Misuse:** The scheme could be exploited, especially by marginalized communities, for short-term financial gains without improving long-term welfare.
-    *   **Alternative Approaches:** Investments in education, health (especially reproductive health), and economic empowerment (particularly for women) are more effective ways to achieve sustainable population outcomes and improve quality of life.
+    *   India's abundance of health data is often underutilized, leading to "policy paralysis" instead of driving public health interventions.
+    *   Effective health data use requires robust governance, secure infrastructure, trained personnel, and strict privacy protection to ensure equitable health outcomes and disease management.
+    *   The focus should shift from merely collecting data to ensuring its ethical and efficient application for the benefit of citizens, rather than just generating headlines or commercial gains.
+
+*   **Topic:** 💰 RBI's Fiscal Role & Central Bank Independence
+*   **Context:** The Reserve Bank of India's (RBI) record ₹2.87 lakh crore surplus transfer to the Union government for FY26 has sparked debate about its evolving fiscal significance and potential implications for central bank independence.
+*   **Key Takeaways:**
+    *   RBI's rapidly growing balance sheet and substantial transfers to the Centre blur the traditional lines between monetary and fiscal policy, raising questions about institutional distance.
+    *   These transfers generate fiscal space without new taxes or borrowing, but their exclusion from the divisible pool of funds for States leads to indirect fiscal centralisation.
+    *   Decisions on reserve management (e.g., gold sales, foreign currency assets) are increasingly impacting government revenues, making RBI's actions crucial for fiscal outcomes in addition to monetary stability.
+
+*   **Topic:** 👨‍👩‍👧‍👦 Population Policy & Social Welfare
+*   **Context:** Andhra Pradesh's policy offering a one-time aid to families with three or more children is being critiqued as a "misplaced incentive" that fails to address the long-term financial realities of childcare.
+*   **Key Takeaways:**
+    *   A one-time incentive, while seemingly supportive, cannot adequately offset the sustained and increasing costs associated with raising multiple children over many years.
+    *   Such policies may lead to unintended demographic consequences or place additional burdens on families without comprehensive support systems.
+    *   A more effective approach to supporting large families involves long-term investments in social infrastructure, including quality childcare, education, and healthcare, rather than short-term financial aids.
+
+*   **Topic:** 🌊 Transboundary Water Governance & Environment (India-Bangladesh)
+*   **Context:** Bangladesh's plan to build a new Padma barrage downstream of India's Farakka barrage to manage water scarcity has raised environmental and geopolitical concerns.
+*   **Key Takeaways:**
+    *   The Padma barrage aims to secure water for Bangladesh's southwestern and northern regions, which face scarcity partly attributed to the upstream Farakka barrage.
+    *   Critics highlight significant environmental risks, including reduced groundwater recharge, increased salinity in the Sundarbans, riverbank erosion, and impacts on local livelihoods.
+    *   The project could exacerbate geopolitical tensions, especially if China is involved, and questions are raised about the sustainability and effectiveness of large-scale barrages in climate-vulnerable areas, suggesting smaller alternatives.
 
 ## 🏛️ Polity & Governance
 
-*   **Current Issue:** ⚖️ UCC Bill to be tabled in M.P. Assembly; Delhi HC Notice on Telegram Ban
+*   **Current Issue:** ⚖️ **UCC Bill to be Tabled in Madhya Pradesh Assembly**
 *   **Main Points:**
-    *   **Uniform Civil Code (UCC) in Madhya Pradesh:** CM Mohan Yadav announced that a UCC Bill will be introduced in the upcoming Monsoon Session (July 20-24) of the Legislative Assembly. A six-member committee, headed by retired Supreme Court judge Justice Ranjana Prasad Desai, has been working on a draft Bill. This follows Uttarakhand, Gujarat, and Assam, showcasing a trend in BJP-ruled states.
-    *   **POCSO Compliance Audit in Delhi Schools:** L-G Taranjit Singh Sandhu has ordered a comprehensive, city-wide audit of all Delhi schools to ensure compliance with the Protection of Children from Sexual Offences (POCSO) Act. This aims to create a safer environment for children.
-    *   **Telegram Ban and Delhi HC:** The Delhi High Court has issued a notice to the Centre regarding Telegram's plea against a "blanket ban" on its platform. Telegram argues that a ban would violate freedom of speech and expression, while NIA chief has stated Telegram was warned about misuse for illicit activities before the ban. This raises questions about IT Act, data privacy, and balancing national security with fundamental rights.
+    *   Madhya Pradesh Chief Minister Mohan Yadav announced the introduction of a Uniform Civil Code (UCC) Bill during the upcoming Monsoon Session of the Legislative Assembly.
+    *   A six-member committee, formed in April and led by a retired Supreme Court judge, is currently drafting the Bill, incorporating public suggestions.
+    *   If passed, MP would become the third BJP-ruled state, following Uttarakhand and Gujarat, to implement the UCC.
 
-## 🌍 Geography & Environment
-
-*   **Current Issue:** 💧 New Padma Barrage in Bangladesh & India's Biogas Goal
+*   **Current Issue:** 🏫 **L-G Orders Audit of Delhi Schools for POCSO Compliance**
 *   **Main Points:**
-    *   **Bangladesh's Padma Barrage:** Bangladesh is constructing a 2.1-km-long Padma barrage (estimated ₹39,170 crore) to control the Padma river (Ganga in Bangladesh) and address water scarcity. Located 180 km downstream of India's Farakka barrage, this project has significant transboundary implications, as Farakka has historically been a point of contention over water sharing. Experts raise concerns about environmental costs, reduced groundwater recharge, increased salinity in Sundarbans, and impact on livelihoods.
-    *   **India's Compressed Biogas (CBG) Target:** India aims to achieve a 3% blending of compressed biogas (CBG) with natural gas by FY27. This initiative, part of the SATAT (Sustainable Alternative Towards Affordable Transportation) scheme launched in 2018, seeks to boost the use of biofuels, reduce import dependence, manage agricultural waste, and cut greenhouse gas emissions.
+    *   Delhi Lieutenant-Governor Taranjit Singh Sandhu has mandated a comprehensive, citywide audit of all schools to ensure strict adherence to the provisions of the Protection of Children from Sexual Offences (POCSO) Act.
+    *   This initiative aims to bolster child safety measures and create a secure educational environment, preventing sexual abuse across the capital's schools.
+
+*   **Current Issue:** 🗣️ **Nicobarese Tribal Councils Oppose Draft Election Rules**
+*   **Main Points:**
+    *   Tribal councils from three Nicobarese island groups have expressed strong opposition to the administration's proposed draft election rules for their self-governance system.
+    *   They argue that introducing an elected leadership structure would foster "election rivalry, division, and conflict," preferring their traditional, consensus-based governance methods.
+
+*   **Current Issue:** 🚜 **Rural Workers Protest New Jobs Act**
+*   **Main Points:**
+    *   The NREGA Sangharsh Morcha and various agricultural/rural worker unions have declared an indefinite protest starting July 1 against the new Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G) scheme.
+    *   Activists contend that the new scheme, which replaces MGNREGA, only provides for an estimated 42 days of work annually despite promising 125 days, and imposes an "unprecedented burden" on State contributions.
+
+## 🌌 Science & Technology
+
+*   **Current Issue:** 🔭 **Universe's Expansion Still Accelerating, Reconfirmed by Researchers**
+*   **Main Points:**
+    *   A new study utilizing data from Type Ia supernovae has re-affirmed that the universe's expansion is accelerating, driven by the mysterious force known as dark energy.
+    *   This finding challenges recent research that suggested a deceleration in cosmic expansion, reinforcing the current cosmological model.
+    *   Type Ia supernovae, which exhibit consistent luminosity, serve as crucial "cosmic mile markers" for accurately measuring vast interstellar distances and the universe's expansion rate over time.
 
 ## 🌐 International Relations (IR)
 
-*   **Current Issue:** 🤝 Modi-Trump Meet, Iran-U.S. Deal, & India-Russia Logistics Agreement
+*   **Current Issue:** 🤝 **Modi Meets Trump, Addresses Seafarer Safety & Trade Deal**
 *   **Main Points:**
-    *   **Modi-Trump Bilateral on G7 Sidelines:** PM Modi met U.S. President Trump on the sidelines of the G7 Summit in France. Modi raised concerns about the safety of Indian seafarers (referencing recent U.S. strike off Oman) and commended Trump's efforts to restore peace in West Asia. Both leaders emphasized keeping the Strait of Hormuz open. Trump mentioned the U.S. and India are "very close" to finalising a trade deal.
-    *   **Iran-U.S. Framework Nuclear Deal:** A 14-point framework agreement has reportedly been reached between Tehran and Washington, outlining Iran's pledge not to produce nuclear weapons, potential lifting of U.S. sanctions (including crude and banking), and financial relief (involving $300 billion). The deal, expected to be signed in Geneva, also includes Iran restoring pre-war traffic through the Strait of Hormuz and down-blending highly enriched uranium.
-    *   **India-Russia Logistics Agreement (RELOS):** The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia became operational in January. This foundational military cooperation agreement facilitates reciprocal use of bases/ports for supplies, repair, and fuel during joint exercises, training, and HADR missions. It does not permit permanent stationing of troops but allows for logistic support during mutually agreed engagements, including access to Russian facilities in the Arctic.
-    *   **India-U.K. Trade Deal:** The India-U.K. trade deal is set to take effect from July 15. This is a significant development in bilateral economic ties, aiming to boost trade and investment between the two nations.
+    *   Prime Minister Modi raised concerns about the safety of Indian seafarers with U.S. President Trump during their bilateral meeting at the G7 Summit, following recent incidents off Oman.
+    *   Both leaders emphasized the critical importance of maintaining the Strait of Hormuz open for global maritime trade.
+    *   Trump indicated that the U.S. and India are "very close" to finalizing a trade deal and lauded Modi as a "very tough" negotiator.
+
+*   **Current Issue:** ☢️ **Iran-U.S. Framework Deal: Nuclear Pledges & Sanctions Relief**
+*   **Main Points:**
+    *   A 14-point framework agreement between Iran and the U.S., expected to be signed soon, includes Iran's commitment to never produce nuclear weapons and maintain the status quo on its nuclear program under supervision.
+    *   The U.S. has agreed to lift Treasury Department sanctions on Iranian crude oil, petroleum products, and related services (banking, insurance, and transportation), and end its naval blockade.
+    *   In return, Iran will restore pre-war traffic volume through the Strait of Hormuz and facilitate merchant vessel movement.
+
+*   **Current Issue:** 🚢 **India-Russia Logistics Agreement (RELOS) Operationalised**
+*   **Main Points:**
+    *   The Reciprocal Exchange of Logistics Agreement (RELOS) between India and Russia, signed in 2025, officially became operational in January this year.
+    *   The agreement outlines procedures for mutual logistical support, including reciprocal access to bases and ports for supplies, repairs, fuel, joint exercises, and humanitarian missions.
+    *   Crucially, the pact *does not* permit the permanent stationing of troops on each other's territory, clarifying earlier social media speculation.
 
 ## 🏏 Sports & Miscellaneous
 
-*   **Highlight:** ⚽️ **Messi's Record-Breaking Hat-trick!** Lionel Messi scored a dazzling hat-trick for Argentina, equaling Miroslav Klose's all-time record of 16 goals at World Cups. He also became the first player to feature in six World Cup tournaments, showcasing his enduring brilliance. (Prelims: Oldest player to score a hat-trick in World Cup).
-*   **Science Update:** Researchers confirm the **universe's expansion is still accelerating**, rebutting earlier claims of a slowdown. This reinforces the understanding of **dark energy** as the driving force behind this acceleration.
+*   **Highlight:** ⚽ **Lionel Messi Achieves Record-Equalling Hat-trick at FIFA World Cup**
+    *   Argentine captain Lionel Messi scored a stunning hat-trick, matching Miroslav Klose's all-time record of 16 goals in FIFA World Cup history. This was also his 200th international match and he is the first player to feature in six World Cup tournaments.
